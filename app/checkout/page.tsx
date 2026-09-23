@@ -240,9 +240,8 @@ export default function CheckoutPage() {
       {paymentMethod === 'payid' && (
         <div className="p-3 bg-[#17191C] border border-[#2B2F36] rounded-xl text-xs text-stone-300 space-y-2 font-mono">
           <p className="text-[11px] text-amber-200 leading-snug bg-amber-500/10 border border-amber-500/30 rounded-lg px-2.5 py-2">
-            <strong className="text-amber-300 font-bold">PayID pays via Osko</strong> — it clears instantly, so your order gets confirmed fastest.
+            <strong className="text-amber-300 font-bold">PayID pays via Osko</strong> — it clears instantly, so your order gets confirmed fastest. We&apos;ll send our PayID and the payment reference to you by email/WhatsApp after you place the order.
           </p>
-          <CopyField label="PayID" value={SHOP.payId} />
           <CopyField label="Reference" value={orderNumber} />
         </div>
       )}
@@ -250,12 +249,8 @@ export default function CheckoutPage() {
       {paymentMethod === 'bank' && (
         <div className="p-3 bg-[#17191C] border border-[#2B2F36] rounded-xl text-xs text-stone-300 space-y-2 font-mono">
           <p className="text-[11px] text-amber-200 leading-snug bg-amber-500/10 border border-amber-500/30 rounded-lg px-2.5 py-2">
-            <strong className="text-amber-300 font-bold">Use Osko / PayID transfer</strong> where your bank supports it — it clears instantly, so your order gets confirmed fastest.
+            <strong className="text-amber-300 font-bold">Use Osko / PayID transfer</strong> where your bank supports it — it clears instantly, so your order gets confirmed fastest. We&apos;ll send our bank details and the payment reference to you by email/WhatsApp after you place the order.
           </p>
-          <div className="text-stone-400 font-semibold">{SHOP.bankDetails.bankName}</div>
-          <CopyField label="Account Name" value={SHOP.bankDetails.accountName} />
-          <CopyField label="BSB" value={SHOP.bankDetails.bsb} />
-          <CopyField label="Account Number" value={SHOP.bankDetails.accountNumber} />
           <CopyField label="Reference" value={orderNumber} />
         </div>
       )}
