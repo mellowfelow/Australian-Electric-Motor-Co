@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { SITE, CATEGORIES, PRODUCTS, POSTS } from '@/config/site';
+import { categoryHasProducts } from '@/lib/seo';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = `https://${SITE.domain}`;
@@ -18,6 +19,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/shop/`,
       lastModified: now,
       changeFrequency: 'daily',
+      priority: 0.9,
+    },
+    {
+      url: `${baseUrl}/brands/`,
+      lastModified: now,
+      changeFrequency: 'weekly',
       priority: 0.9,
     },
     {
@@ -65,7 +72,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // /search/ is deliberately omitted — it is noindex (see app/search/layout.tsx).
   ];
 
-  const categoryRoutes: MetadataRoute.Sitemap = CATEGORIES.map((c) => ({
+  // Brand views (/shop/brands/, /shop/<brand>/) canonicalise to /brands/… and
+  // are listed there instead — keep them out of the sitemap. Categories with no
+  // products are left out too (they are noindex, see app/shop/[category]/page.tsx).
+  const categoryRoutes: MetadataRoute.Sitemap = CATEGORIES.filter(
+    (c) => c.slug !== 'brands' && !(c.section === 'brands' && c.parent === 'brands') && categoryHasProducts(c),
+  ).map((c) => ({
     url: `${baseUrl}/shop/${c.slug}/`,
     lastModified: now,
     changeFrequency: 'weekly',

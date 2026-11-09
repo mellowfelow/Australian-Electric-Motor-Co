@@ -1,10 +1,12 @@
 import React from 'react';
+import { withOpenGraph } from '@/lib/seo';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { JsonLd } from '@/components/JsonLd';
 import { CompareTool, type CompareGroup, type CompareItem } from '@/components/CompareTool';
 import { PRODUCTS, SHOP, SITE } from '@/config/site';
 
-export const metadata = {
+export const metadata: Metadata = withOpenGraph({
   title: 'Compare Electric Dirt Bikes | Side-by-Side Spec Tool | AEMC',
   description:
     'Compare any two electric dirt bikes side by side — power, top speed, range, battery, weight and price across the full Australian lineup.',
@@ -14,7 +16,7 @@ export const metadata = {
   other: {
     'og:updated_time': new Date().toISOString(),
   },
-};
+}, '/compare/');
 
 const toItem = (p: any): CompareItem => ({
   slug: p.slug,

@@ -6,6 +6,7 @@ import { JsonLd } from '@/components/JsonLd';
 import { SmartImage } from '@/components/SmartImage';
 import { FaqAccordion } from '@/components/FaqAccordion';
 import { PaginatedProductGrid } from '@/components/PaginatedProductGrid';
+import { AllProductLinks } from '@/components/AllProductLinks';
 import { CATEGORIES, PRODUCTS, POSTS, SITE, BRAND_FAQ, BRAND_GUIDES } from '@/config/site';
 import { buildFaqSchema } from '@/lib/faq';
 
@@ -134,6 +135,7 @@ export async function generateMetadata({ params }: BrandPageProps): Promise<Meta
     openGraph: {
       title,
       description,
+      url: `https://${SITE.domain}/brands/${brand.slug}/`,
       images: [{ url: brand.image }],
     },
     other: {
@@ -247,7 +249,10 @@ export default async function BrandIndividualPage({ params }: BrandPageProps) {
 
       {/* Products Grid */}
       {brandProducts.length > 0 ? (
-        <PaginatedProductGrid products={brandProducts} />
+        <>
+          <PaginatedProductGrid products={brandProducts} />
+          <AllProductLinks products={brandProducts} heading={`All ${brand.name} products`} />
+        </>
       ) : (
         <div className="bg-[#17191C] border border-[#2B2F36] rounded-2xl p-10 text-center space-y-4">
           <h2 className="text-xl font-bold text-white uppercase">

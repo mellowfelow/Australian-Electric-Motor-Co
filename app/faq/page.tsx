@@ -1,4 +1,6 @@
 import React from 'react';
+import { withOpenGraph } from '@/lib/seo';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { JsonLd } from '@/components/JsonLd';
 import { FaqAccordion } from '@/components/FaqAccordion';
@@ -6,7 +8,7 @@ import { FAQ, FAQ_FULL_BANK, SITE } from '@/config/site';
 import { buildFaqSchema } from '@/lib/faq';
 import { waLink } from '@/lib/whatsapp';
 
-export const metadata = {
+export const metadata: Metadata = withOpenGraph({
   title: 'Electric Dirt Bike FAQ | Australia | AEMC',
   description: 'Answers on electric dirt bike cost, road-legal rules, kids and balance bikes, charging, warranty and payment options — from Australian Electric Motor Co.',
   alternates: {
@@ -15,7 +17,7 @@ export const metadata = {
   other: {
     'og:updated_time': new Date().toISOString(),
   },
-};
+}, '/faq/');
 
 export default function FAQPage() {
   // The full bank (all themes flattened) feeds the FAQPage schema, so every

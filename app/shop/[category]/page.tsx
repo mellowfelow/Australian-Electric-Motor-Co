@@ -5,8 +5,9 @@ import { SmartImage } from '@/components/SmartImage';
 import { JsonLd } from '@/components/JsonLd';
 import { FaqAccordion } from '@/components/FaqAccordion';
 import { CategoryProductGrid } from './CategoryProductGrid';
+import { AllProductLinks } from '@/components/AllProductLinks';
 import { CATEGORIES, PRODUCTS, POSTS, SITE, getShopCategoryNav, CATEGORY_FAQ, CATEGORY_GUIDES } from '@/config/site';
-import { buildSeoTitle, truncateDescription } from '@/lib/seo';
+import { buildSeoTitle, categoryHasProducts, truncateDescription } from '@/lib/seo';
 import { buildFaqSchema } from '@/lib/faq';
 
 interface CategoryPageProps {
@@ -245,15 +246,24 @@ export async function generateMetadata({ params }: CategoryPageProps) {
   const title = customSeo?.title || buildSeoTitle(category?.name || '');
   const description = truncateDescription(customSeo?.description || category?.description || '');
 
+  // Brand views of the shared [category] route are canonical at /brands/…
+  // (the hub at /brands/, each brand at /brands/<slug>/) — see app/sitemap.ts.
+  const isBrandView = category?.section === 'brands' && category?.parent === 'brands';
+  const canonicalPath =
+    categorySlug === 'brands' ? '/brands/' : isBrandView ? `/brands/${categorySlug}/` : `/shop/${categorySlug}/`;
+  const canonical = `https://${SITE.domain}${canonicalPath}`;
+
   return {
     title,
     description,
     alternates: {
-      canonical: `https://${SITE.domain}/shop/${categorySlug}/`,
+      canonical,
     },
+    ...(category && !categoryHasProducts(category) ? { robots: { index: false, follow: true } } : {}),
     openGraph: {
       title,
       description,
+      url: canonical,
       images: [{ url: category?.image || '/images/home/hero-1.webp' }],
     },
     twitter: {
@@ -434,6 +444,10 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
           categoryNav={getShopCategoryNav()}
         />
       </section>
+
+      {!isBrandsRoot && (
+        <AllProductLinks products={categoryProducts} heading={`All ${category.name} products`} />
+      )}
 
       {/* Related guides — reverse-direction internal links to blog posts (Batch 7) */}
       {guides.length > 0 && (

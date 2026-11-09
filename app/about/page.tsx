@@ -1,10 +1,12 @@
 import React from 'react';
+import { withOpenGraph } from '@/lib/seo';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { JsonLd } from '@/components/JsonLd';
 import { Logo } from '@/components/Logo';
 import { BRAND, CONTACT, SITE, LEGAL } from '@/config/site';
 
-export const metadata = {
+export const metadata: Metadata = withOpenGraph({
   title: 'About Australian Electric Motor Co',
   description: 'How Australian Electric Motor Co supplies electric dirt bikes from Sydney, NSW — our founding story, the brands we carry, and our warranty and support standards.',
   alternates: {
@@ -13,7 +15,7 @@ export const metadata = {
   other: {
     'og:updated_time': new Date().toISOString(),
   },
-};
+}, '/about/');
 
 export default function AboutPage() {
   const aboutSchema = {
@@ -27,6 +29,7 @@ export default function AboutPage() {
       name: BRAND.foundingLocation,
     },
     url: `https://${SITE.domain}/about/`,
+    logo: `https://${SITE.domain}/icon.svg`,
     email: CONTACT.email,
     telephone: CONTACT.phone,
     taxID: `ABN ${LEGAL.abn}`,

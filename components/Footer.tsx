@@ -176,6 +176,11 @@ export function Footer() {
                 </Link>
               </li>
               <li>
+                <Link href="/wholesale/" className="hover:text-[#C87D55] transition">
+                  Wholesale &amp; Fleet Orders
+                </Link>
+              </li>
+              <li>
                 <Link href="/contact/" className="hover:text-[#C87D55] transition">
                   Contact &amp; NSW Workshop
                 </Link>

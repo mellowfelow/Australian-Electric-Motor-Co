@@ -191,7 +191,7 @@ export default async function ProductDetailPage({ params }: ProductPageProps) {
       '@type': 'Product',
       name: product.name,
       description: product.description,
-      image: product.images,
+      image: product.images.map((img: string) => (img.startsWith('http') ? img : `https://${SITE.domain}${img}`)),
       sku: product.slug,
       brand: {
         '@type': 'Brand',

@@ -15,6 +15,7 @@ import {
   FAQ,
   FAQ_SPEAKABLE_IDX,
   TRUSTPILOT_DATA,
+  CONTACT,
 } from '@/config/site';
 import { buildFaqSchema } from '@/lib/faq';
 
@@ -172,6 +173,7 @@ export default function HomePage() {
         name: SITE.name,
       },
       logo: `https://${SITE.domain}/icon.svg`,
+      telephone: CONTACT.phone,
       makesOffer: {
         '@type': 'AggregateOffer',
         priceCurrency: 'AUD',

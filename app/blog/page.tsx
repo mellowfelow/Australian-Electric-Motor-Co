@@ -1,10 +1,12 @@
 import React from 'react';
+import { withOpenGraph } from '@/lib/seo';
+import type { Metadata } from 'next';
 import Link from 'next/link';
 import { SmartImage } from '@/components/SmartImage';
 import { JsonLd } from '@/components/JsonLd';
 import { POSTS, SITE } from '@/config/site';
 
-export const metadata = {
+export const metadata: Metadata = withOpenGraph({
   title: 'Electric Dirt Bike Guides & Trail Tech | AEMC',
   description: 'Buying guides, battery and charging explainers, gear advice and petrol-vs-electric comparisons for electric dirt bike riders in Australia.',
   alternates: {
@@ -13,7 +15,7 @@ export const metadata = {
   other: {
     'og:updated_time': new Date().toISOString(),
   },
-};
+}, '/blog/');
 
 export default function BlogIndexPage() {
   const breadcrumbsSchema = {
