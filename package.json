@@ -10,7 +10,8 @@
     "clean": "next clean",
     "crosscheck": "node scripts/crosscheck.mjs",
     "gen": "node scripts/gen-agent-files.mjs",
-    "prebuild": "node scripts/gen-agent-files.mjs"
+    "prebuild": "node scripts/gen-agent-files.mjs",
+    "indexnow": "node scripts/ping-indexnow.mjs"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
