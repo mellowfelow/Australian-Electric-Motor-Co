@@ -9,28 +9,28 @@ export const ACCESSORIES_CATEGORIES = [
     name: 'Bike Stands & Pit Mats',
     url: '/accessories/bike-stands-tools/',
     description: 'Foldable composite and aircraft-grade aluminum pit stands, heavy-duty lift stands, and FIM-approved environmental absorbent pit mats for electric dirt bikes.',
-    image: 'https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/bike-stands-pit-mats.webp',
   },
   {
     slug: 'storage-transport',
     name: 'Transport & Hitch Carriers',
     url: '/accessories/storage-transport/',
     description: 'Heavy-duty 2-inch hitch bike carriers, anti-scratch soft-loop tie-down straps, and 420D weatherproof heavy-duty outdoor covers designed for e-moto transport.',
-    image: 'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/transport-hitch-carriers.webp',
   },
   {
     slug: 'graphics-plastics-kits',
     name: 'Custom Graphics & Plastics Kits',
     url: '/accessories/graphics-plastics-kits/',
     description: 'Heavy-duty 21 mil ultra-thick vinyl custom graphic decals and durable gloss polypropylene restyle plastics for Surron, Talaria, E-Ride Pro and Stark VARG.',
-    image: 'https://images.unsplash.com/photo-1547038577-da80abbc4f19?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/graphics-plastics-kits.webp',
   },
   {
     slug: 'maintenance-chemicals',
     name: 'E-Moto Cleaning & Chain Lubes',
     url: '/accessories/maintenance-chemicals/',
     description: 'Waterless bike wash sprays, specialized O-ring/X-ring synthetic PTFE off-road chain lubricants, and waterless electrical contact cleaners safe for high-voltage e-dirt bikes.',
-    image: 'https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/maintenance-chemicals.webp',
   },
 ];
 
@@ -51,7 +51,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/polisport-foldable-bike-stand.webp'],
-    shortDescription: 'Patented folding design holds up to 250kg with reinforced bi-material polypropylene and non-slip rubber top pad.',
+    shortDescription: 'Patented folding design holds up to 250kg with reinforced bi-material polypropylene and non-slip rubber top pad. Backed by our 1-Year Australian Warranty.',
     description: 'The award-winning Polisport Foldable Bike Stand is the ideal pit accessory for electric dirt bike owners. Collapses flat in one second with an integrated carrying handle, making it easy to store in the back of your ute, SUV trunk, or garage. Constructed from high-strength reinforced bi-material polypropylene composite capable of supporting heavy bikes up to 250kg without flexing.',
     specs: {
       WeightCapacity: '250 kg (552 lbs) Static Weight Rating',
@@ -77,7 +77,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: false,
     isAccessory: true,
     images: ['/images/products/matrix-concepts-a2-aluminum-pit-stand.webp'],
-    shortDescription: 'TIG-welded 6063 aircraft-grade aluminum, anti-slip oil and chemical resistant top pad with 225kg capacity.',
+    shortDescription: 'TIG-welded 6063 aircraft-grade aluminum, anti-slip oil and chemical resistant top pad with 225kg capacity. Engineered for pro pit crews and track days.',
     description: 'Engineered for pro pit crews and track days. Built from lightweight 1.25" 6063 aircraft-grade rectangular aluminum tubing with precision TIG welds. Features a replaceable extra-wide embossed top pad with oil, brake cleaner, and chemical resistance, plus a heavy-duty lower tool storage tray.',
     specs: {
       Material: '1.25-inch 6063 Aircraft Grade Aluminum Tubing',
@@ -102,7 +102,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/factory-effex-environmental-pit-mat.webp'],
-    shortDescription: 'FIM regulation compliant 200cm x 100cm absorbent fibrous top with impermeable non-slip rubber backing.',
+    shortDescription: 'FIM regulation compliant 200cm x 100cm absorbent fibrous top with impermeable non-slip rubber backing. Backed by our 1-Year Australian Warranty.',
     description: 'Compliant with Australian Motorcycling Federation (MA) and FIM environmental regulations. Protects garage floors, driveways, and pit paddocks from dirt, wash overflow, chain lube overspray, and battery coolant drips. Highly absorbent top nylon fibers soak up fluids while the oil-impermeable rubber backing prevents ground contamination.',
     specs: {
       Compliance: 'FIM Environmental Environmental Regulation & MA Compliant',
@@ -130,7 +130,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/ballards-heavy-duty-e-moto-hitch-carrier.webp'],
-    shortDescription: 'Heavy-duty steel construction with 120kg capacity, integrated loading ramp, and anti-wobble stabilizer for 2" hitch receivers.',
+    shortDescription: 'Heavy-duty steel construction with 120kg capacity, integrated loading ramp, and anti-wobble stabilizer for 2" hitch receivers. Backed by our 2-Year Australian Warranty.',
     description: "Built tough for Australian outback corrugations and highway hauling. Ballard's E-Moto Hitch Carrier mounts securely into standard 50mm (2-inch) square towbar receivers. Rated to carry heavy electric dirt bikes up to 120kg including Surron, Talaria, E-Ride Pro, and Stark VARG with battery installed. Includes an attachable roll-on ramp and heavy-duty anti-tilt hitch clamp.",
     specs: {
       HitchCompatibility: 'Standard 50mm x 50mm (2-inch) Australian Towbar Receiver',
@@ -156,7 +156,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/ballards-ratchet-tie-down-straps.webp'],
-    shortDescription: 'Pair of 38mm wide heavy-duty tie-downs with built-in soft loops to prevent handlebar scratches, 500kg break strength.',
+    shortDescription: 'Pair of 38mm wide heavy-duty tie-downs with built-in soft loops to prevent handlebar scratches, 500kg break strength. Backed by our 1-Year Australian Warranty.',
     description: "The gold standard for securing electric dirt bikes on utes, trailers, and vans. Ballard's 38mm ratchet tie-downs feature integrated soft-loop webbing extensions that wrap safely around delicate 28.6mm/31.8mm alloy handlebars and brake lines without scratching anodizing. Spring-loaded carabiner snap hooks on bottom prevent hook detachment over bumps.",
     specs: {
       WebbingWidth: '38mm (1.5 inch) High-Tensile Polyester Webbing',
@@ -181,7 +181,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: false,
     isAccessory: true,
     images: ['/images/products/e-moto-heavy-duty-weatherproof-storage-cover.webp'],
-    shortDescription: 'Heavy-duty 420D Oxford polyester with PU waterproof coating, lock security grommets, and heat-resistant battery cover panel.',
+    shortDescription: 'Heavy-duty 420D Oxford polyester with PU waterproof coating, lock security grommets, and heat-resistant battery cover panel. Backed by our 1-Year Australian Warranty.',
     description: 'Shield your prized electric dirt bike from intense Australian UV rays, rainstorms, and garage dust. Tailored to fit high-handlebar e-motos with front fenders. Features double-stitched taped seams, windproof under-frame buckle strap, elastic hem cords, and reinforced front lock grommets for chain cable locks.',
     specs: {
       Fabric: 'Heavy-Duty 420D Oxford Polyester with Waterproof Polyurethane (PU) Coating',
@@ -209,7 +209,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/backyard-design-surron-light-bee-custom-graphics-kit.webp'],
-    shortDescription: 'Ultra-thick 21 mil moto-grade vinyl with sub-surface print, FLO air-release technology, and high-tack adhesive.',
+    shortDescription: 'Ultra-thick 21 mil moto-grade vinyl with sub-surface print, FLO air-release technology, and high-tack adhesive. Backed by our 1-Year Fade & Adhesion Warranty.',
     description: 'Transform your Surron Light Bee X with pro factory looks and heavy-duty scratch protection. Printed on sub-surface 21 mil armor vinyl with ultra-high-bond adhesive formulated specifically for low-surface-energy plastics and powder-coated frames. FLO technology micro-groove channels allow trapped air to escape easily during dry DIY installation without air bubbles.',
     specs: {
       Compatibility: 'Surron Light Bee X / Youth / Segway X160 / X260',
@@ -233,7 +233,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/skda-factory-edition-graphics-kit-talaria-sting-mx4-mx5.webp'],
-    shortDescription: 'Designed in Australia by SKDA with 20 mil high-gloss laminate, exact CNC die-cut template, and custom battery wrap.',
+    shortDescription: 'Designed in Australia by SKDA with 20 mil high-gloss laminate, exact CNC die-cut template, and custom battery wrap. Backed by our 1-Year Australian Warranty.',
     description: 'Custom designed on the Australian coast by SKDA, leaders in world-class moto decal engineering. Custom-tailored specifically for the Talaria Sting R, MX4, and MX5 body lines. Features 20 mil ultra-durable laminate that withstands scrubbed tree branches, pressure washer blasts, and rocky roost without lifting.',
     specs: {
       Compatibility: 'Talaria Sting MX3, Sting R MX4 & Pro MX5',
@@ -257,7 +257,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: false,
     isAccessory: true,
     images: ['/images/products/polisport-restyle-front-fender-number-plate-kit.webp'],
-    shortDescription: 'Durable Gloss Polypropylene (DGP) restyle front fender and stadium number plate with universal bracket.',
+    shortDescription: 'Durable Gloss Polypropylene (DGP) restyle front fender and stadium number plate with universal bracket. Backed by our 1-Year Australian Warranty.',
     description: 'Upgrade the skinny OEM front fender on your Surron or Talaria to an aggressive full-size motocross look. Made from Polisport’s proprietary DGP (Durable Gloss Polypropylene) that flexes without snapping during crashes. Includes a stadium front number plate with mounting zip-ties and adapter brackets for inverted MTB/moto forks.',
     specs: {
       PlasticMaterial: 'DGP (Durable Gloss Polypropylene) High-Impact Flex Resin',
@@ -285,7 +285,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/muc-off-e-bike-clean-protect-lube-starter-bundle.webp'],
-    shortDescription: 'Includes 1L Nano Tech Cleaner, 500ml MO-94 Moisture Displacer Spray, 50ml Dry E-Bike Chain Lube, Expanding Sponge & Brush.',
+    shortDescription: 'Includes 1L Nano Tech Cleaner, 500ml MO-94 Moisture Displacer Spray, 50ml Dry E-Bike Chain Lube, Expanding Sponge & Brush. Quality guaranteed by Muc-Off UK.',
     description: 'The ultimate maintenance bundle formulated specifically for the high torque loads and sensitive electronics of modern electric dirt bikes. Muc-Off Nano Tech Cleaner cuts through baked-on clay without harming anodized finishes or rubber seals. MO-94 spray drives out residual moisture from electrical connectors and motor casings, while the Ceramic Dry E-Bike Lube reduces chain friction under massive instant electric torque.',
     specs: {
       KitContents: '1x 1L Nano Tech Bike Cleaner, 1x 500ml MO-94 Spray, 1x 50ml Dry E-Bike Ceramic Lube, 1x Microcell Expanding Sponge, 1x Soft Washing Brush',
@@ -308,7 +308,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: false,
     isAccessory: true,
     images: ['/images/products/motorex-off-road-chain-lube-cleaner-combo.webp'],
-    shortDescription: '500ml Motorex Chain Clean degreaser + 500ml Motorex Off-Road PTFE Chain Lube, O-ring & X-ring safe.',
+    shortDescription: '500ml Motorex Chain Clean degreaser + 500ml Motorex Off-Road PTFE Chain Lube, O-ring & X-ring safe. Handpicked by factory race teams worldwide.',
     description: 'Handpicked by factory race teams worldwide. Motorex Chain Clean removes caked sand, grease, and chain wax in seconds without drying out internal O-rings or X-rings. Motorex Chain Lube Off-Road features high-pressure micro-synthetic PTFE additives that adhere stubbornly to rollers and sprockets even at top motor RPM, resisting water spray and Australian bull-dust.',
     specs: {
       Includes: '1x 500ml Motorex Chain Clean Degreaser + 1x 500ml Motorex Chain Lube Off-Road',
@@ -331,7 +331,7 @@ export const ACCESSORIES_PRODUCTS = [
     featured: true,
     isAccessory: true,
     images: ['/images/products/muc-off-waterless-wash-750ml.webp'],
-    shortDescription: 'Non-sticky, streak-free formula that cleans without water, perfect for sensitive electrical motors and battery bays.',
+    shortDescription: 'Non-sticky, streak-free formula that cleans without water, perfect for sensitive electrical motors and battery bays. Leaves a non-sticky, streak-free protective shine.',
     description: 'Never worry about high-pressure water blasting past electric motor seals, display screens, or battery terminals. Muc-Off Waterless Wash is an advanced spray cleaner that encapsulates dirt and grime on contact so you can wipe it off with a plush microfibre cloth without scratching your frame or graphics. Leaves a non-sticky, streak-free protective shine.',
     specs: {
       BottleSize: '750ml Spray Trigger Bottle',

@@ -9,12 +9,12 @@ const __dirname = path.dirname(__filename);
 const rootDir = path.resolve(__dirname, '..');
 const appDir = path.resolve(rootDir, 'app');
 
-function walkTsx(dir) {
+function walkTsx(dir, exts = ['.tsx']) {
   const out = [];
   for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
     const full = path.join(dir, entry.name);
-    if (entry.isDirectory()) out.push(...walkTsx(full));
-    else if (entry.name.endsWith('.tsx')) out.push(full);
+    if (entry.isDirectory()) out.push(...walkTsx(full, exts));
+    else if (exts.some((ext) => entry.name.endsWith(ext))) out.push(full);
   }
   return out;
 }
@@ -181,8 +181,18 @@ imgSpot('Post', POSTS);
 
 // 9d. No hardcoded remote image URLs left in the app/component source (OG
 // fallbacks, <SmartImage> defaults etc.) — these are latent placeholders.
+// Also scans src/config/*.js, since that's exactly where a real placeholder
+// slipped through undetected before (category images hotlinked to Unsplash,
+// duplicated across unrelated categories) — the app/components-only scan
+// missed it entirely.
 const compDir = path.resolve(rootDir, 'components');
-for (const file of [...walkTsx(appDir), ...(fs.existsSync(compDir) ? walkTsx(compDir) : [])]) {
+const srcConfigDir = path.resolve(rootDir, 'src/config');
+const imageUrlScanFiles = [
+  ...walkTsx(appDir),
+  ...(fs.existsSync(compDir) ? walkTsx(compDir) : []),
+  ...(fs.existsSync(srcConfigDir) ? walkTsx(srcConfigDir, ['.js']) : []),
+];
+for (const file of imageUrlScanFiles) {
   const s = fs.readFileSync(file, 'utf8');
   if (/(images\.unsplash\.com|picsum\.photos)/.test(s)) {
     failures.push(`9d: hardcoded remote image URL in ${path.relative(rootDir, file)}`);

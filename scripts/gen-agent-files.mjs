@@ -94,7 +94,7 @@ Disallow: /thank-you-wholesale/
 Disallow: /admin/
 Sitemap: ${baseUrl}/sitemap.xml
 
-Content-Signal: search=yes, ai-input=yes, ai-train=no
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 
 # AI crawlers — welcome to index product and content pages
 User-agent: GPTBot
@@ -103,13 +103,28 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
+User-agent: OAI-SearchBot
+Allow: /
+
 User-agent: ClaudeBot
 Allow: /
 
-User-agent: Claude-Web
+User-agent: Claude-User
+Allow: /
+
+User-agent: Claude-SearchBot
 Allow: /
 
 User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: MistralAI-Index
 Allow: /
 
 User-agent: Applebot
@@ -128,6 +143,9 @@ User-agent: Google-Extended
 Allow: /
 
 User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-WebIndexer
 Allow: /
 
 User-agent: cohere-ai

@@ -9,28 +9,28 @@ export const RIDING_GEAR_CATEGORIES = [
     name: 'Full-Face MX & E-Moto Helmets',
     url: '/riding-gear/helmets/',
     description: 'ECE 22.06 and Australian AS/NZS 1698 approved full-face motocross and electric dirt bike helmets engineered with MIPS rotational protection, carbon composite shells, and optimal ventilation.',
-    image: 'https://images.unsplash.com/photo-1547038577-da80abbc4f19?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/helmets.webp',
   },
   {
     slug: 'body-armour',
     name: 'Body Armour & Chest Protectors',
     url: '/riding-gear/body-armour/',
     description: 'CE Level 1 & Level 2 certified hard-shell chest roost deflectors, full upper body protection jackets, carbon composite neck braces, and articulated knee/wrist brace systems.',
-    image: 'https://images.unsplash.com/photo-1568772585407-9361f9bf3a87?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/body-armour.webp',
   },
   {
     slug: 'gloves-goggles',
     name: 'Gloves & Off-Road Goggles',
     url: '/riding-gear/gloves-goggles/',
     description: 'Ultra-wide vision motocross goggles with HiPER and Prizm MX lenses, anti-fog Lexan coatings, and high-tensile four-way stretch off-road riding gloves.',
-    image: 'https://images.unsplash.com/photo-1558981403-c5f9899a28bc?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/gloves-goggles.webp',
   },
   {
     slug: 'boots',
     name: 'Enduro & Motocross Boots',
     url: '/riding-gear/boots/',
     description: 'Heavy-duty hinged motocross and enduro boots with biomechanical ankle pivots, replaceable sole systems (SRS), and deep-lugged traction soles for rugged Australian bush trails.',
-    image: 'https://images.unsplash.com/photo-1508873696983-2df5293cb32b?auto=format&fit=crop&w=1200&q=80',
+    image: '/images/categories/boots.webp',
   },
 ];
 
@@ -78,7 +78,7 @@ export const RIDING_GEAR_PRODUCTS = [
     fitmentSize: 'Adult (XS to 2XL)',
     helmetComplianceDisclaimer: 'Complies with Australian Road & Motorsport Standards (ECE 22.06 / AS/NZS 1698)',
     images: ['/images/products/fox-racing-v1-matte-black-helmet.webp'],
-    shortDescription: 'ECE 22.06 certified with MIPS multi-directional rotational impact system and lightweight injection-molded polycarbonate shell.',
+    shortDescription: 'ECE 22.06 certified with MIPS multi-directional rotational impact system and lightweight injection-molded polycarbonate shell. Backed by our 1-Year Australian Warranty.',
     description: 'The Fox Racing V1 delivers top-tier safety and comfort for aggressive electric dirt bike riders. Certified to the strict new ECE 22.06 and Australian AS/NZS 1698 standards, it incorporates the MIPS (Multi-Directional Impact Protection System) to reduce rotational forces during angled impacts. Features an advanced intake and exhaust vent system for maximum airflow in harsh Australian summer heat, plus a moisture-wicking removable and washable comfort liner.',
     specs: {
       SafetyCertification: 'ECE 22.06 & Australian AS/NZS 1698 Approved',
@@ -111,7 +111,7 @@ export const RIDING_GEAR_PRODUCTS = [
     fitmentSize: 'Adult (S to XL)',
     helmetComplianceDisclaimer: 'Complies with Australian Road & Motorsport Standards (ECE 22.06 / AS/NZS 1698)',
     images: ['/images/products/bell-moto-10-spherical-fasthouse-helmet.webp'],
-    shortDescription: 'Spherical MIPS technology, segmented 3K carbon composite shell, and NMR collarbone bumpers for pro competition e-moto.',
+    shortDescription: 'Spherical MIPS technology, segmented 3K carbon composite shell, and NMR collarbone bumpers for pro competition e-moto. The pinnacle of off-road helmet engineering.',
     description: 'The pinnacle of off-road helmet engineering. Developed in collaboration with top factory athletes, the Bell Moto-10 Spherical features a segmented 3K carbon fiber shell and Spherical Technology powered by MIPS—a ball-and-socket design that redirects impact energy away from the brain. Equipped with No Missed Races (NMR) EPP collarbone bumpers to prevent clavicle fractures, Magnefusion magnetic emergency-release cheek pads, and Thermal Exchange Airflow System (T.E.A.S.).',
     specs: {
       SafetyCertification: 'Australian AS/NZS 1698, ECE 22.06 & Snell M2020D',
@@ -144,7 +144,7 @@ export const RIDING_GEAR_PRODUCTS = [
     fitmentSize: 'Adult (XS to 2XL)',
     helmetComplianceDisclaimer: 'Complies with Australian Road & Motorsport Standards (ECE 22.06 / AS/NZS 1698)',
     images: ['/images/products/alpinestars-supertech-sm5-compass-helmet.webp'],
-    shortDescription: 'Thermo-injected polymer shell, engineered patented visor release system, and multiple density EPS collarbone relief.',
+    shortDescription: 'Thermo-injected polymer shell, engineered patented visor release system, and multiple density EPS collarbone relief. Backed by our 2-Year Australian Warranty.',
     description: 'The Alpinestars Supertech SM5 Compass is engineered through five years of intensive impact research to provide optimal protection and performance. The lightweight thermo-injected polymer shell features varying thickness zones to dissipate energy efficiently. Patented visor release mechanism uncouples regardless of impact angle to minimize rotational torque on the rider’s neck. Specially shaped base profile acts as an energy absorption zone to protect the collarbone.',
     specs: {
       SafetyCertification: 'ECE 22.06, DOT & AS/NZS 1698 Compliant',
@@ -177,7 +177,7 @@ export const RIDING_GEAR_PRODUCTS = [
     fitmentSize: 'Kids & Youth (Youth S to Youth L)',
     helmetComplianceDisclaimer: 'Complies with Australian Road & Motorsport Standards (ECE 22.06 / AS/NZS 1698)',
     images: ['/images/products/fox-racing-youth-v1-leed-helmet.webp'],
-    shortDescription: 'ECE 22.06 approved youth-specific shell with MIPS rotational protection and magnetic visor release system.',
+    shortDescription: 'ECE 22.06 approved youth-specific shell with MIPS rotational protection and magnetic visor release system. Backed by our 1-Year Australian Warranty.',
     description: 'Designed specifically for junior e-dirt bike groms, the Fox Racing Youth V1 Leed does not compromise on protection. Sized accurately to young riders’ head proportions with an ultra-lightweight injection-molded shell and integrated MIPS rotational safety technology. Features the MVRS (Magnetic Visor Release System) that safely releases during a crash without snagging on the ground, keeping your child secure.',
     specs: {
       SafetyCertification: 'ECE 22.06 & Australian AS/NZS 1698 Approved',
@@ -210,7 +210,7 @@ export const RIDING_GEAR_PRODUCTS = [
     fitmentSize: 'Kids & Youth (Youth S to Youth XL)',
     helmetComplianceDisclaimer: 'Complies with Australian Road & Motorsport Standards (ECE 22.06 / AS/NZS 1698)',
     images: ['/images/products/oneal-3series-crank-youth-mx-helmet.webp'],
-    shortDescription: 'Ultra-lightweight ABS shell, multi-vent cooling system, and plush removable washable liner for young shredders.',
+    shortDescription: 'Ultra-lightweight ABS shell, multi-vent cooling system, and plush removable washable liner for young shredders. Backed by our 1-Year Australian Warranty.',
     description: "The O'Neal 3Series Crank Youth Helmet delivers reliable off-road crash protection for young riders tearing up the track or backyard trails. Built with a durable ABS shell and multi-vent cooling ports to keep junior riders comfortable and focused. Complete with an adjustable height visor, ultra-plush sweat-absorbing liner, and double-D safety chin strap buckle.",
     specs: {
       SafetyCertification: 'ECE 22.06 & AS/NZS 1698 Approved',
@@ -245,7 +245,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL', 'Adult 2XL'],
     fitmentSize: 'Adult Unisex',
     images: ['/images/products/leatt-chest-protector-4-5-pro.webp'],
-    shortDescription: 'CE Level 2 certified hard-shell chest and back protector lined with 3DF AirFit impact foam and rib flank guards.',
+    shortDescription: 'CE Level 2 certified hard-shell chest and back protector lined with 3DF AirFit impact foam and rib flank guards. Backed by our 1-Year Australian Warranty.',
     description: 'The Leatt 4.5 Pro Chest Protector combines high-density HDPE hard shells with ventilated 3DF AirFit multi-layer impact foam. Certified to CE Level 2 for both chest and back impacts, it provides maximum roost and blunt-force deflection. The multi-plate articulating 3D design ensures uncompromised rider mobility on agile electric dirt bikes, with seamless integration for Leatt neck braces via the BraceOn system.',
     specs: {
       ChestProtection: 'CE Tested and Certified prEN1621-3 Level 2',
@@ -276,7 +276,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL', 'Adult 2XL'],
     fitmentSize: 'Adult (S to 2XL)',
     images: ['/images/products/alpinestars-bionic-action-v2-protection-jacket.webp'],
-    shortDescription: 'Full upper body zip jacket with integrated back, chest, shoulder, and elbow guards on breathable stretch mesh.',
+    shortDescription: 'Full upper body zip jacket with integrated back, chest, shoulder, and elbow guards on breathable stretch mesh. Backed by our 2-Year Australian Warranty.',
     description: 'An ultra-lightweight full-upper protection jacket engineered for off-road enduro and fast trail shredding. Features Cell Technology protectors in the chest and back with an open-cell matrix for exceptional airflow. High-strength polymers on shoulders and elbows offer premium abrasion resistance. The stretch elastane chassis provides a close, unrestrictive anatomical fit under your riding jersey.',
     specs: {
       ChestProtector: 'Nucleon Flex Plus Cell Technology (CE Level 1)',
@@ -306,7 +306,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL'],
     fitmentSize: 'Adult (S/M, L/XL)',
     images: ['/images/products/leatt-gpx-5-5-composite-neck-brace.webp'],
-    shortDescription: 'Engineered collarbone cut-out, CoreFlex split rear thoracic strut, and reinforced carbon matrix matrix composite frame.',
+    shortDescription: 'Engineered collarbone cut-out, CoreFlex split rear thoracic strut, and reinforced carbon matrix matrix composite frame. Backed by our 1-Year Australian Warranty.',
     description: 'The Leatt GPX 5.5 is independently lab-tested and proven to reduce serious cervical spine injury risk by up to 89%. Constructed from a rigid carbon-matrix reinforced polyamide matrix that transfers impact force from the fragile neck bones to the larger muscles of the torso. Features an engineered collarbone cut-out to keep your helmet rim away from collarbone bones during crashes.',
     specs: {
       CervicalSpineSafety: 'Reduces critical cervical spine injury by up to 89%',
@@ -336,7 +336,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Youth S', 'Youth M', 'Youth L'],
     fitmentSize: 'Kids & Youth (Ages 4-9)',
     images: ['/images/products/fox-racing-youth-titan-sport-roost-deflector.webp'],
-    shortDescription: 'Low-profile youth chest and back roost protection with adjustable shoulder straps and side waist buckles.',
+    shortDescription: 'Low-profile youth chest and back roost protection with adjustable shoulder straps and side waist buckles. Backed by our 1-Year Australian Warranty.',
     description: 'Give young groms confidence on the dirt with the Fox Youth Titan Sport Roost Deflector. Low-profile hard-shell chest and back plates protect developing torsos from flying stones, roost, and handlebar strikes. Fully adjustable elastic shoulder and waist straps ensure a snug fit that grows with young riders.',
     specs: {
       Coverage: 'Perforated Foam Chassis Contours to Young Rider Body',
@@ -365,7 +365,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL'],
     fitmentSize: 'Adult (S to XL)',
     images: ['/images/products/mobius-x8-wrist-knee-brace-system.webp'],
-    shortDescription: 'Continuous Cable Routing System (CCRS), hyperextension prevention, and rigid glass-reinforced nylon shell.',
+    shortDescription: 'Continuous Cable Routing System (CCRS), hyperextension prevention, and rigid glass-reinforced nylon shell. Backed by our 1-Year Australian Warranty.',
     description: 'Trusted by Ryan Villopoto and Ken Roczen, the Mobius X8 is the benchmark in off-road orthopedic joint protection. Utilizes the patented Continuous Cable Routing System (CCRS) that progressively resists hyperextension, hyperflexion, and rotational twists during violent crashes on high-torque electric dirt bikes.',
     specs: {
       ProtectionMechanism: 'Patented CCRS (Continuous Cable Routing System) Dynamic Tensioning',
@@ -399,7 +399,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL'],
     fitmentSize: 'Universal Adult',
     images: ['/images/products/100-percent-armega-goggles-hiper-mirror-lens.webp'],
-    shortDescription: 'Ultra HD optical clarity, 6-point locking tabs, force air intake ports, and triple-layer perforated face foam.',
+    shortDescription: 'Ultra HD optical clarity, 6-point locking tabs, force air intake ports, and triple-layer perforated face foam. Backed by our 1-Year Australian Warranty.',
     description: 'The 100% Armega offers unmatched visual clarity on the trails with category-defining Ultra HD optical lens technology. Features the contrast-enhancing HiPER mirror lens that sharpens trail contours and ruts in changing light conditions. Dual-injection frame with 6-point locking tabs lets you swap lenses in seconds, while integrated force-air intake ports circulate cooling air to eliminate fogging.',
     specs: {
       LensTechnology: 'HiPER Contrast-Enhancing Injection-Molded Shatterproof Ultra HD Lens',
@@ -428,7 +428,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL'],
     fitmentSize: 'Universal Adult',
     images: ['/images/products/oakley-airbrake-mx-factory-pilot-goggles.webp'],
-    shortDescription: 'Prizm MX lens, Switchlock quick lens-change system, and high-impact Plutonite pre-curved lens.',
+    shortDescription: 'Prizm MX lens, Switchlock quick lens-change system, and high-impact Plutonite pre-curved lens. Backed by our 2-Year Oakley Warranty. Ships Australia-wide from Sydney.',
     description: 'The Oakley Airbrake MX is the first off-road goggle with a high-impact Plutonite pre-curved lens for true optical perfection. Featuring Prizm MX lens tuning that highlights subtle transitions in dirt, sand, and clay so you can pick the fastest lines. Oakley Switchlock Technology makes lens changing fast and effortless when trail conditions change.',
     specs: {
       LensMaterial: 'Injection-Molded Plutonite (100% UVA / UVB / UVC Protection)',
@@ -457,7 +457,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Youth S', 'Youth M', 'Youth L'],
     fitmentSize: 'Kids & Youth',
     images: ['/images/products/100-percent-strata-2-youth-off-road-goggles.webp'],
-    shortDescription: 'Anti-fog coated Lexan lens, 40mm silicone-coated strap, and curved youth face fitment.',
+    shortDescription: 'Anti-fog coated Lexan lens, 40mm silicone-coated strap, and curved youth face fitment. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.',
     description: 'Tailored specifically for junior helmets and smaller faces, the 100% Strata 2 Youth delivers exceptional field of vision and dust sealing for young e-moto riders. The anti-fog coated polycarbonate lens keeps vision crystal clear through dust clouds, while the plush dual-layer face foam manages sweat comfortably.',
     specs: {
       Lens: 'Anti-Fog, Scratch-Resistant Lexan Polycarbonate Lens',
@@ -486,7 +486,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL', 'Adult 2XL'],
     fitmentSize: 'Adult (S to 2XL)',
     images: ['/images/products/fox-racing-airline-motocross-gloves.webp'],
-    shortDescription: 'Single-layer Clarino palm, neoprene slip-on cuff, and ultra-breathable stretch nylon for summer riding.',
+    shortDescription: 'Single-layer Clarino palm, neoprene slip-on cuff, and ultra-breathable stretch nylon for summer riding. Backed by our 1-Year Australian Warranty.',
     description: 'The Fox Airline Glove is built for riders seeking maximum feel on electric dirt bike throttles and brake levers. Minimalist slip-on neoprene cuff design eliminates wrist pressure points, while the perforated single-layer Clarino palm delivers exceptional handlebar feedback with zero bunching.',
     specs: {
       Palm: 'Perforated Single-Layer Clarino Synthetic Suede',
@@ -519,7 +519,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult XS', 'Adult S', 'Adult M', 'Adult L', 'Adult XL', 'Adult 2XL'],
     fitmentSize: 'Adult (US 7 to US 14)',
     images: ['/images/products/alpinestars-tech-7-enduro-boots.webp'],
-    shortDescription: 'Specially engineered compound sole with deep lugs for trail grip, dual biomechanical hinge, and TPU shin plate.',
+    shortDescription: 'Specially engineered compound sole with deep lugs for trail grip, dual biomechanical hinge, and TPU shin plate. Backed by our 2-Year Australian Warranty.',
     description: 'The Alpinestars Tech 7 Enduro Boot features a purpose-engineered vulcanized dual-compound sole with aggressive lugs for superior grip when pushing your electric dirt bike through mud, steep creek crossings, and rocky outcrops. The biomechanical ankle pivot system delivers progressive flexion control while shielding the joint from torsional twisting.',
     specs: {
       SafetyCertification: 'CE Certified to EN 13634:2017 (Level 2 Protection)',
@@ -549,7 +549,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Adult S', 'Adult M', 'Adult L', 'Adult XL', 'Adult 2XL'],
     fitmentSize: 'Adult (Euro 41 to 48)',
     images: ['/images/products/sidi-crossfire-3-srs-boots.webp'],
-    shortDescription: 'Sole Replacement System (SRS), Dual Flex ankle pivot, adjustable calf system, and hyperextension block.',
+    shortDescription: 'Sole Replacement System (SRS), Dual Flex ankle pivot, adjustable calf system, and hyperextension block. Backed by our 2-Year Australian Warranty.',
     description: 'Handcrafted in Italy, the Sidi Crossfire 3 SRS is the ultimate off-road competition boot. Featuring the patented SRS (Sole Replacement System) allowing riders to switch between MX and Enduro soles with standard screws. Dual Flex ankle pivot with a mechanical hyperextension block prevents ankle over-rotation during violent foot-dabs on fast singletrack.',
     specs: {
       SafetyCertification: 'CE Approved EN 13634 Level 2',
@@ -579,7 +579,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Youth S', 'Youth M', 'Youth L'],
     fitmentSize: 'Kids & Youth (Youth 1 to Youth 7)',
     images: ['/images/products/fox-racing-comp-youth-boots.webp'],
-    shortDescription: 'Internal lace system, TPU shin plate and toe cap, and durable high-density rubber outsole for junior riders.',
+    shortDescription: 'Internal lace system, TPU shin plate and toe cap, and durable high-density rubber outsole for junior riders. Backed by our 1-Year Australian Warranty.',
     description: 'Engineered with the same DNA as Fox adult pro boots, scaled down for young groms. Features an internal speed-lace system that locks the foot in place, full TPU shin, toe cap, and calf protection against hard peg impacts, and durable high-density rubber soles for confident grip.',
     specs: {
       SafetyCertification: 'CE Certified Youth Off-Road Boot',
@@ -609,7 +609,7 @@ export const RIDING_GEAR_PRODUCTS = [
     sizesAvailable: ['Youth S', 'Youth M', 'Youth L'],
     fitmentSize: 'Kids & Youth (US 10 to US 13)',
     images: ['/images/products/alpinestars-tech-3s-youth-motocross-boots.webp'],
-    shortDescription: 'Designed specifically for junior riders with 3 memory buckles, flex zones, and replaceable anatomical footbed.',
+    shortDescription: 'Designed specifically for junior riders with 3 memory buckles, flex zones, and replaceable anatomical footbed. Backed by our 2-Year Australian Warranty.',
     description: 'Designed specifically for small junior riders taking their first laps on STACYC, OSET, or KTM SX-E 5 electric bikes. The Alpinestars Tech 3S features low-height construction for easier gear shifting and foot controls, flexible accordion zones for comfort, and a three-buckle memory closure system for quick entry.',
     specs: {
       SafetyCertification: 'CE Certified to EN 13634:2010',

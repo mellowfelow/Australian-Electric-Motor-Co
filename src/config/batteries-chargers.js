@@ -39,7 +39,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '360V Nominal',
     capacity: '6.5 kWh',
     images: ['/images/products/stark-varg-6-5kwh-replacement-battery-pack.webp'],
-    shortDescription: 'Patented flying-V honeycomb magnesium structural casing with integrated liquid-cooling channel and internal telemetry sensors.',
+    shortDescription: 'Patented flying-V honeycomb magnesium structural casing with integrated liquid-cooling channel and internal telemetry sensors. 360V Nominal system.',
     description: 'The genuine Stark VARG 6.5 kWh battery pack is an engineering masterpiece. Featuring a structural honeycomb magnesium enclosure that serves as the backbone of the motorcycle frame, integrated liquid cooling circuits running directly between cell groups, and an ultra-secure internal high-voltage contactor. Direct factory replacement for all 60hp and 80hp VARG models.',
     specs: {
       Voltage: '360V Nominal',
@@ -74,7 +74,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '360V Nominal',
     capacity: '7.2 kWh',
     images: ['/images/products/stark-varg-7-2kwh-extended-range-battery-pack.webp'],
-    shortDescription: '100S4P high energy density 21700 cell pack providing up to 20% additional trail endurance for hard-enduro riding.',
+    shortDescription: '100S4P high energy density 21700 cell pack providing up to 20% additional trail endurance for hard-enduro riding. Comes pre-flashed with upgraded telemetry BMS firmware.',
     description: 'Engineered for extreme Australian enduro riding and long-distance mountain missions. The 7.2 kWh Extended Range battery utilizes advanced 21700 lithium cells configured in 100S4P, extending your saddle time by up to 20% without altering the bike’s perfect 50/50 balance. Comes pre-flashed with upgraded telemetry BMS firmware.',
     specs: {
       Voltage: '360V Nominal (Up to 410V Peak)',
@@ -108,7 +108,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '60V Nominal',
     capacity: '40Ah (2,400Wh)',
     images: ['/images/products/surron-light-bee-x-oem-battery-60v-40ah.webp'],
-    shortDescription: 'Genuine Surron factory replacement with 21700 LG/Samsung high-rate cells and genuine smart BMS.',
+    shortDescription: 'Genuine Surron factory replacement with 21700 LG/Samsung high-rate cells and genuine smart BMS. The genuine factory 60V 40Ah powerpack for the Surron Light Bee X.',
     description: 'The genuine factory 60V 40Ah powerpack for the Surron Light Bee X. Built with high-discharge 21700 cells from LG and Samsung, this pack slides straight into your factory chassis rails with zero modifications required. Features a genuine Surron smart BMS that protects against over-discharge, cell imbalances, and temperature extremes.',
     specs: {
       Voltage: '60V Nominal / 67.2V Full Charge',
@@ -141,7 +141,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '72V Nominal (84V Peak)',
     capacity: '42Ah (3,024Wh)',
     images: ['/images/products/ebmx-72v-42ah-high-discharge-race-battery.webp'],
-    shortDescription: 'Grade-A Molicel P42A cells delivering 15kW continuous and 22kW peak punch with CNC lid spacer.',
+    shortDescription: 'Grade-A Molicel P42A cells delivering 15kW continuous and 22kW peak punch with CNC lid spacer. The weapon of choice for competitive Australian e-motocross racers.',
     description: 'The weapon of choice for competitive Australian e-motocross racers. Hand-built using ultra-high drain Molicel P42A 21700 cylindrical cells, pure copper busbars, and an ANT Bluetooth telemetry BMS. Delivers up to 22 kW peak burst output. Includes CNC-machined battery lid extender spacer and heavy-duty QS8 wiring harness.',
     specs: {
       Voltage: '72V Nominal (84V Peak)',
@@ -174,7 +174,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '74V Nominal',
     capacity: '55Ah (4,070Wh)',
     images: ['/images/products/surron-ultra-bee-oem-battery-74v-55ah.webp'],
-    shortDescription: 'Automotive-grade pouch cells with CAN-bus communication, integrated carry handle, and IP67 sealing.',
+    shortDescription: 'Automotive-grade pouch cells with CAN-bus communication, integrated carry handle, and IP67 sealing. Original factory replacement battery pack for the Surron Ultra Bee.',
     description: 'Original factory replacement battery pack for the Surron Ultra Bee. Houses automotive-grade pouch cells in a rigid aluminium alloy framework, complete with heavy-duty rubberised top handles and IP67 water sealing. Features full CAN-bus communication with the Ultra Bee dash cluster.',
     specs: {
       Voltage: '74V Nominal / 84V Max',
@@ -206,7 +206,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '80V Nominal',
     capacity: '60Ah (4,800Wh)',
     images: ['/images/products/nexbat-80v-60ah-pro-race-battery-ultra-bee.webp'],
-    shortDescription: 'Molicel P50B cells capable of 35kW peak discharge in reinforced powder-coated alloy shell.',
+    shortDescription: 'Molicel P50B cells capable of 35kW peak discharge in reinforced powder-coated alloy shell. The ultimate high-voltage upgrade for the Surron Ultra Bee.',
     description: 'The ultimate high-voltage upgrade for the Surron Ultra Bee. Nexbat harnesses next-generation Molicel P50B cells to sustain a staggering 35 kW of peak discharge power when paired with high-phase aftermarket controllers (Torp TC1000 or EBMX X-9000). Features smart Bluetooth health monitoring and powder-coated steel casing.',
     specs: {
       Voltage: '80V Nominal (92.4V Peak)',
@@ -239,7 +239,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '96V Nominal',
     capacity: '48Ah (4,608Wh)',
     images: ['/images/products/surron-storm-bee-oem-battery-96v-48ah.webp'],
-    shortDescription: 'Heavy-duty 96V system, IP67 sealed aluminium enclosure, high-voltage interlock plug.',
+    shortDescription: 'Heavy-duty 96V system, IP67 sealed aluminium enclosure, high-voltage interlock plug. Factory OEM replacement power pack for the flagship full-size Surron Storm Bee.',
     description: 'Factory OEM replacement power pack for the flagship full-size Surron Storm Bee. Operating at 96V nominal (109.2V peak), this pack provides the immense current demanded by the Storm Bee’s 22.5kW liquid-cooled powertrain. Built inside a structural die-cast aluminium casing with safety interlock pins.',
     specs: {
       Voltage: '96V Nominal / 109.2V Peak',
@@ -271,7 +271,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '60V Nominal',
     capacity: '45Ah (2,700Wh)',
     images: ['/images/products/talaria-sting-r-mx4-oem-battery-60v-45ah.webp'],
-    shortDescription: 'Samsung 50E 21700 cells, genuine Talaria smart BMS, key-locking chassis slide fit.',
+    shortDescription: 'Samsung 50E 21700 cells, genuine Talaria smart BMS, key-locking chassis slide fit. Factory OEM 60V 45Ah battery replacement for the Talaria Sting R MX4.',
     description: 'Factory OEM 60V 45Ah battery replacement for the Talaria Sting R MX4. Packed with genuine Samsung 50E 21700 cells, this 2.7 kWh battery provides excellent range and reliable current delivery for both trail riding and track laps. Also serves as a direct capacity upgrade for older Talaria Sting MX3 models.',
     specs: {
       Voltage: '60V Nominal / 67.2V Full Charge',
@@ -302,7 +302,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '72V Nominal',
     capacity: '40Ah (2,880Wh)',
     images: ['/images/products/talaria-sting-pro-mx5-oem-battery-72v-40ah.webp'],
-    shortDescription: 'High-discharge cells designed for 13.5kW peak power with reinforced terminal block.',
+    shortDescription: 'High-discharge cells designed for 13.5kW peak power with reinforced terminal block. Fits Talaria Sting Pro MX5. 72V Nominal / 84V Max system. Rated at 40Ah (2,880 Wh).',
     description: 'The genuine Talaria factory 72V 40Ah powerpack engineered specifically for the 13.5kW Talaria Sting Pro MX5. Features ultra-low resistance internal connections, reinforced copper-plated terminal blocks, and smart CAN communication linked directly with the MX5 full-color digital cockpit.',
     specs: {
       Voltage: '72V Nominal / 84V Max',
@@ -335,7 +335,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '81.4V Nominal',
     capacity: '45Ah (3,663Wh)',
     images: ['/images/products/ewatt-81-4v-45ah-extreme-battery-talaria.webp'],
-    shortDescription: 'Pure copper busbars, ANT BMS with Bluetooth telemetry monitoring, supports up to 28kW.',
+    shortDescription: 'Pure copper busbars, ANT BMS with Bluetooth telemetry monitoring, supports up to 28kW. Push your Talaria build into supersonic territory. Rated at 45Ah (3,663 Wh).',
     description: 'Push your Talaria build into supersonic territory. The EWatt 81.4V 45Ah pack operates at 92.4V at full charge, delivering ferocious acceleration and virtually zero voltage sag under 28 kW burst power. Includes custom extended battery lid catch and iOS/Android Bluetooth telemetry link.',
     specs: {
       Voltage: '81.4V Nominal (92.4V Peak)',
@@ -367,7 +367,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '60V Nominal',
     capacity: '40Ah (2,400Wh)',
     images: ['/images/products/talaria-x3-xxx-oem-battery-60v-40ah.webp'],
-    shortDescription: 'Slimline in-frame slide design with quick-release locking latch and factory BMS.',
+    shortDescription: 'Slimline in-frame slide design with quick-release locking latch and factory BMS. Fits Talaria X3 (XXX) Concept All Model Years. 60V Nominal (67.2V Max) system.',
     description: 'Genuine factory replacement 60V 40Ah battery pack for the ultra-compact Talaria X3 Concept (XXX). Specifically shaped to slide vertically into the mono-frame spine of the XXX chassis, featuring a secure bottom lock latch and quick-disconnect harness.',
     specs: {
       Voltage: '60V Nominal (67.2V Max)',
@@ -400,7 +400,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '72V Nominal',
     capacity: '40Ah (2,880Wh)',
     images: ['/images/products/e-ride-pro-ss-replacement-battery-72v-40ah.webp'],
-    shortDescription: 'Samsung 50S high-drain cells with heavy-duty dual discharge terminal and CNC top plate.',
+    shortDescription: 'Samsung 50S high-drain cells with heavy-duty dual discharge terminal and CNC top plate. Built for riders extracting maximum speed from the E-Ride Pro-SS platform.',
     description: 'Built for riders extracting maximum speed from the E-Ride Pro-SS platform. Utilizing Samsung 50S high-current cells, this 72V 40Ah pack delivers 12 kW continuous power without overheating. Features a reinforced CNC anodized top plate with an ergonomic grab handle.',
     specs: {
       Voltage: '72V Nominal / 84V Peak',
@@ -432,7 +432,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '72V Nominal',
     capacity: '30Ah (2,160Wh)',
     images: ['/images/products/e-ride-pro-s-replacement-battery-72v-30ah.webp'],
-    shortDescription: 'Lightweight 72V compact pack with direct factory drop-in fitment.',
+    shortDescription: 'Lightweight 72V compact pack with direct factory drop-in fitment. Fits E Ride Pro-S & Pro-SS. Rated at 30Ah (2,160 Wh). Dispatched Australia-wide from our Sydney depot.',
     description: 'Factory OEM replacement for the E Ride Pro-S. At only 11.8 kg, this lightweight 72V 30Ah pack maintains nimble handling while delivering genuine 72V throttle snap across motocross tracks and forestry trails.',
     specs: {
       Voltage: '72V Nominal (84V Full Charge)',
@@ -462,7 +462,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '74V Nominal',
     capacity: '35Ah (2,590Wh)',
     images: ['/images/products/rfn-ares-rally-pro-oem-battery-74v-35ah.webp'],
-    shortDescription: 'High-rate LG cells, quick-release security handle, IP65 housing for RFN Rally and Road models.',
+    shortDescription: 'High-rate LG cells, quick-release security handle, IP65 housing for RFN Rally and Road models. 74V Nominal / 84V Max system. Rated at 35Ah (2,590 Wh).',
     description: 'Factory replacement battery pack for the RFN (Apollo) Ares Rally Pro and Road Legal e-dirt bikes. Featuring high-rate LG chem cells encased in a shock-resistant IP65 alloy shell with an integrated keyed locking system.',
     specs: {
       Voltage: '74V Nominal / 84V Max',
@@ -499,7 +499,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '48V Nominal',
     capacity: '907Wh',
     images: ['/images/products/ktm-husqvarna-gasgas-powerpack-907wh.webp'],
-    shortDescription: 'Die-cast aluminium enclosure with integrated cell balancer and quick-swap latch for Austrian junior race bikes.',
+    shortDescription: 'Die-cast aluminium enclosure with integrated cell balancer and quick-swap latch for Austrian junior race bikes. 48V Nominal system. Ships Australia-wide from Sydney.',
     description: 'Genuine OEM Austrian factory PowerPack for youth electric motocross bikes. Robust die-cast aluminium casing designed to withstand the punishment of junior track racing. Swaps out in seconds between motos via a spring-loaded bottom latch.',
     specs: {
       Voltage: '48V Nominal',
@@ -531,7 +531,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '48V Nominal',
     capacity: '20Ah (960Wh)',
     images: ['/images/products/oset-48v-20ah-lithium-battery-conversion-pack.webp'],
-    shortDescription: 'Replaces heavy OEM AGM lead-acid batteries, saves 12kg of dead weight with high-amp BMS.',
+    shortDescription: 'Replaces heavy OEM AGM lead-acid batteries, saves 12kg of dead weight with high-amp BMS. Fits OSET 20.0 Racing, OSET 24.0 Racing & Standard Models.',
     description: 'The single most effective performance upgrade for OSET 20.0 and 24.0 trials bikes. Sheds 12 kg of dead weight compared to stock lead-acid AGM batteries, dramatically improving bunny hops, rear-wheel balance, and runtime.',
     specs: {
       Voltage: '48V Nominal (54.6V Peak)',
@@ -563,7 +563,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '52V Nominal',
     capacity: '3.1 kWh',
     images: ['/images/products/ubco-2x2-kxh-3-1kwh-replacement-power-supply.webp'],
-    shortDescription: 'IP67 submersible battery with integrated 12V automotive port and dual 5V USB charging ports.',
+    shortDescription: 'IP67 submersible battery with integrated 12V automotive port and dual 5V USB charging ports. The ultimate agricultural and expedition power unit.',
     description: 'The ultimate agricultural and expedition power unit. Built for the all-wheel drive UBCO 2X2, this 3.1 kWh power supply is IP67 submersible and doubles as a portable power station on the farm, featuring dual USB ports and a 12V 10A socket for charging power tools and spot-lights.',
     specs: {
       Voltage: '52V Nominal',
@@ -598,7 +598,7 @@ export const BATTERIES_PRODUCTS = [
     voltage: '20V Max',
     capacity: '5.0Ah each (Twin Pack)',
     images: ['/images/products/stacyc-20v-5-0ah-high-output-battery-twin-pack.webp'],
-    shortDescription: 'Twin pack quick-swap tool-style slide locking with integrated LED charge indicator.',
+    shortDescription: 'Twin pack quick-swap tool-style slide locking with integrated LED charge indicator. Double the riding fun for your junior grom. 20V Max (18V Nominal) system.',
     description: 'Double the riding fun for your junior grom. Genuine STACYC 20V 5.0Ah lithium-ion battery twin pack with tool-style slide lock fitment. Keep one charging while the other is shredding in the backyard.',
     specs: {
       Voltage: '20V Max (18V Nominal)',
@@ -635,7 +635,7 @@ export const CHARGERS_PRODUCTS = [
     chargeRate: '3.3 kW (Up to 16A)',
     voltage: '360V System',
     images: ['/images/products/stark-varg-stand-integrated-fast-charger-3-3kw.webp'],
-    shortDescription: 'Built directly into a heavy-duty aluminium bike stand with 240V AS/NZS 3112 AU wall plug, charging in ~1.5 hours.',
+    shortDescription: 'Built directly into a heavy-duty aluminium bike stand with 240V AS/NZS 3112 AU wall plug, charging in ~1.5 hours. Fits Stark VARG MX (60hp / 80hp) & Stark VARG EX Enduro.',
     description: 'The iconic Stark VARG paddock stand charger integrates a 3.3 kW high-frequency inverter directly into a CNC welded aluminium pit stand. Simply rest the VARG on the stand and plug the magnetic high-voltage coupler into the bike’s skid plate. Recharges the 6.5 kWh pack in approximately 90 minutes from standard Australian 240V mains.',
     specs: {
       OutputPower: '3.3 kW (Selectable 10A / 15A Charging Rate)',
@@ -672,7 +672,7 @@ export const CHARGERS_PRODUCTS = [
     chargeRate: '3.3 kW',
     voltage: '360V System',
     images: ['/images/products/stark-varg-portable-backpack-fast-charger-3-3kw.webp'],
-    shortDescription: 'Ultra-compact (25x15x7cm, 2.2kg) backpack trackside charger supporting Type 2 EV car charger adapters.',
+    shortDescription: 'Ultra-compact (25x15x7cm, 2.2kg) backpack trackside charger supporting Type 2 EV car charger adapters. Fits Stark VARG All Variants. Stocked in Sydney, shipped Australia-wide.',
     description: 'Designed for track days and remote trailheads where the stationary bike stand charger is impractical to transport. Weighing only 2.2 kg, this compact 3.3 kW unit easily fits inside a rider’s backpack or ute tub. Includes an Australian 240V AS/NZS 3112 plug and is compatible with public Type-2 EV charging station adapters.',
     specs: {
       OutputPower: '3.3 kW Rapid Charge',
@@ -707,7 +707,7 @@ export const CHARGERS_PRODUCTS = [
     output: '67.2V 10A (670W)',
     voltage: '60V System',
     images: ['/images/products/surron-light-bee-67-2v-10a-oem-fast-charger.webp'],
-    shortDescription: 'Quiet dual-bearing cooling fan, auto balancing shutoff, and AS/NZS 3112 3-pin AU plug.',
+    shortDescription: 'Quiet dual-bearing cooling fan, auto balancing shutoff, and AS/NZS 3112 3-pin AU plug. Genuine Surron 10A fast charger for standard 60V Light Bee X battery packs.',
     description: 'Genuine Surron 10A fast charger for standard 60V Light Bee X battery packs. Delivers 670W of clean continuous power, charging an empty 40Ah battery to 100% in approximately 3.5 hours. Fitted with Australian standard AS/NZS 3112 3-pin wall plug.',
     specs: {
       Output: '67.2V 10A Continuous (670W Peak)',
@@ -745,7 +745,7 @@ export const CHARGERS_PRODUCTS = [
     output: '84V (Selectable 5A/10A/15A)',
     voltage: '72V System',
     images: ['/images/products/ebmx-72v-15a-adjustable-high-power-fast-charger.webp'],
-    shortDescription: 'Extruded alloy casing, digital amp readout, QS8 connector, and 240V AU plug for all 72V packs.',
+    shortDescription: 'Extruded alloy casing, digital amp readout, QS8 connector, and 240V AU plug for all 72V packs. Terminated with a spark-resistant QS8 connector and AS/NZS 3112 plug.',
     description: 'The benchmark performance charger for all 72V aftermarket electric dirt bike batteries. Features an anodized aluminium chassis with a built-in digital display showing charge voltage and real-time amperage. Allows toggling between gentle 5A trickle, 10A standard, and rapid 15A high-current modes. Terminated with a spark-resistant QS8 connector and AS/NZS 3112 plug.',
     specs: {
       Output: '84V Max (Selectable 5A / 10A / 15A Output)',
@@ -779,7 +779,7 @@ export const CHARGERS_PRODUCTS = [
     output: '84V 12A',
     voltage: '74V System',
     images: ['/images/products/surron-ultra-bee-74v-oem-fast-charger.webp'],
-    shortDescription: 'Genuine Surron 4-pin connector, ruggedized impact bumpers, and 240V AU wall plug.',
+    shortDescription: 'Genuine Surron 4-pin connector, ruggedized impact bumpers, and 240V AU wall plug. Factory OEM replacement fast charger for the Surron Ultra Bee 74V 55Ah system.',
     description: 'Factory OEM replacement fast charger for the Surron Ultra Bee 74V 55Ah system. Equipped with corner shock-absorbing silicone bumpers for paddock durability, high-pressure smart cooling fans, and the genuine Surron keyed 4-pin charge terminal.',
     specs: {
       Output: '84V 12A High Speed',
@@ -815,7 +815,7 @@ export const CHARGERS_PRODUCTS = [
     output: '67.2V 10A',
     voltage: '60V System',
     images: ['/images/products/talaria-60v-10a-oem-smart-charger.webp'],
-    shortDescription: 'Reverse polarity protection, over-current cutoff, OEM Talaria charge connector, and AU plug.',
+    shortDescription: 'Reverse polarity protection, over-current cutoff, OEM Talaria charge connector, and AU plug. Original factory 10A smart charger for Talaria electric dirt bikes.',
     description: 'Original factory 10A smart charger for Talaria electric dirt bikes. Features multi-stage constant current / constant voltage charging profiles to maximize battery cell longevity. Pre-fitted with an Australian AS/NZS 3112 3-pin plug.',
     specs: {
       Output: '67.2V 10A Constant Current / Voltage',
@@ -848,7 +848,7 @@ export const CHARGERS_PRODUCTS = [
     output: '84V 12A',
     voltage: '72V System',
     images: ['/images/products/talaria-sting-pro-mx5-72v-oem-fast-charger.webp'],
-    shortDescription: 'Smart diagnostic LED screen, high-flow fan cooling, genuine MX5 plug, and 240V AU wall cord.',
+    shortDescription: 'Smart diagnostic LED screen, high-flow fan cooling, genuine MX5 plug, and 240V AU wall cord. Includes status LED diagnostics and Australian AS/NZS 3112 wall cord.',
     description: 'Factory-engineered rapid charger designed for the 72V system of the Talaria Sting Pro MX5. Pumping out 12 amps at 84V peak, this charger takes the 40Ah pack from empty to 80% in approximately 2 hours. Includes status LED diagnostics and Australian AS/NZS 3112 wall cord.',
     specs: {
       Output: '84V 12A High Current Output',
@@ -881,7 +881,7 @@ export const CHARGERS_PRODUCTS = [
     output: '84V 10A',
     voltage: '72V System',
     images: ['/images/products/e-ride-pro-72v-10a-oem-replacement-charger.webp'],
-    shortDescription: 'Factory E Ride Pro connector, heavy-gauge copper wiring, 240V AU 3-pin plug.',
+    shortDescription: 'Factory E Ride Pro connector, heavy-gauge copper wiring, 240V AU 3-pin plug. Original factory replacement charger for E Ride Pro-SS and Pro-S electric dirt bikes.',
     description: 'Original factory replacement charger for E Ride Pro-SS and Pro-S electric dirt bikes. Features a durable extruded casing, factory keyed charge plug, and full compliance with Australian electrical safety guidelines.',
     specs: {
       Output: '84V 10A',
@@ -918,7 +918,7 @@ export const CHARGERS_PRODUCTS = [
     output: '60V–84V Variable (Up to 20A)',
     voltage: '60V & 72V Multi-Voltage',
     images: ['/images/products/chibatterysystems-chicharger-pro-variable-smart-charger.webp'],
-    shortDescription: '80%/100% partial charge toggle prolonging battery lifespan by 300%, digital touch readout.',
+    shortDescription: '80%/100% partial charge toggle prolonging battery lifespan by 300%, digital touch readout. The smartest aftermarket charger available. Ships Australia-wide from Sydney.',
     description: 'The smartest aftermarket charger available. Features an 80% / 100% charge toggle: stopping at 80% charge significantly reduces lithium dendrite formation and prolongs total battery cycle life by up to 3x. Built inside a robust CNC aluminium housing with a touch display and 240V AU plug.',
     specs: {
       Output: '60V to 84V Voltage Output, Variable Current up to 20A',
@@ -955,7 +955,7 @@ export const CHARGERS_PRODUCTS = [
     output: '900W High Speed',
     voltage: '48V System',
     images: ['/images/products/ktm-husqvarna-gasgas-48v-off-board-fast-charger.webp'],
-    shortDescription: 'Charges PowerPack from 0% to 80% in 45 minutes in rugged race paddock casing with AU plug.',
+    shortDescription: 'Charges PowerPack from 0% to 80% in 45 minutes in rugged race paddock casing with AU plug. Fits KTM SX-E 5 / 3, Husqvarna EE 5 / 3, GASGAS MC-E 5 / 3.',
     description: 'High-speed off-board paddock charger for KTM SX-E 5, Husqvarna EE 5, and GASGAS MC-E 5 youth race bikes. Recharges the Austrian 907Wh PowerPack to 80% in just 45 minutes between junior race heats.',
     specs: {
       Output: '900W Rapid Off-Board Current',
@@ -990,7 +990,7 @@ export const CHARGERS_PRODUCTS = [
     output: '48V 3A',
     voltage: '48V System',
     images: ['/images/products/oset-48v-standard-smart-charger-3pin-xlr.webp'],
-    shortDescription: 'Multi-stage CC/CV charging, LED status indicator, 3-pin XLR port, and 240V AU plug.',
+    shortDescription: 'Multi-stage CC/CV charging, LED status indicator, 3-pin XLR port, and 240V AU plug. Compact smart charger for OSET 48V electric trials bikes.',
     description: 'Compact smart charger for OSET 48V electric trials bikes. Employs 3-stage smart charging algorithms suitable for both original lead-acid packs and modern lithium upgrade batteries. Fitted with an industry-standard 3-pin XLR connector and Australian wall plug.',
     specs: {
       Output: '48V (54.6V Float) 3A',
@@ -1027,7 +1027,7 @@ export const CHARGERS_PRODUCTS = [
     output: 'Dual 20V Simultaneous Charging',
     voltage: '20V System',
     images: ['/images/products/stacyc-20v-dual-bay-rapid-charging-station.webp'],
-    shortDescription: 'Recharges two 5.0Ah batteries concurrently in 45 minutes with thermal sensor protection.',
+    shortDescription: 'Recharges two 5.0Ah batteries concurrently in 45 minutes with thermal sensor protection. Dual independent LED progress meters let you monitor charge states at a glance.',
     description: 'The ultimate charging dock for active moto families. Simultaneously charges two STACYC 20V 5.0Ah batteries in approximately 45 minutes. Dual independent LED progress meters let you monitor charge states at a glance. Pre-wired with an Australian 240V AS/NZS 3112 wall cord.',
     specs: {
       Output: 'Dual 20V Independent Charging Bays',

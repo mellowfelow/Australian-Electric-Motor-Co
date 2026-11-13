@@ -15,20 +15,12 @@ const nextConfig: NextConfig = {
     // instead of the 60s default — the source images rarely change and this
     // is what "serve static assets with an efficient cache policy" wants.
     minimumCacheTTL: 2678400,
-    remotePatterns: [
-      {
-        protocol: 'https',
-        hostname: 'picsum.photos',
-        port: '',
-        pathname: '/**',
-      },
-      {
-        protocol: 'https',
-        hostname: 'images.unsplash.com',
-        port: '',
-        pathname: '/**',
-      },
-    ],
+    // No remote image hosts whitelisted — every product/category image is
+    // local (public/images/...). Keeping this empty is a deliberate guard:
+    // a stray hotlinked placeholder (Unsplash, Picsum, etc.) fails to render
+    // at build/runtime instead of silently shipping, on top of crosscheck's
+    // own text scan (9d).
+    remotePatterns: [],
   },
   output: 'standalone',
   transpilePackages: ['motion'],

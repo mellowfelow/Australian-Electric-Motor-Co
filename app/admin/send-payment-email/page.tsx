@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useMemo } from 'react';
 import Link from 'next/link';
-import { SHOP, CONTACT } from '@/src/config/site';
+import { CONTACT } from '@/src/config/site';
 import { buildEmailHtml } from '@/lib/emailTemplate';
 import { paymentTermsHtml, paymentTermsLines } from '@/lib/order';
 import { waPaymentConfirmationLink, waPaymentDetailsMessage, waLinkTo, waMessageText } from '@/lib/whatsapp';
@@ -43,13 +43,13 @@ function instructionsParts(
     case 'Direct Bank EFT':
       return {
         opening: `Please transfer ${amountDue || '[amount]'} via Osko/PayID-enabled bank transfer where possible — it clears instantly — to:`,
-        detail: `${SHOP.bankDetails.bankName}\nAccount Name: ${SHOP.bankDetails.accountName}\nBSB: ${SHOP.bankDetails.bsb}\nAccount: ${SHOP.bankDetails.accountNumber}\nReference: ${orderNumber || '[order number]'}`,
+        detail: `[bank name]\nAccount Name: [account name]\nBSB: [BSB]\nAccount: [account number]\nReference: ${orderNumber || '[order number]'}`,
         closing: `We'll dispatch once the transfer clears.`,
       };
     case 'PayID':
       return {
         opening: `Please pay ${amountDue || '[amount]'} via PayID (an Osko instant transfer) to:`,
-        detail: `${SHOP.payId}\nReference: ${orderNumber || '[order number]'}`,
+        detail: `[PayID]\nReference: ${orderNumber || '[order number]'}`,
         closing: `PayID/Osko transfers are usually instant — we'll dispatch as soon as it lands.`,
       };
     case 'Bitcoin (BTC) / Tether (USDT)':

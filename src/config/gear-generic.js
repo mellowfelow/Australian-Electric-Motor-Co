@@ -209,8 +209,8 @@ export const GENERIC_GEAR_PRODUCTS = [
       "riding-gear",
       "gloves-goggles"
     ],
-    shortDescription: "Smaller-frame anti-fog goggles for youth riders, with a soft triple-density face foam and an adjustable strap to fit under a kids helmet.",
-    description: "Smaller-frame anti-fog goggles for youth riders, with a soft triple-density face foam and an adjustable strap to fit under a kids helmet.",
+    shortDescription: "Smaller-frame anti-fog goggles for youth riders, with a soft triple-density face foam and an adjustable strap to fit under a kids helmet. Dispatched Australia-wide from our Sydney depot.",
+    description: "Smaller-frame anti-fog goggles for youth riders, with a soft triple-density face foam and an adjustable strap to fit under a kids helmet. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/off-road-goggles-youth-kids.webp"
     ],
@@ -273,8 +273,8 @@ export const GENERIC_GEAR_PRODUCTS = [
       "riding-gear",
       "boots"
     ],
-    shortDescription: "Youth motocross boot with three buckles, a moulded shin guard and a rigid sole to protect growing feet on youth e-dirt bikes. CE certified.",
-    description: "Youth motocross boot with three buckles, a moulded shin guard and a rigid sole to protect growing feet on youth e-dirt bikes. CE certified.",
+    shortDescription: "Youth motocross boot with three buckles, a moulded shin guard and a rigid sole to protect growing feet on youth e-dirt bikes. CE certified. Stocked in Sydney, shipped Australia-wide.",
+    description: "Youth motocross boot with three buckles, a moulded shin guard and a rigid sole to protect growing feet on youth e-dirt bikes. CE certified. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/off-road-boots-youth.webp"
     ],
@@ -341,8 +341,8 @@ export const GENERIC_GEAR_PRODUCTS = [
       "riding-gear",
       "body-armour-protection"
     ],
-    shortDescription: "Youth jersey and pant set in lightweight vented fabric with stretch panels and an adjustable waist — sized for kids and teens.",
-    description: "Youth jersey and pant set in lightweight vented fabric with stretch panels and an adjustable waist — sized for kids and teens.",
+    shortDescription: "Youth jersey and pant set in lightweight vented fabric with stretch panels and an adjustable waist — sized for kids and teens. Backed by our 1-Year Australian Warranty.",
+    description: "Youth jersey and pant set in lightweight vented fabric with stretch panels and an adjustable waist — sized for kids and teens. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/mx-jersey-and-pants-combo-youth-kids.webp"
     ],

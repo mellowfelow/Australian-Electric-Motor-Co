@@ -62,13 +62,10 @@ export const SHOP = {
   bikeCrateFreight: 180,          // Nationwide depot / door crate delivery across Australia
   cryptoDiscount: 10,             // 10% instant discount on Bitcoin (BTC) & USDT payments
   paymentMethods: ['crypto-BTC', 'crypto-USDT', 'pay-in-4', 'bank-transfer', 'payid'],
-  payId: 'payments@australianelectricmotorco.com.au',
-  bankDetails: {
-    bankName: 'Commonwealth Bank of Australia (CBA)',
-    accountName: 'Australian Electric Motor Co Pty Ltd',
-    bsb: '062-000',
-    accountNumber: '1098-4421',
-  },
+  // Real bank/PayID details are never stored in config — they're pasted per-order
+  // into the admin send-payment-email composer (see app/admin/send-payment-email).
+  // Keeping fabricated placeholder values here previously leaked into that
+  // composer's default template and risked being emailed to a real customer.
 };
 
 export const FINANCE = {

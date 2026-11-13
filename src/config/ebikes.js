@@ -26,7 +26,7 @@ export const EBIKES_DATA = [
       Weight: '56 kg',
     },
     images: ['/images/products/surron-light-bee-x-lbx.webp'],
-    shortDescription: 'The world-famous agile electric trail bike featuring 6kW peak power, 60V 40Ah battery, and forged aluminium alloy frame.',
+    shortDescription: 'The world-famous agile electric trail bike featuring 6kW peak power, 60V 40Ah battery, and forged aluminium alloy frame. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Surron Light Bee X (LBX) is Australia’s benchmark lightweight electric trail weapon. Combining mountain-bike flickability with 250Nm of instantaneous rear-wheel torque, the LBX conquers steep bush singletrack, sand dunes, and motocross berms with zero clutch maintenance.',
   },
   {
@@ -52,7 +52,7 @@ export const EBIKES_DATA = [
       Weight: '85 kg',
     },
     images: ['/images/products/surron-ultra-bee.webp'],
-    shortDescription: 'Mid-weight enduro electric bike with 74V 55Ah powerpack, 12.5 kW peak power, Surron Traction Control (SRTC), and 440Nm torque.',
+    shortDescription: 'Mid-weight enduro electric bike with 74V 55Ah powerpack, 12.5 kW peak power, Surron Traction Control (SRTC), and 440Nm torque. Stocked in Sydney, shipped Australia-wide.',
     description: 'Surron Ultra Bee bridges the gap between lightweight e-motos and full-sized 450cc four-strokes. Featuring an integrated 74V 55Ah lithium powerpack, regenerative multi-tier engine braking, and high-performance 37mm inverted front forks.',
   },
   {
@@ -78,7 +78,7 @@ export const EBIKES_DATA = [
       Weight: '127 kg',
     },
     images: ['/images/products/surron-storm-bee-enduro.webp'],
-    shortDescription: 'Heavyweight full-size 96V electric motocross machine delivering 22.5kW peak power, 520Nm rear-wheel torque, and 21"/18" full MX wheels.',
+    shortDescription: 'Heavyweight full-size 96V electric motocross machine delivering 22.5kW peak power, 520Nm rear-wheel torque, and 21"/18" full MX wheels. Ships Australia-wide from Sydney.',
     description: 'The Surron Storm Bee Enduro is engineered for uncompromising motocross performance. Boasting a liquid-cooled motor and a 96V high-voltage architecture, it delivers earth-shredding holeshots with zero shifting or clutch fade.',
   },
   {
@@ -104,7 +104,7 @@ export const EBIKES_DATA = [
       Weight: '88 kg',
     },
     images: ['/images/products/surron-ultra-bee-road-adr.webp'],
-    shortDescription: 'Australian Design Rules (ADR) street-legal electric dirt bike with dual-sport road gear, mirrors, indicators, horn, and rego compliance.',
+    shortDescription: 'Australian Design Rules (ADR) street-legal electric dirt bike with dual-sport road gear, mirrors, indicators, horn, and rego compliance. 74V system.',
     description: 'Fully road registerable across all Australian states (QLD, NSW, VIC, WA, SA, TAS, NT). The Ultra Bee Road L1e lets you commute during the week and conquer rugged off-road forestry trails on the weekend without needing a ute or trailer.',
   },
   {
@@ -130,7 +130,7 @@ export const EBIKES_DATA = [
       Weight: '38 kg',
     },
     images: ['/images/products/surron-hyper-bee.webp'],
-    shortDescription: 'High-performance youth electric dirt bike with 48V architecture, selectable power governor modes, and ultra-lightweight 38kg chassis.',
+    shortDescription: 'High-performance youth electric dirt bike with 48V architecture, selectable power governor modes, and ultra-lightweight 38kg chassis. Stocked in Sydney, shipped Australia-wide.',
     description: 'The Surron Hyper Bee is the ultimate transition bike for growing junior riders. Offering selectable parent speed limiters, progressive hydraulic disc brakes, and race-tuned suspension.',
   },
 
@@ -158,7 +158,7 @@ export const EBIKES_DATA = [
       Weight: '63 kg',
     },
     images: ['/images/products/talaria-sting-r-mx4.webp'],
-    shortDescription: 'Gearbox-driven 60V 8kW electric dirt bike with sealed oil-bath primary transmission, IPM motor, and zero primary belt failures.',
+    shortDescription: 'Gearbox-driven 60V 8kW electric dirt bike with sealed oil-bath primary transmission, IPM motor, and zero primary belt failures. Ships Australia-wide from Sydney.',
     description: 'The Talaria Sting R MX4 is built for tough Australian bush conditions where mud, sticks, and grit destroy rubber belt drives. Its enclosed helical gearbox ensures bulletproof power transfer and relentless throttle response.',
   },
   {
@@ -184,7 +184,7 @@ export const EBIKES_DATA = [
       Weight: '67 kg',
     },
     images: ['/images/products/talaria-sting-pro-mx5.webp'],
-    shortDescription: 'Flagship 72V 13.5kW factory hot-rod with 500Nm wheel torque, upgraded FastAce inverted forks, and oversized DOT brake rotors.',
+    shortDescription: 'Flagship 72V 13.5kW factory hot-rod with 500Nm wheel torque, upgraded FastAce inverted forks, and oversized DOT brake rotors. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Talaria Sting Pro MX5 steps straight into 72V territory with 13.5kW of peak brushless punch. Designed to out-accelerate traditional 250cc 4-strokes on technical hills and loose shale.',
   },
   {
@@ -210,7 +210,7 @@ export const EBIKES_DATA = [
       Weight: '58 kg',
     },
     images: ['/images/products/talaria-x3-concept-xxx.webp'],
-    shortDescription: 'Ultra-compact lightweight trail moto featuring 60V 40Ah battery, minimalist chassis geometry, and instant electric throttle response.',
+    shortDescription: 'Ultra-compact lightweight trail moto featuring 60V 40Ah battery, minimalist chassis geometry, and instant electric throttle response. Stocked in Sydney, shipped Australia-wide.',
     description: 'The Talaria X3 Concept (XXX) delivers unbeatable value and nimble handling. Perfect for trail sessions, pump tracks, and tight singletrack lines.',
   },
   {
@@ -236,7 +236,7 @@ export const EBIKES_DATA = [
       Weight: '92 kg',
     },
     images: ['/images/products/talaria-komodo.webp'],
-    shortDescription: 'High-voltage 84V full-size electric motocross contender producing 22kW peak power, link-type rear suspension, and 21"/18" wheelset.',
+    shortDescription: 'High-voltage 84V full-size electric motocross contender producing 22kW peak power, link-type rear suspension, and 21"/18" wheelset. Ships Australia-wide from Sydney.',
     description: 'The Talaria Komodo enters the full-size competition arena with an 84V architecture and 22kW output. Full-size motocross ergonomics and heavy-duty frame design.',
   },
   {
@@ -290,7 +290,7 @@ export const EBIKES_DATA = [
       Weight: '118 kg',
     },
     images: ['/images/products/stark-varg-mx-60hp.webp'],
-    shortDescription: 'The 60hp Swedish electric motocross revolution with 360V carbon-sleeve motor, 938Nm wheel torque, and smartphone power curve tuning.',
+    shortDescription: 'The 60hp Swedish electric motocross revolution with 360V carbon-sleeve motor, 938Nm wheel torque, and smartphone power curve tuning. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Stark VARG MX 60hp delivers track performance rivaling 450cc four-strokes. Featuring custom KYB suspension, military-grade smartphone display, and customizable power maps from 10hp to 60hp.',
   },
   {
@@ -316,7 +316,7 @@ export const EBIKES_DATA = [
       Weight: '118 kg',
     },
     images: ['/images/products/stark-varg-alpha-mx-80hp.webp'],
-    shortDescription: 'World’s most powerful motocross bike generating 80hp, 938Nm wheel torque, Brembo brakes, and custom-valved KYB factory suspension.',
+    shortDescription: 'World’s most powerful motocross bike generating 80hp, 938Nm wheel torque, Brembo brakes, and custom-valved KYB factory suspension. 360V system.',
     description: 'The Stark VARG Alpha MX 80hp is the pinnacle of two-wheel electric power. With 80 horsepower in an ultra-compact chassis, it delivers acceleration that leaves traditional four-stroke 450s behind.',
   },
   {
@@ -342,7 +342,7 @@ export const EBIKES_DATA = [
       Weight: '121 kg',
     },
     images: ['/images/products/stark-varg-mx-12.webp'],
-    shortDescription: 'Extended-range 7.2 kWh battery edition of the 80hp Stark VARG MX for long-distance off-road endurance and race motos.',
+    shortDescription: 'Extended-range 7.2 kWh battery edition of the 80hp Stark VARG MX for long-distance off-road endurance and race motos. 360V system. Ships Australia-wide from Sydney.',
     description: 'Featuring Stark’s newest 7.2 kWh honeycomb magnesium pack, the VARG MX 1.2 provides extended track and trail runtime without compromising center-of-gravity balance.',
   },
   {
@@ -368,7 +368,7 @@ export const EBIKES_DATA = [
       Weight: '122 kg',
     },
     images: ['/images/products/stark-varg-ex-enduro.webp'],
-    shortDescription: 'ADR road-legal 80hp electric enduro motorcycle with headlight, tail-tidy, horn, sidemirrors, and full Australian road compliance.',
+    shortDescription: 'ADR road-legal 80hp electric enduro motorcycle with headlight, tail-tidy, horn, sidemirrors, and full Australian road compliance. 360V system.',
     description: 'The Stark VARG EX Enduro combines Australian street-legal compliance with pro-level 80hp motocross power. Ride from your suburban garage directly into the national state forest singletrack.',
   },
   {
@@ -394,7 +394,7 @@ export const EBIKES_DATA = [
       Weight: '124 kg',
     },
     images: ['/images/products/stark-varg-sm-supermoto.webp'],
-    shortDescription: 'The ultimate 80hp electric supermoto with 17" forged wheels, sticky Pirelli Diablo Rosso IV tyres, and oversized 320mm Brembo front disc.',
+    shortDescription: 'The ultimate 80hp electric supermoto with 17" forged wheels, sticky Pirelli Diablo Rosso IV tyres, and oversized 320mm Brembo front disc. 360V system.',
     description: 'The flagship Stark VARG SM Supermoto represents the pinnacle of street-legal electric motard performance in Australia. Unrivaled cornering grip and blisteringly fast road acceleration.',
   },
 
@@ -422,7 +422,7 @@ export const EBIKES_DATA = [
       Weight: '62 kg',
     },
     images: ['/images/products/e-ride-pro-ss-20.webp'],
-    shortDescription: 'Out-of-the-box 72V 12kW electric dirt bike with Samsung 50S high-drain battery, inverted hydraulic fork, and rapid acceleration.',
+    shortDescription: 'Out-of-the-box 72V 12kW electric dirt bike with Samsung 50S high-drain battery, inverted hydraulic fork, and rapid acceleration. Ships Australia-wide from Sydney.',
     description: 'The E Ride Pro-SS 2.0 delivered the high-voltage revolution directly to trail riders without needing costly aftermarket upgrades. 72V factory power, beefy swingarm, and CNC footpeg brackets.',
   },
   {
@@ -448,7 +448,7 @@ export const EBIKES_DATA = [
       Weight: '64 kg',
     },
     images: ['/images/products/e-ride-pro-ss-30.webp'],
-    shortDescription: 'Next-gen 72V 12.5kW high-output dirt bike with reinforced gearbox, upgraded air-adjustable suspension, and heavy-duty 4-piston calipers.',
+    shortDescription: 'Next-gen 72V 12.5kW high-output dirt bike with reinforced gearbox, upgraded air-adjustable suspension, and heavy-duty 4-piston calipers. Dispatched Australia-wide from our Sydney depot.',
     description: 'The updated E Ride Pro-SS 3.0 builds upon the proven 72V platform with enhanced thermal dissipation, heavy-duty spoke wheels, and refined throttle mapping.',
   },
   {
@@ -474,7 +474,7 @@ export const EBIKES_DATA = [
       Weight: '55 kg',
     },
     images: ['/images/products/e-ride-pro-s.webp'],
-    shortDescription: 'Entry 72V lightweight trail moto delivering 6kW peak power, agile 55kg dry weight, and progressive hydraulic brakes.',
+    shortDescription: 'Entry 72V lightweight trail moto delivering 6kW peak power, agile 55kg dry weight, and progressive hydraulic brakes. Stocked in Sydney, shipped Australia-wide.',
     description: 'The E Ride Pro-S brings 72V high-efficiency architecture into a lightweight, accessible package that riders of any experience level can handle with confidence.',
   },
   {
@@ -500,7 +500,7 @@ export const EBIKES_DATA = [
       Weight: '85 kg',
     },
     images: ['/images/products/e-ride-pro-sr-enduro.webp'],
-    shortDescription: 'Full-size 25kW peak electric race machine with 72V 50Ah power, 21"/18" dirt rims, and 280mm travel suspension.',
+    shortDescription: 'Full-size 25kW peak electric race machine with 72V 50Ah power, 21"/18" dirt rims, and 280mm travel suspension. Ships Australia-wide from Sydney.',
     description: 'The Pro-SR Enduro is E Ride Pro’s top-tier competition motocross bike. Featuring 25kW peak power and 540Nm rear-wheel torque, built for open scrub, jumps, and hill climbs.',
   },
   {
@@ -526,7 +526,7 @@ export const EBIKES_DATA = [
       Weight: '56 kg',
     },
     images: ['/images/products/e-ride-pro-s-supermoto-edition.webp'],
-    shortDescription: 'Factory supermoto build with 17-inch road wheels, performance street rubber, low center of gravity, and 72V high-efficiency drive.',
+    shortDescription: 'Factory supermoto build with 17-inch road wheels, performance street rubber, low center of gravity, and 72V high-efficiency drive. Dispatched Australia-wide from our Sydney depot.',
     description: 'Designed for kart tracks, parking lot gymkhana, and tight bitumen circuits, the Pro-S Supermoto Edition combines low-drag rolling efficiency with instantaneous electric punch.',
   },
 
@@ -554,7 +554,7 @@ export const EBIKES_DATA = [
       Weight: '111 kg',
     },
     images: ['/images/products/ktm-freeride-e-xc.webp'],
-    shortDescription: 'Championship-winning European electric enduro bike with 260V architecture, WP XPLOR suspension, and full ADR road registration.',
+    shortDescription: 'Championship-winning European electric enduro bike with 260V architecture, WP XPLOR suspension, and full ADR road registration. Stocked in Sydney, shipped Australia-wide.',
     description: 'The KTM Freeride E-XC embodies Austrian competition pedigree. Premium WP suspension components, Formula brakes, and zero local emissions with full Australian street-legal compliance.',
   },
   {
@@ -580,7 +580,7 @@ export const EBIKES_DATA = [
       Weight: '40.5 kg',
     },
     images: ['/images/products/ktm-sx-e-5.webp'],
-    shortDescription: 'High-end youth electric motocross bike competing in 50cc junior classes with WP XACT air forks and adjustable seat height.',
+    shortDescription: 'High-end youth electric motocross bike competing in 50cc junior classes with WP XACT air forks and adjustable seat height. 48V system. Ships Australia-wide from Sydney.',
     description: 'The KTM SX-E 5 is the premier junior electric racer in Australia. Fitted with WP air suspension, customizable power maps from gentle learner to full-race 5kW, and adjustable frame height.',
   },
   {
@@ -606,7 +606,7 @@ export const EBIKES_DATA = [
       Weight: '39 kg',
     },
     images: ['/images/products/ktm-sx-e-3.webp'],
-    shortDescription: 'Junior starter electric dirt bike with 3.8kW motor, low seat height, sealed battery pack, and non-intimidating power curve.',
+    shortDescription: 'Junior starter electric dirt bike with 3.8kW motor, low seat height, sealed battery pack, and non-intimidating power curve. 48V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The KTM SX-E 3 is engineered for groms aged 4-8 stepping up from balance bikes. Safe, clean, whisper-quiet electric motocross thrills.',
   },
   {
@@ -632,7 +632,7 @@ export const EBIKES_DATA = [
       Weight: '29 kg',
     },
     images: ['/images/products/ktm-sx-e-2.webp'],
-    shortDescription: 'Mini electric dirt bike featuring 1.8kW hub-less power, 36V architecture, disc brakes, and easy-swap quick-disconnect battery.',
+    shortDescription: 'Mini electric dirt bike featuring 1.8kW hub-less power, 36V architecture, disc brakes, and easy-swap quick-disconnect battery. Stocked in Sydney, shipped Australia-wide.',
     description: 'Designed as the bridge between electric balance bikes and full-size junior racers. The SX-E 2 gives young riders genuine moto ergonomics with zero exhaust pipe burn risk.',
   },
   {
@@ -658,7 +658,7 @@ export const EBIKES_DATA = [
       Weight: '9 kg',
     },
     images: ['/images/products/ktm-sx-e-116-balance-bike.webp'],
-    shortDescription: '16-inch electric balance bike for kids aged 4-8 with 3 power modes, twist throttle, and lightweight composite frame.',
+    shortDescription: '16-inch electric balance bike for kids aged 4-8 with 3 power modes, twist throttle, and lightweight composite frame. 20V system. Ships Australia-wide from Sydney.',
     description: 'The KTM SX-E 1.16 teaches essential balance, braking, and throttle control. Features authentic KTM Factory Racing graphics and pneumatic off-road tyres.',
   },
 
@@ -686,7 +686,7 @@ export const EBIKES_DATA = [
       Weight: '40.5 kg',
     },
     images: ['/images/products/husqvarna-ee-5.webp'],
-    shortDescription: 'Swedish-styled competition junior electric motocross bike with 5kW output, WP XACT air suspension, and adjustable ergonomic cockpit.',
+    shortDescription: 'Swedish-styled competition junior electric motocross bike with 5kW output, WP XACT air suspension, and adjustable ergonomic cockpit. 48V system.',
     description: 'Husqvarna EE 5 is engineered for junior competitive motocross racing. Clean Scandinavian styling, zero emissions, and WP XACT air suspension matched with 6 selectable ride modes.',
   },
   {
@@ -712,7 +712,7 @@ export const EBIKES_DATA = [
       Weight: '39 kg',
     },
     images: ['/images/products/husqvarna-ee-3.webp'],
-    shortDescription: 'Junior entry electric bike featuring 3.8kW electric power, manageable seat height, WP suspension, and rollover safety sensor.',
+    shortDescription: 'Junior entry electric bike featuring 3.8kW electric power, manageable seat height, WP suspension, and rollover safety sensor. 48V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'The Husqvarna EE 3 offers safe, accessible entry into dirt riding with advanced safety features including a roll-over sensor that immediately shuts off power.',
   },
   {
@@ -738,7 +738,7 @@ export const EBIKES_DATA = [
       Weight: '29 kg',
     },
     images: ['/images/products/husqvarna-ee-2.webp'],
-    shortDescription: 'Youth mini electric dirt bike with WP hydraulic fork, disc brakes, and quick-swap 36V power system.',
+    shortDescription: 'Youth mini electric dirt bike with WP hydraulic fork, disc brakes, and quick-swap 36V power system. Ships Australia-wide from Sydney.',
     description: 'Bridging the gap between balance bikes and 50cc competitors, the EE 2 gives young riders full throttle confidence in a lightweight chassis.',
   },
   {
@@ -764,7 +764,7 @@ export const EBIKES_DATA = [
       Weight: '9.3 kg',
     },
     images: ['/images/products/husqvarna-ee-116.webp'],
-    shortDescription: '16-inch electric balance bike with aluminum frame, twist throttle, and 3 parental speed modes.',
+    shortDescription: '16-inch electric balance bike with aluminum frame, twist throttle, and 3 parental speed modes. 20V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Husqvarna EE 1.16 is the ideal learning platform for young kids progressing toward pedal-less balance and throttle mastery.',
   },
   {
@@ -790,7 +790,7 @@ export const EBIKES_DATA = [
       Weight: '7.7 kg',
     },
     images: ['/images/products/husqvarna-ee-112.webp'],
-    shortDescription: '12-inch entry e-balance bike for toddlers aged 3-5 with composite wheels and non-marking rubber tires.',
+    shortDescription: '12-inch entry e-balance bike for toddlers aged 3-5 with composite wheels and non-marking rubber tires. The lightest electric balance bike in the Husqvarna range.',
     description: 'The lightest electric balance bike in the Husqvarna range. Perfect for backyard grass, footpaths, and pump tracks.',
   },
 
@@ -818,7 +818,7 @@ export const EBIKES_DATA = [
       Weight: '40.5 kg',
     },
     images: ['/images/products/gasgas-mc-e-5.webp'],
-    shortDescription: 'All-red Spanish-styled junior electric motocross racer with 5kW motor, WP XACT suspension, and Maxxis tyres.',
+    shortDescription: 'All-red Spanish-styled junior electric motocross racer with 5kW motor, WP XACT suspension, and Maxxis tyres. 48V system. Ships Australia-wide from Sydney.',
     description: 'The GASGAS MC-E 5 brings the vibrant red racing energy of GASGAS to the electric junior circuit. Adjustable power modes, robust chromoly steel frame, and WP air forks.',
   },
   {
@@ -844,7 +844,7 @@ export const EBIKES_DATA = [
       Weight: '39 kg',
     },
     images: ['/images/products/gasgas-mc-e-3.webp'],
-    shortDescription: 'Intermediate youth e-dirt bike with 3.8kW electric power, low standover height, and lanyard safety cut-off.',
+    shortDescription: 'Intermediate youth e-dirt bike with 3.8kW electric power, low standover height, and lanyard safety cut-off. Quiet, clean, and ultra-durable.',
     description: 'The GASGAS MC-E 3 is engineered for groms ready to graduate into serious dirt track practice. Quiet, clean, and ultra-durable.',
   },
   {
@@ -870,7 +870,7 @@ export const EBIKES_DATA = [
       Weight: '29 kg',
     },
     images: ['/images/products/gasgas-mc-e-2.webp'],
-    shortDescription: 'Youth mini electric moto with WP suspension, disc brakes, and race-inspired GASGAS graphics.',
+    shortDescription: 'Youth mini electric moto with WP suspension, disc brakes, and race-inspired GASGAS graphics. 36V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'The MC-E 2 offers a thrilling platform for developing riders, featuring adjustable power output and a lightweight chassis.',
   },
   {
@@ -896,7 +896,7 @@ export const EBIKES_DATA = [
       Weight: '9 kg',
     },
     images: ['/images/products/gasgas-mc-e-116-balance-bike.webp'],
-    shortDescription: '16-inch electric balance bike with twist throttle and 3 speed modes for children learning two-wheel coordination.',
+    shortDescription: '16-inch electric balance bike with twist throttle and 3 speed modes for children learning two-wheel coordination. 20V system. Ships Australia-wide from Sydney.',
     description: 'Get the little ones rippin’ early on the GASGAS MC-E 1.16. Robust aluminium construction and pneumatic knobby tyres.',
   },
   {
@@ -922,7 +922,7 @@ export const EBIKES_DATA = [
       Weight: '7.7 kg',
     },
     images: ['/images/products/gasgas-mc-e-112-balance-bike.webp'],
-    shortDescription: '12-inch entry-level electric balance bike with low seat height and smooth electric assist for toddlers.',
+    shortDescription: '12-inch entry-level electric balance bike with low seat height and smooth electric assist for toddlers. 20V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The GASGAS MC-E 1.12 provides the safest and most enjoyable entry into the world of motorcycling for toddlers aged 3-5.',
   },
 
@@ -950,7 +950,7 @@ export const EBIKES_DATA = [
       Weight: '36 kg',
     },
     images: ['/images/products/kuberg-freerider.webp'],
-    shortDescription: 'Ultra-lightweight 36kg European electric freeride bike with 12kW peak power and bicycle-like flickability.',
+    shortDescription: 'Ultra-lightweight 36kg European electric freeride bike with 12kW peak power and bicycle-like flickability. 48V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'Handcrafted in Europe, the Kuberg Freerider offers an unmatched power-to-weight ratio. At just 36kg, it lets riders Bunny-hop obstacles and carve mountain lines impossible on heavier bikes.',
   },
   {
@@ -976,7 +976,7 @@ export const EBIKES_DATA = [
       Weight: '33 kg',
     },
     images: ['/images/products/kuberg-cross-hero.webp'],
-    shortDescription: 'Youth electric motocross bike with 3kW motor, double-cradle steel frame, and smartphone parental tuning app.',
+    shortDescription: 'Youth electric motocross bike with 3kW motor, double-cradle steel frame, and smartphone parental tuning app. 36V system. Ships Australia-wide from Sydney.',
     description: 'The Kuberg Cross Hero is precision-built for young riders aged 5-12. Features Bluetooth app integration allowing parents to set speed limits and perimeter geo-fences.',
   },
   {
@@ -1002,7 +1002,7 @@ export const EBIKES_DATA = [
       Weight: '31 kg',
     },
     images: ['/images/products/kuberg-trial-hero.webp'],
-    shortDescription: 'Junior electric trials bike without a seat, designed for precision balance, technical hopping, and obstacle control.',
+    shortDescription: 'Junior electric trials bike without a seat, designed for precision balance, technical hopping, and obstacle control. 36V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Kuberg Trial Hero instills master-level balance and clutchless low-speed throttle finesse for junior trials competition.',
   },
   {
@@ -1028,7 +1028,7 @@ export const EBIKES_DATA = [
       Weight: '21 kg',
     },
     images: ['/images/products/kuberg-start.webp'],
-    shortDescription: 'First electric bike for groms aged 3-5 with fully enclosed battery and drive chain for safety.',
+    shortDescription: 'First electric bike for groms aged 3-5 with fully enclosed battery and drive chain for safety. 24V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'The Kuberg Start provides a lightweight, confidence-inspiring stepping stone into motorized dirt biking with zero hot surfaces.',
   },
   {
@@ -1054,7 +1054,7 @@ export const EBIKES_DATA = [
       Weight: '50 kg',
     },
     images: ['/images/products/kuberg-ranger-utility.webp'],
-    shortDescription: 'Multifunctional electric utility bike with pneumatic standing seat, 14kW peak power, and cargo hauling capabilities.',
+    shortDescription: 'Multifunctional electric utility bike with pneumatic standing seat, 14kW peak power, and cargo hauling capabilities. 48V system. Ships Australia-wide from Sydney.',
     description: 'The Kuberg Ranger Utility features a unique pneumatically liftable seat that drops flat for standing trials riding or raises for comfortable seated paddock navigation.',
   },
 
@@ -1082,7 +1082,7 @@ export const EBIKES_DATA = [
       Weight: '46 kg',
     },
     images: ['/images/products/oset-240-racing.webp'],
-    shortDescription: 'Championship-winning 24-inch electric trials bike with adjustable dials for speed, power, and throttle response.',
+    shortDescription: 'Championship-winning 24-inch electric trials bike with adjustable dials for speed, power, and throttle response. 48V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The OSET 24.0 Racing is the weapon of choice for teenage and adult trials riders. Fine-tune power, response, and top speed independently via 3 onboard dials.',
   },
   {
@@ -1108,7 +1108,7 @@ export const EBIKES_DATA = [
       Weight: '37 kg',
     },
     images: ['/images/products/oset-200-racing-mkii.webp'],
-    shortDescription: '20-inch competition electric trials bike for riders aged 8-12 with hydraulic disc brakes and alloy swingarm.',
+    shortDescription: '20-inch competition electric trials bike for riders aged 8-12 with hydraulic disc brakes and alloy swingarm. The benchmark in competitive youth trials.',
     description: 'The benchmark in competitive youth trials. The OSET 20.0 Racing MKII provides instant throttle control to hop logs, rocks, and steep gullies.',
   },
   {
@@ -1134,7 +1134,7 @@ export const EBIKES_DATA = [
       Weight: '29 kg',
     },
     images: ['/images/products/oset-160-racing.webp'],
-    shortDescription: '16-inch junior electric trials bike for riders aged 5-7 with padded bar wrap, dual disc brakes, and full chain guard.',
+    shortDescription: '16-inch junior electric trials bike for riders aged 5-7 with padded bar wrap, dual disc brakes, and full chain guard. 36V system. Ships Australia-wide from Sydney.',
     description: 'The OSET 16.0 Racing introduces youngsters to obstacle-based riding with confidence, safety, and customizable dials.',
   },
   {
@@ -1160,7 +1160,7 @@ export const EBIKES_DATA = [
       Weight: '24 kg',
     },
     images: ['/images/products/oset-125-racing.webp'],
-    shortDescription: '12.5-inch starter trials mini-bike for children aged 3-5 with disc brakes and adjustable speed governor.',
+    shortDescription: '12.5-inch starter trials mini-bike for children aged 3-5 with disc brakes and adjustable speed governor. 24V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The OSET 12.5 Racing features real disc brakes front and rear, giving small kids the stopping leverage they need.',
   },
   {
@@ -1186,7 +1186,7 @@ export const EBIKES_DATA = [
       Weight: '25 kg',
     },
     images: ['/images/products/oset-125-eco.webp'],
-    shortDescription: 'Entry-level 12.5-inch electric starter bike designed to introduce toddlers to two wheels with maximum simplicity.',
+    shortDescription: 'Entry-level 12.5-inch electric starter bike designed to introduce toddlers to two wheels with maximum simplicity. 24V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'The OSET 12.5 Eco is an affordable, robust electric bike that teaches young children throttle and brake control.',
   },
 
@@ -1214,7 +1214,7 @@ export const EBIKES_DATA = [
       Weight: '68 kg',
     },
     images: ['/images/products/rfn-ares-rally-pro.webp'],
-    shortDescription: 'High-tensile steel chromoly framed electric enduro moto with 74V 12.5kW peak power and 4-piston hydraulic brakes.',
+    shortDescription: 'High-tensile steel chromoly framed electric enduro moto with 74V 12.5kW peak power and 4-piston hydraulic brakes. Ships Australia-wide from Sydney.',
     description: 'The RFN Ares Rally Pro by Apollo is built tough for Australian terrain with a full chromoly trellis frame, 74V architecture, and removable battery pack.',
   },
   {
@@ -1240,7 +1240,7 @@ export const EBIKES_DATA = [
       Weight: '72 kg',
     },
     images: ['/images/products/rfn-ares-road-legal-adr.webp'],
-    shortDescription: 'Street-legal ADR-compliant version of the RFN Ares Rally with mirrors, indicators, headlight, and registration readiness.',
+    shortDescription: 'Street-legal ADR-compliant version of the RFN Ares Rally with mirrors, indicators, headlight, and registration readiness. Fully road registrable across Australian states.',
     description: 'Fully road registrable across Australian states. The RFN Ares Road Legal offers great versatility as an everyday commuter and weekend bush trail machine.',
   },
   {
@@ -1266,7 +1266,7 @@ export const EBIKES_DATA = [
       Weight: '75 kg',
     },
     images: ['/images/products/rfn-warrior-enduro.webp'],
-    shortDescription: 'Full-size electric enduro with enlarged 43Ah battery, long-travel inverted forks, and 21-inch front off-road wheel.',
+    shortDescription: 'Full-size electric enduro with enlarged 43Ah battery, long-travel inverted forks, and 21-inch front off-road wheel. 74V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'The RFN Warrior Enduro provides extended outback range and superior rollover clearance on boulders and tree roots.',
   },
   {
@@ -1292,7 +1292,7 @@ export const EBIKES_DATA = [
       Weight: '36 kg',
     },
     images: ['/images/products/apollo-rfn-rxf-e-dirt-junior.webp'],
-    shortDescription: 'Junior electric dirt bike with 48V motor, mechanical disc brakes, and race pit-bike styling for kids aged 7-12.',
+    shortDescription: 'Junior electric dirt bike with 48V motor, mechanical disc brakes, and race pit-bike styling for kids aged 7-12. Ships Australia-wide from Sydney.',
     description: 'The Apollo RFN RXF E-Dirt Junior offers true pit-bike styling and solid build quality with zero carburetors to jet.',
   },
   {
@@ -1318,7 +1318,7 @@ export const EBIKES_DATA = [
       Weight: '11 kg',
     },
     images: ['/images/products/apollo-sedna-16-pro-e-balance.webp'],
-    shortDescription: '16-inch alloy e-balance bike with rear disc brake and brushless hub motor for groms aged 5-8.',
+    shortDescription: '16-inch alloy e-balance bike with rear disc brake and brushless hub motor for groms aged 5-8. 24V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Apollo Sedna 16 Pro provides the perfect introductory balance experience with reliable brushless motor assist.',
   },
 
@@ -1346,7 +1346,7 @@ export const EBIKES_DATA = [
       Weight: '79 kg',
     },
     images: ['/images/products/arctic-leopard-xe-pro-s.webp'],
-    shortDescription: 'Extreme 80V 20kW peak electric motocross motorcycle with titanium alloy subframe and 580Nm torque.',
+    shortDescription: 'Extreme 80V 20kW peak electric motocross motorcycle with titanium alloy subframe and 580Nm torque. Stocked in Sydney, shipped Australia-wide.',
     description: 'Engineered for extreme mountain hill climbing and hardcore enduro trails. The Arctic Leopard XE Pro S combines an 80V electrical system with a rigid, lightweight chassis.',
   },
   {
@@ -1372,7 +1372,7 @@ export const EBIKES_DATA = [
       Weight: '76 kg',
     },
     images: ['/images/products/arctic-leopard-xe-800.webp'],
-    shortDescription: 'Full-size electric enduro machine featuring 18kW peak output, adjustable inverted hydraulic forks, and 21"/18" setup.',
+    shortDescription: 'Full-size electric enduro machine featuring 18kW peak output, adjustable inverted hydraulic forks, and 21"/18" setup. 72V system. Ships Australia-wide from Sydney.',
     description: 'The Arctic Leopard XE 800 is a dedicated competition off-road moto offering massive torque and robust suspension performance.',
   },
   {
@@ -1398,7 +1398,7 @@ export const EBIKES_DATA = [
       Weight: '68 kg',
     },
     images: ['/images/products/arctic-leopard-xt-600.webp'],
-    shortDescription: 'Agile 72V 12kW electric trail enduro with 40Ah battery pack, forged aluminum frame, and multi-tier regenerative braking.',
+    shortDescription: 'Agile 72V 12kW electric trail enduro with 40Ah battery pack, forged aluminum frame, and multi-tier regenerative braking. Dispatched Australia-wide from our Sydney depot.',
     description: 'The XT 600 provides supreme agility through tight forest singletrack and rocky creek beds.',
   },
   {
@@ -1424,7 +1424,7 @@ export const EBIKES_DATA = [
       Weight: '42 kg',
     },
     images: ['/images/products/arctic-leopard-xe-cheetah-youth.webp'],
-    shortDescription: 'Youth electric dirt bike with 4kW motor, hydraulic disc brakes, and progressive throttle for fast-learning teenagers.',
+    shortDescription: 'Youth electric dirt bike with 4kW motor, hydraulic disc brakes, and progressive throttle for fast-learning teenagers. 48V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'The XE Cheetah Youth offers real enduro feel in a reduced scale designed for teenage off-road riders.',
   },
   {
@@ -1450,7 +1450,7 @@ export const EBIKES_DATA = [
       Weight: '83 kg',
     },
     images: ['/images/products/arctic-leopard-xe-road-edition.webp'],
-    shortDescription: 'ADR street-legal 80V 20kW electric dirt bike equipped with full Australian lighting, mirrors, and dual-sport road registration kit.',
+    shortDescription: 'ADR street-legal 80V 20kW electric dirt bike equipped with full Australian lighting, mirrors, and dual-sport road registration kit. Ships Australia-wide from Sydney.',
     description: 'The XE Road Edition delivers blistering 20kW acceleration on the road and dominates technical off-road tracks on the weekend.',
   },
 
@@ -1478,7 +1478,7 @@ export const EBIKES_DATA = [
       Weight: '15 kg',
     },
     images: ['/images/products/stacyc-20edrive.webp'],
-    shortDescription: '20-inch electric youth dirt bike for kids aged 10-12 with 36V brushless platform and Manitou J-Unit fork.',
+    shortDescription: '20-inch electric youth dirt bike for kids aged 10-12 with 36V brushless platform and Manitou J-Unit fork. Dispatched Australia-wide from our Sydney depot.',
     description: 'The STACYC 20eDRIVE is the largest model in the famous eDRIVE family. Features a 36V brushless motor, custom suspension, and disc brakes.',
   },
   {
@@ -1504,7 +1504,7 @@ export const EBIKES_DATA = [
       Weight: '14 kg',
     },
     images: ['/images/products/stacyc-18edrive.webp'],
-    shortDescription: '18-inch electric balance bike for riders aged 8-10 with brushless 36V power and hydraulic rear brake.',
+    shortDescription: '18-inch electric balance bike for riders aged 8-10 with brushless 36V power and hydraulic rear brake. Stocked in Sydney, shipped Australia-wide.',
     description: 'The 18eDRIVE fills the gap for fast-growing groms ready to tackle aggressive pump tracks and dirt jumps.',
   },
   {
@@ -1530,7 +1530,7 @@ export const EBIKES_DATA = [
       Weight: '9 kg',
     },
     images: ['/images/products/stacyc-16edrive-brushless.webp'],
-    shortDescription: '16-inch high-output brushless electric balance bike for kids aged 5-7 with 20% more low-end torque.',
+    shortDescription: '16-inch high-output brushless electric balance bike for kids aged 5-7 with 20% more low-end torque. 20V system. Ships Australia-wide from Sydney.',
     description: 'The brushless edition of the iconic 16eDRIVE gives groms immediate power out of berms and over dirt rollers.',
   },
   {
@@ -1556,7 +1556,7 @@ export const EBIKES_DATA = [
       Weight: '7.7 kg',
     },
     images: ['/images/products/stacyc-12edrive.webp'],
-    shortDescription: '12-inch starter electric balance bike for toddlers aged 3-5 with 3 progressive power modes.',
+    shortDescription: '12-inch starter electric balance bike for toddlers aged 3-5 with 3 progressive power modes. 20V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The original STACYC 12eDRIVE revolutionized how kids learn to ride by replacing training wheels with throttle control.',
   },
   {
@@ -1582,7 +1582,7 @@ export const EBIKES_DATA = [
       Weight: '8.6 kg',
     },
     images: ['/images/products/stacyc-16edrive-standard.webp'],
-    shortDescription: '16-inch standard brushed electric balance bike for riders aged 5-7 with aluminium TIG-welded frame.',
+    shortDescription: '16-inch standard brushed electric balance bike for riders aged 5-7 with aluminium TIG-welded frame. 20V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'Reliable and easy to maintain, the standard 16eDRIVE provides hours of backyard fun while teaching core balance skills.',
   },
 
@@ -1610,7 +1610,7 @@ export const EBIKES_DATA = [
       Weight: '66 kg',
     },
     images: ['/images/products/thumpstar-z6-72v.webp'],
-    shortDescription: 'Australian pit-bike heritage meets 72V 10kW electric power with high-tensile frame and heavy-duty suspension.',
+    shortDescription: 'Australian pit-bike heritage meets 72V 10kW electric power with high-tensile frame and heavy-duty suspension. Ships Australia-wide from Sydney.',
     description: 'Thumpstar brings its legendary pit-bike durability to the electric age with the Z6 72V. Instant punch, reinforced swingarm, and plush trail suspension.',
   },
   {
@@ -1636,7 +1636,7 @@ export const EBIKES_DATA = [
       Weight: '38 kg',
     },
     images: ['/images/products/thumpstar-e-pit-1000.webp'],
-    shortDescription: 'Junior electric pit-bike featuring 48V 1kW motor, hydraulic disc brakes, and key-switched speed limiter.',
+    shortDescription: 'Junior electric pit-bike featuring 48V 1kW motor, hydraulic disc brakes, and key-switched speed limiter. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Thumpstar E-Pit 1000 delivers genuine pit-bike thrills for younger riders with clean, quiet, low-maintenance electric drive.',
   },
   {
@@ -1662,7 +1662,7 @@ export const EBIKES_DATA = [
       Weight: '11 kg',
     },
     images: ['/images/products/thumpstar-tse-16.webp'],
-    shortDescription: '16-inch kids electric balance bike with rear disc brake, quick-release battery, and lightweight alloy frame.',
+    shortDescription: '16-inch kids electric balance bike with rear disc brake, quick-release battery, and lightweight alloy frame. 24V system. Stocked in Sydney, shipped Australia-wide.',
     description: 'An affordable, high-fun balance bike for children aged 5-8 with durable components and Australian warranty support.',
   },
   {
@@ -1688,7 +1688,7 @@ export const EBIKES_DATA = [
       Weight: '8.5 kg',
     },
     images: ['/images/products/thumpstar-tse-12l.webp'],
-    shortDescription: '12-inch entry-level electric balance bike with low standover height for toddlers aged 3-5.',
+    shortDescription: '12-inch entry-level electric balance bike with low standover height for toddlers aged 3-5. 18V system. Ships Australia-wide from Sydney.',
     description: 'The Thumpstar TSE 12L introduces toddlers to powered two-wheel balance safely and smoothly.',
   },
   {
@@ -1714,7 +1714,7 @@ export const EBIKES_DATA = [
       Weight: '45 kg',
     },
     images: ['/images/products/thumpstar-z4-electric-offroad.webp'],
-    shortDescription: 'Intermediate youth electric dirt bike featuring 2.5kW brushless motor and inverted front forks.',
+    shortDescription: 'Intermediate youth electric dirt bike featuring 2.5kW brushless motor and inverted front forks. 48V system. Dispatched Australia-wide from our Sydney depot.',
     description: 'The Thumpstar Z4 Electric Offroad offers a smooth transition from mini-bikes into full-size dirt riding.',
   },
 
@@ -1742,7 +1742,7 @@ export const EBIKES_DATA = [
       Weight: '65 kg',
     },
     images: ['/images/products/ubco-2x2-work-bike.webp'],
-    shortDescription: 'All-Wheel Drive (2X2) electric utility workhorse with dual hub motors, 3.1kWh battery, and 150kg payload capacity.',
+    shortDescription: 'All-Wheel Drive (2X2) electric utility workhorse with dual hub motors, 3.1kWh battery, and 150kg payload capacity. 52V Dual Motor (AWD) system.',
     description: 'Built for tough Australian farm work, cattle mustering, and property maintenance. The UBCO 2X2 Work Bike powers through mud, sand, and steep slopes without scaring livestock or spilling fuel.',
   },
   {
@@ -1768,7 +1768,7 @@ export const EBIKES_DATA = [
       Weight: '70 kg',
     },
     images: ['/images/products/ubco-2x2-adventure-bike.webp'],
-    shortDescription: 'ADR road-legal dual-motor AWD utility bike with lights, mirrors, and road registration kit for town and farm duty.',
+    shortDescription: 'ADR road-legal dual-motor AWD utility bike with lights, mirrors, and road registration kit for town and farm duty. 52V Dual Motor (AWD) system.',
     description: 'The UBCO 2X2 Adventure Bike is fully road registrable across Australia. Drive on the road to town, carry tools and supplies, and head straight into the paddock with full AWD traction.',
   },
   {
@@ -1794,7 +1794,7 @@ export const EBIKES_DATA = [
       Weight: '72 kg',
     },
     images: ['/images/products/ubco-2x2-hunt-special-edition.webp'],
-    shortDescription: 'Silent stealth AWD utility bike with matte green camouflage livery, gun scabbard mounts, and heavy cargo racks.',
+    shortDescription: 'Silent stealth AWD utility bike with matte green camouflage livery, gun scabbard mounts, and heavy cargo racks. 52V Dual Motor (AWD) system.',
     description: 'Designed for silent wildlife conservation, hunting, and remote station pest management with zero engine sound.',
   },
   {
@@ -1820,7 +1820,7 @@ export const EBIKES_DATA = [
       Weight: '58 kg',
     },
     images: ['/images/products/ubco-2x2-short-wheelbase-compact.webp'],
-    shortDescription: 'Compact short-wheelbase AWD farm bike for tight sheds, horse arenas, and easy transport in utes and trailers.',
+    shortDescription: 'Compact short-wheelbase AWD farm bike for tight sheds, horse arenas, and easy transport in utes and trailers. 52V Dual Motor (AWD) system. Stocked in Sydney, shipped Australia-wide.',
     description: 'A lighter, more compact version of UBCO’s dual-motor platform designed for tight spaces and quick paddock hops.',
   },
 ];

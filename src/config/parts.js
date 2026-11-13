@@ -16,8 +16,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Structural 60V 60Ah pack with 21700 cells and smart BMS — direct fit for Sur-Ron Light Bee X and Talaria Sting.",
-    description: "Structural 60V 60Ah pack with 21700 cells and smart BMS — direct fit for Sur-Ron Light Bee X and Talaria Sting.",
+    shortDescription: "Structural 60V 60Ah pack with 21700 cells and smart BMS — direct fit for Sur-Ron Light Bee X and Talaria Sting. Backed by our 2-Year Australian Warranty.",
+    description: "Structural 60V 60Ah pack with 21700 cells and smart BMS — direct fit for Sur-Ron Light Bee X and Talaria Sting. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/chi-gladiator-60-max-battery-60v-60ah.webp"
     ],
@@ -43,8 +43,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Maximum-range 70Ah touring pack for all-day bush rides on 60V Sur-Ron and Talaria platforms.",
-    description: "Maximum-range 70Ah touring pack for all-day bush rides on 60V Sur-Ron and Talaria platforms.",
+    shortDescription: "Maximum-range 70Ah touring pack for all-day bush rides on 60V Sur-Ron and Talaria platforms. Backed by our 2-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Maximum-range 70Ah touring pack for all-day bush rides on 60V Sur-Ron and Talaria platforms. Backed by our 2-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/chi-gladiator-60-touring-battery-60v-70ah.webp"
     ],
@@ -70,8 +70,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Lightweight 51Ah in-frame compact pack that keeps stock geometry while adding real range.",
-    description: "Lightweight 51Ah in-frame compact pack that keeps stock geometry while adding real range.",
+    shortDescription: "Lightweight 51Ah in-frame compact pack that keeps stock geometry while adding real range. Fits Sur-Ron LBX. 60V Nominal system. Backed by our 2-Year Australian Warranty.",
+    description: "Lightweight 51Ah in-frame compact pack that keeps stock geometry while adding real range. Fits Sur-Ron LBX. 60V Nominal system. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/chi-gladiator-x60-compact-battery-60v-51ah.webp"
     ],
@@ -97,8 +97,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "High-voltage 72V 38Ah compact pack for riders chasing more top-end without a controller swap.",
-    description: "High-voltage 72V 38Ah compact pack for riders chasing more top-end without a controller swap.",
+    shortDescription: "High-voltage 72V 38Ah compact pack for riders chasing more top-end without a controller swap. Fits Sur-Ron LBX, Talaria Sting. Backed by our 2-Year Australian Warranty.",
+    description: "High-voltage 72V 38Ah compact pack for riders chasing more top-end without a controller swap. Fits Sur-Ron LBX, Talaria Sting. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/chi-gladiator-x72-compact-battery-72v-38ah.webp"
     ],
@@ -124,8 +124,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Slide-in 72V Titan X pack engineered for the Talaria X-series chassis with reinforced lid and harness.",
-    description: "Slide-in 72V Titan X pack engineered for the Talaria X-series chassis with reinforced lid and harness.",
+    shortDescription: "Slide-in 72V Titan X pack engineered for the Talaria X-series chassis with reinforced lid and harness. Rated at 40Ah (2,880 Wh). Backed by our 2-Year Australian Warranty.",
+    description: "Slide-in 72V Titan X pack engineered for the Talaria X-series chassis with reinforced lid and harness. Rated at 40Ah (2,880 Wh). Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/chi-titan-x-72v-battery-for-talaria.webp"
     ],
@@ -151,8 +151,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "DHS GT high-discharge 72V 50Ah pack — a popular power-and-range upgrade for the Sur-Ron Light Bee X.",
-    description: "DHS GT high-discharge 72V 50Ah pack — a popular power-and-range upgrade for the Sur-Ron Light Bee X.",
+    shortDescription: "DHS GT high-discharge 72V 50Ah pack — a popular power-and-range upgrade for the Sur-Ron Light Bee X. Backed by our 2-Year Australian Warranty.",
+    description: "DHS GT high-discharge 72V 50Ah pack — a popular power-and-range upgrade for the Sur-Ron Light Bee X. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/dhs-gt-72v-50ah-battery-for-sur-ron-lbx.webp"
     ],
@@ -178,8 +178,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "eWatt long-range 60V 53Ah pack with Molicel cells for extended trail range on the Light Bee X.",
-    description: "eWatt long-range 60V 53Ah pack with Molicel cells for extended trail range on the Light Bee X.",
+    shortDescription: "eWatt long-range 60V 53Ah pack with Molicel cells for extended trail range on the Light Bee X. Fits Sur-Ron LBX. Backed by our 2-Year Australian Warranty.",
+    description: "eWatt long-range 60V 53Ah pack with Molicel cells for extended trail range on the Light Bee X. Fits Sur-Ron LBX. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/ewatt-60v-53ah-long-range-battery-for-sur-ron-lbx.webp"
     ],
@@ -205,8 +205,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Direct-fit eWatt 60V 53Ah long-range pack for the Talaria Sting R / MX4.",
-    description: "Direct-fit eWatt 60V 53Ah long-range pack for the Talaria Sting R / MX4.",
+    shortDescription: "Direct-fit eWatt 60V 53Ah long-range pack for the Talaria Sting R / MX4. Backed by our 2-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Direct-fit eWatt 60V 53Ah long-range pack for the Talaria Sting R / MX4. Backed by our 2-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/ewatt-60v-53ah-long-range-battery-for-talaria-sting.webp"
     ],
@@ -232,8 +232,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "High-drain 72V 42Ah race pack for the Talaria Sting — built for full-power moto laps.",
-    description: "High-drain 72V 42Ah race pack for the Talaria Sting — built for full-power moto laps.",
+    shortDescription: "High-drain 72V 42Ah race pack for the Talaria Sting — built for full-power moto laps. Backed by our 2-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "High-drain 72V 42Ah race pack for the Talaria Sting — built for full-power moto laps. Backed by our 2-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/ewatt-72v-42ah-race-battery-for-talaria-sting.webp"
     ],
@@ -259,8 +259,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Flagship eWatt 72V 63Ah pack combining race-grade discharge with genuine touring range for Talaria.",
-    description: "Flagship eWatt 72V 63Ah pack combining race-grade discharge with genuine touring range for Talaria.",
+    shortDescription: "Flagship eWatt 72V 63Ah pack combining race-grade discharge with genuine touring range for Talaria. Backed by our 2-Year Australian Warranty.",
+    description: "Flagship eWatt 72V 63Ah pack combining race-grade discharge with genuine touring range for Talaria. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/ewatt-72v-63ah-long-range-race-battery-for-talaria.webp"
     ],
@@ -286,8 +286,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "eWatt v5 72V race pack rated to feed a 28kW controller on the Sur-Ron Light Bee X.",
-    description: "eWatt v5 72V race pack rated to feed a 28kW controller on the Sur-Ron Light Bee X.",
+    shortDescription: "eWatt v5 72V race pack rated to feed a 28kW controller on the Sur-Ron Light Bee X. Backed by our 2-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "eWatt v5 72V race pack rated to feed a 28kW controller on the Sur-Ron Light Bee X. Backed by our 2-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/ewatt-72v-race-battery-v5-for-sur-ron-lbx-28kw.webp"
     ],
@@ -313,8 +313,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "eWatt 74V 44Ah slide-in pack for the Talaria X3 / XXX chassis, supplied with lid and harness.",
-    description: "eWatt 74V 44Ah slide-in pack for the Talaria X3 / XXX chassis, supplied with lid and harness.",
+    shortDescription: "eWatt 74V 44Ah slide-in pack for the Talaria X3 / XXX chassis, supplied with lid and harness. Backed by our 2-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "eWatt 74V 44Ah slide-in pack for the Talaria X3 / XXX chassis, supplied with lid and harness. Backed by our 2-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/ewatt-74v-44ah-battery-for-talaria-x-series.webp"
     ],
@@ -340,8 +340,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Complete eWatt 80V 76Ah big-range bundle for the Sur-Ron Ultra Bee — includes battery lid and fast charger.",
-    description: "Complete eWatt 80V 76Ah big-range bundle for the Sur-Ron Ultra Bee — includes battery lid and fast charger.",
+    shortDescription: "Complete eWatt 80V 76Ah big-range bundle for the Sur-Ron Ultra Bee — includes battery lid and fast charger. Backed by our 2-Year Australian Warranty.",
+    description: "Complete eWatt 80V 76Ah big-range bundle for the Sur-Ron Ultra Bee — includes battery lid and fast charger. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/ewatt-ultra-bee-80v-76ah-bundle-lid-plus-charger.webp"
     ],
@@ -368,8 +368,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "EBMX 74V 44Ah performance pack for the Talaria X-series, complete with battery lid and wiring harness.",
-    description: "EBMX 74V 44Ah performance pack for the Talaria X-series, complete with battery lid and wiring harness.",
+    shortDescription: "EBMX 74V 44Ah performance pack for the Talaria X-series, complete with battery lid and wiring harness. Backed by our 2-Year Australian Warranty.",
+    description: "EBMX 74V 44Ah performance pack for the Talaria X-series, complete with battery lid and wiring harness. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/ebmx-74v-44ah-battery-for-talaria-x-lid-plus-harness.webp"
     ],
@@ -396,8 +396,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "EBMX 81V high-voltage performance pack for the Sur-Ron Ultra Bee, supplied with lid and charger.",
-    description: "EBMX 81V high-voltage performance pack for the Sur-Ron Ultra Bee, supplied with lid and charger.",
+    shortDescription: "EBMX 81V high-voltage performance pack for the Sur-Ron Ultra Bee, supplied with lid and charger. Backed by our 2-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "EBMX 81V high-voltage performance pack for the Sur-Ron Ultra Bee, supplied with lid and charger. Backed by our 2-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/ebmx-81v-ultra-bee-performance-pack-lid-plus-charger.webp"
     ],
@@ -423,8 +423,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "high-capacity-batteries"
     ],
-    shortDescription: "Genuine STACYC 20V battery for 12/16/18/20eDRIVE youth bikes — the standard-capacity spare.",
-    description: "Genuine STACYC 20V battery for 12/16/18/20eDRIVE youth bikes — the standard-capacity spare.",
+    shortDescription: "Genuine STACYC 20V battery for 12/16/18/20eDRIVE youth bikes — the standard-capacity spare. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Genuine STACYC 20V battery for 12/16/18/20eDRIVE youth bikes — the standard-capacity spare. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-oem-20v-battery-standard.webp"
     ],
@@ -449,8 +449,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "fast-chargers"
     ],
-    shortDescription: "Reliable 60V smart charger with AU plug and auto-shutoff — suits Sur-Ron LBX and Talaria Sting 60V packs.",
-    description: "Reliable 60V smart charger with AU plug and auto-shutoff — suits Sur-Ron LBX and Talaria Sting 60V packs.",
+    shortDescription: "Reliable 60V smart charger with AU plug and auto-shutoff — suits Sur-Ron LBX and Talaria Sting 60V packs. Backed by our 1-Year Australian Warranty.",
+    description: "Reliable 60V smart charger with AU plug and auto-shutoff — suits Sur-Ron LBX and Talaria Sting 60V packs. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/60v-standard-aftermarket-fast-charger-au-plug.webp"
     ],
@@ -475,8 +475,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "fast-chargers"
     ],
-    shortDescription: "Fan-cooled 72V smart charger with auto-balancing shutoff for aftermarket 72V race packs.",
-    description: "Fan-cooled 72V smart charger with auto-balancing shutoff for aftermarket 72V race packs.",
+    shortDescription: "Fan-cooled 72V smart charger with auto-balancing shutoff for aftermarket 72V race packs. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "Fan-cooled 72V smart charger with auto-balancing shutoff for aftermarket 72V race packs. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/72v-standard-aftermarket-fast-charger-au-plug.webp"
     ],
@@ -501,8 +501,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "fast-chargers"
     ],
-    shortDescription: "High-amp 74V charger matched to EBMX and eWatt 74V battery packs for the Talaria X-series and Sur-Ron.",
-    description: "High-amp 74V charger matched to EBMX and eWatt 74V battery packs for the Talaria X-series and Sur-Ron.",
+    shortDescription: "High-amp 74V charger matched to EBMX and eWatt 74V battery packs for the Talaria X-series and Sur-Ron. Backed by our 1-Year Australian Warranty.",
+    description: "High-amp 74V charger matched to EBMX and eWatt 74V battery packs for the Talaria X-series and Sur-Ron. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/74v-fast-charger-for-ebmx-ewatt-packs.webp"
     ],
@@ -528,8 +528,8 @@ export const PARTS_PRODUCTS = [
       "batteries-chargers",
       "fast-chargers"
     ],
-    shortDescription: "Genuine STACYC single-bay 20V charger for all STACYC eDRIVE youth bike batteries.",
-    description: "Genuine STACYC single-bay 20V charger for all STACYC eDRIVE youth bike batteries.",
+    shortDescription: "Genuine STACYC single-bay 20V charger for all STACYC eDRIVE youth bike batteries. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Genuine STACYC single-bay 20V charger for all STACYC eDRIVE youth bike batteries. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-oem-20v-battery-charger.webp"
     ],
@@ -554,8 +554,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "aftermarket-controllers"
     ],
-    shortDescription: "EBMX X-9000 FOC controller delivering up to 90A with app tuning — a proven Sur-Ron and Talaria power upgrade.",
-    description: "EBMX X-9000 FOC controller delivering up to 90A with app tuning — a proven Sur-Ron and Talaria power upgrade.",
+    shortDescription: "EBMX X-9000 FOC controller delivering up to 90A with app tuning — a proven Sur-Ron and Talaria power upgrade. Backed by our 2-Year Australian Warranty.",
+    description: "EBMX X-9000 FOC controller delivering up to 90A with app tuning — a proven Sur-Ron and Talaria power upgrade. Backed by our 2-Year Australian Warranty.",
     images: [
       "/images/products/ebmx-x-9000-aftermarket-controller.webp"
     ],
@@ -581,8 +581,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "aftermarket-controllers"
     ],
-    shortDescription: "Genuine OEM replacement controller for the Sur-Ron Light Bee X — plug-and-play, no tuning required.",
-    description: "Genuine OEM replacement controller for the Sur-Ron Light Bee X — plug-and-play, no tuning required.",
+    shortDescription: "Genuine OEM replacement controller for the Sur-Ron Light Bee X — plug-and-play, no tuning required. Backed by our 1-Year Australian Warranty.",
+    description: "Genuine OEM replacement controller for the Sur-Ron Light Bee X — plug-and-play, no tuning required. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/sur-ron-stock-controller-replacement.webp"
     ],
@@ -607,8 +607,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "aftermarket-controllers"
     ],
-    shortDescription: "OEM replacement controller for the Talaria Sting R / MX4 — direct fit with factory connectors.",
-    description: "OEM replacement controller for the Talaria Sting R / MX4 — direct fit with factory connectors.",
+    shortDescription: "OEM replacement controller for the Talaria Sting R / MX4 — direct fit with factory connectors. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "OEM replacement controller for the Talaria Sting R / MX4 — direct fit with factory connectors. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-controller-replacement.webp"
     ],
@@ -633,8 +633,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "displays-throttles"
     ],
-    shortDescription: "Genuine Sur-Ron LCD display with speed, battery and ride-mode readout — direct replacement for the Light Bee X.",
-    description: "Genuine Sur-Ron LCD display with speed, battery and ride-mode readout — direct replacement for the Light Bee X.",
+    shortDescription: "Genuine Sur-Ron LCD display with speed, battery and ride-mode readout — direct replacement for the Light Bee X. Backed by our 1-Year Australian Warranty.",
+    description: "Genuine Sur-Ron LCD display with speed, battery and ride-mode readout — direct replacement for the Light Bee X. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/sur-ron-display-speedometer.webp"
     ],
@@ -658,8 +658,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "displays-throttles"
     ],
-    shortDescription: "OEM thumb / twist throttle assembly for the Sur-Ron Light Bee X with sealed hall-effect sensor.",
-    description: "OEM thumb / twist throttle assembly for the Sur-Ron Light Bee X with sealed hall-effect sensor.",
+    shortDescription: "OEM thumb / twist throttle assembly for the Sur-Ron Light Bee X with sealed hall-effect sensor. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "OEM thumb / twist throttle assembly for the Sur-Ron Light Bee X with sealed hall-effect sensor. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-throttle-replacement.webp"
     ],
@@ -683,8 +683,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "displays-throttles"
     ],
-    shortDescription: "OEM colour display for the Talaria Sting range with ride mode, speed and state-of-charge.",
-    description: "OEM colour display for the Talaria Sting range with ride mode, speed and state-of-charge.",
+    shortDescription: "OEM colour display for the Talaria Sting range with ride mode, speed and state-of-charge. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "OEM colour display for the Talaria Sting range with ride mode, speed and state-of-charge. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-display-screen.webp"
     ],
@@ -708,8 +708,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "displays-throttles"
     ],
-    shortDescription: "Genuine Talaria throttle assembly with sealed sensor — direct fit for the Sting range.",
-    description: "Genuine Talaria throttle assembly with sealed sensor — direct fit for the Sting range.",
+    shortDescription: "Genuine Talaria throttle assembly with sealed sensor — direct fit for the Sting range. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "Genuine Talaria throttle assembly with sealed sensor — direct fit for the Sting range. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-throttle.webp"
     ],
@@ -733,8 +733,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "displays-throttles"
     ],
-    shortDescription: "Replacement twist throttle for STACYC 16 / 18 / 20eDRIVE youth bikes.",
-    description: "Replacement twist throttle for STACYC 16 / 18 / 20eDRIVE youth bikes.",
+    shortDescription: "Replacement twist throttle for STACYC 16 / 18 / 20eDRIVE youth bikes. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Replacement twist throttle for STACYC 16 / 18 / 20eDRIVE youth bikes. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-throttle.webp"
     ],
@@ -758,8 +758,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "displays-throttles"
     ],
-    shortDescription: "OEM LED headlight unit for the Sur-Ron Light Bee X with mounting bracket and loom.",
-    description: "OEM LED headlight unit for the Sur-Ron Light Bee X with mounting bracket and loom.",
+    shortDescription: "OEM LED headlight unit for the Sur-Ron Light Bee X with mounting bracket and loom. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "OEM LED headlight unit for the Sur-Ron Light Bee X with mounting bracket and loom. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-headlight-assembly.webp"
     ],
@@ -783,8 +783,8 @@ export const PARTS_PRODUCTS = [
       "controllers-electronics",
       "displays-throttles"
     ],
-    shortDescription: "Keyless ignition fob upgrade kit for the Talaria Sting — start and immobilise from your pocket.",
-    description: "Keyless ignition fob upgrade kit for the Talaria Sting — start and immobilise from your pocket.",
+    shortDescription: "Keyless ignition fob upgrade kit for the Talaria Sting — start and immobilise from your pocket. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "Keyless ignition fob upgrade kit for the Talaria Sting — start and immobilise from your pocket. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-key-fob-kit.webp"
     ],
@@ -807,8 +807,8 @@ export const PARTS_PRODUCTS = [
       "suspension-steering",
       "front-forks"
     ],
-    shortDescription: "Complete OEM-spec front fork assembly for the Sur-Ron Light Bee X — pre-assembled and ready to bolt on.",
-    description: "Complete OEM-spec front fork assembly for the Sur-Ron Light Bee X — pre-assembled and ready to bolt on.",
+    shortDescription: "Complete OEM-spec front fork assembly for the Sur-Ron Light Bee X — pre-assembled and ready to bolt on. Backed by our 1-Year Australian Warranty.",
+    description: "Complete OEM-spec front fork assembly for the Sur-Ron Light Bee X — pre-assembled and ready to bolt on. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/sur-ron-front-fork-complete-assembly.webp"
     ],
@@ -833,8 +833,8 @@ export const PARTS_PRODUCTS = [
       "suspension-steering",
       "front-forks"
     ],
-    shortDescription: "Full seal and wiper kit to refresh Sur-Ron Light Bee X forks and stop weeping stanchions.",
-    description: "Full seal and wiper kit to refresh Sur-Ron Light Bee X forks and stop weeping stanchions.",
+    shortDescription: "Full seal and wiper kit to refresh Sur-Ron Light Bee X forks and stop weeping stanchions. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Full seal and wiper kit to refresh Sur-Ron Light Bee X forks and stop weeping stanchions. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-fork-seals-kit.webp"
     ],
@@ -858,8 +858,8 @@ export const PARTS_PRODUCTS = [
       "suspension-steering",
       "rear-shocks"
     ],
-    shortDescription: "Piggyback reservoir rear shock with rebound and compression adjustment for the Sur-Ron Light Bee X.",
-    description: "Piggyback reservoir rear shock with rebound and compression adjustment for the Sur-Ron Light Bee X.",
+    shortDescription: "Piggyback reservoir rear shock with rebound and compression adjustment for the Sur-Ron Light Bee X. Backed by our 1-Year Australian Warranty.",
+    description: "Piggyback reservoir rear shock with rebound and compression adjustment for the Sur-Ron Light Bee X. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/sur-ron-rear-shock-upgrade.webp"
     ],
@@ -883,8 +883,8 @@ export const PARTS_PRODUCTS = [
       "parts-upgrades",
       "suspension-steering"
     ],
-    shortDescription: "Tapered 7075 aluminium handlebar with MX bend to replace or upgrade the Sur-Ron Light Bee X bars.",
-    description: "Tapered 7075 aluminium handlebar with MX bend to replace or upgrade the Sur-Ron Light Bee X bars.",
+    shortDescription: "Tapered 7075 aluminium handlebar with MX bend to replace or upgrade the Sur-Ron Light Bee X bars. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Tapered 7075 aluminium handlebar with MX bend to replace or upgrade the Sur-Ron Light Bee X bars. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-handlebars-tapered-alloy.webp"
     ],
@@ -908,8 +908,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "pads-lines"
     ],
-    shortDescription: "Sintered front brake pads for the Sur-Ron Light Bee X — strong initial bite with excellent fade resistance.",
-    description: "Sintered front brake pads for the Sur-Ron Light Bee X — strong initial bite with excellent fade resistance.",
+    shortDescription: "Sintered front brake pads for the Sur-Ron Light Bee X — strong initial bite with excellent fade resistance. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Sintered front brake pads for the Sur-Ron Light Bee X — strong initial bite with excellent fade resistance. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-front-brake-pads.webp"
     ],
@@ -933,8 +933,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "pads-lines"
     ],
-    shortDescription: "Sintered rear brake pads for the Sur-Ron Light Bee X, matched to the OEM and oversized rotors.",
-    description: "Sintered rear brake pads for the Sur-Ron Light Bee X, matched to the OEM and oversized rotors.",
+    shortDescription: "Sintered rear brake pads for the Sur-Ron Light Bee X, matched to the OEM and oversized rotors. Backed by our 3-Month Warranty. Ships Australia-wide from Sydney.",
+    description: "Sintered rear brake pads for the Sur-Ron Light Bee X, matched to the OEM and oversized rotors. Backed by our 3-Month Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/sur-ron-rear-brake-pads.webp"
     ],
@@ -958,8 +958,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "pads-lines"
     ],
-    shortDescription: "Sintered front pads for the Talaria Sting range with consistent bite on long descents.",
-    description: "Sintered front pads for the Talaria Sting range with consistent bite on long descents.",
+    shortDescription: "Sintered front pads for the Talaria Sting range with consistent bite on long descents. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Sintered front pads for the Talaria Sting range with consistent bite on long descents. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/talaria-front-brake-pads.webp"
     ],
@@ -983,8 +983,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "pads-lines"
     ],
-    shortDescription: "Sintered rear pads for the Talaria Sting range — direct fit for OEM calipers.",
-    description: "Sintered rear pads for the Talaria Sting range — direct fit for OEM calipers.",
+    shortDescription: "Sintered rear pads for the Talaria Sting range — direct fit for OEM calipers. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Sintered rear pads for the Talaria Sting range — direct fit for OEM calipers. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-rear-brake-pads.webp"
     ],
@@ -1008,8 +1008,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "pads-lines"
     ],
-    shortDescription: "Complete front and rear sintered pad set for the E-Ride Pro SS / SR / S range.",
-    description: "Complete front and rear sintered pad set for the E-Ride Pro SS / SR / S range.",
+    shortDescription: "Complete front and rear sintered pad set for the E-Ride Pro SS / SR / S range. Backed by our 3-Month Warranty. Ships Australia-wide from Sydney.",
+    description: "Complete front and rear sintered pad set for the E-Ride Pro SS / SR / S range. Backed by our 3-Month Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/e-ride-pro-brake-pads-front-plus-rear-set.webp"
     ],
@@ -1034,8 +1034,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "oversized-rotors"
     ],
-    shortDescription: "Oversized 203mm front rotor for the Sur-Ron Light Bee X — more leverage and better heat management.",
-    description: "Oversized 203mm front rotor for the Sur-Ron Light Bee X — more leverage and better heat management.",
+    shortDescription: "Oversized 203mm front rotor for the Sur-Ron Light Bee X — more leverage and better heat management. Backed by our 1-Year Australian Warranty.",
+    description: "Oversized 203mm front rotor for the Sur-Ron Light Bee X — more leverage and better heat management. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/sur-ron-front-brake-rotor-203mm.webp"
     ],
@@ -1060,8 +1060,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "oversized-rotors"
     ],
-    shortDescription: "Stainless 180mm rear rotor for the Sur-Ron Light Bee X, direct replacement for the OEM disc.",
-    description: "Stainless 180mm rear rotor for the Sur-Ron Light Bee X, direct replacement for the OEM disc.",
+    shortDescription: "Stainless 180mm rear rotor for the Sur-Ron Light Bee X, direct replacement for the OEM disc. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Stainless 180mm rear rotor for the Sur-Ron Light Bee X, direct replacement for the OEM disc. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-rear-brake-rotor-180mm.webp"
     ],
@@ -1085,8 +1085,8 @@ export const PARTS_PRODUCTS = [
       "brakes-rotors",
       "oversized-rotors"
     ],
-    shortDescription: "Oversized 220mm x 3mm front rotor for the Talaria Sting range — huge stopping power for heavy trail use.",
-    description: "Oversized 220mm x 3mm front rotor for the Talaria Sting range — huge stopping power for heavy trail use.",
+    shortDescription: "Oversized 220mm x 3mm front rotor for the Talaria Sting range — huge stopping power for heavy trail use. Backed by our 1-Year Australian Warranty.",
+    description: "Oversized 220mm x 3mm front rotor for the Talaria Sting range — huge stopping power for heavy trail use. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/talaria-front-brake-rotor-220mm.webp"
     ],
@@ -1112,8 +1112,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "sprockets-chains"
     ],
-    shortDescription: "Heavy-duty 428 chain with front and rear sprockets for the Sur-Ron Light Bee X — refresh your whole drivetrain.",
-    description: "Heavy-duty 428 chain with front and rear sprockets for the Sur-Ron Light Bee X — refresh your whole drivetrain.",
+    shortDescription: "Heavy-duty 428 chain with front and rear sprockets for the Sur-Ron Light Bee X — refresh your whole drivetrain. Backed by our 3-Month Warranty.",
+    description: "Heavy-duty 428 chain with front and rear sprockets for the Sur-Ron Light Bee X — refresh your whole drivetrain. Backed by our 3-Month Warranty.",
     images: [
       "/images/products/sur-ron-chain-plus-sprocket-kit.webp"
     ],
@@ -1139,8 +1139,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "OEM-spec 19\" front rim for the Sur-Ron Light Bee X, laced-ready with rim tape.",
-    description: "OEM-spec 19\" front rim for the Sur-Ron Light Bee X, laced-ready with rim tape.",
+    shortDescription: "OEM-spec 19\" front rim for the Sur-Ron Light Bee X, laced-ready with rim tape. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "OEM-spec 19\" front rim for the Sur-Ron Light Bee X, laced-ready with rim tape. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-front-rim.webp"
     ],
@@ -1164,8 +1164,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "OEM-spec 16\" rear rim for the Sur-Ron Light Bee X with rim lock provision.",
-    description: "OEM-spec 16\" rear rim for the Sur-Ron Light Bee X with rim lock provision.",
+    shortDescription: "OEM-spec 16\" rear rim for the Sur-Ron Light Bee X with rim lock provision. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "OEM-spec 16\" rear rim for the Sur-Ron Light Bee X with rim lock provision. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/sur-ron-rear-rim.webp"
     ],
@@ -1189,8 +1189,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Aggressive 19\" front knobbly for the Sur-Ron Light Bee X — bites hard in loose dirt and sand.",
-    description: "Aggressive 19\" front knobbly for the Sur-Ron Light Bee X — bites hard in loose dirt and sand.",
+    shortDescription: "Aggressive 19\" front knobbly for the Sur-Ron Light Bee X — bites hard in loose dirt and sand. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Aggressive 19\" front knobbly for the Sur-Ron Light Bee X — bites hard in loose dirt and sand. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-lbx-front-tyre-19-knobbly.webp"
     ],
@@ -1214,8 +1214,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Deep-lug 16\" rear knobbly for maximum drive traction on the Sur-Ron Light Bee X.",
-    description: "Deep-lug 16\" rear knobbly for maximum drive traction on the Sur-Ron Light Bee X.",
+    shortDescription: "Deep-lug 16\" rear knobbly for maximum drive traction on the Sur-Ron Light Bee X. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Deep-lug 16\" rear knobbly for maximum drive traction on the Sur-Ron Light Bee X. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-lbx-rear-tyre-16-knobbly.webp"
     ],
@@ -1239,8 +1239,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "18\" rear knobbly option for LBX riders running a larger rear wheel conversion.",
-    description: "18\" rear knobbly option for LBX riders running a larger rear wheel conversion.",
+    shortDescription: "18\" rear knobbly option for LBX riders running a larger rear wheel conversion. Fits Sur-Ron LBX (18\" rear conversion). Backed by our 3-Month Warranty.",
+    description: "18\" rear knobbly option for LBX riders running a larger rear wheel conversion. Fits Sur-Ron LBX (18\" rear conversion). Backed by our 3-Month Warranty.",
     images: [
       "/images/products/sur-ron-lbx-rear-tyre-18-knobbly.webp"
     ],
@@ -1264,8 +1264,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Heavy-duty 16\" rear knobbly sized for the Sur-Ron Ultra Bee.",
-    description: "Heavy-duty 16\" rear knobbly sized for the Sur-Ron Ultra Bee.",
+    shortDescription: "Heavy-duty 16\" rear knobbly sized for the Sur-Ron Ultra Bee. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Heavy-duty 16\" rear knobbly sized for the Sur-Ron Ultra Bee. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-ultra-bee-rear-tyre-16.webp"
     ],
@@ -1289,8 +1289,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Complete front and rear wheel set for the Sur-Ron Light Bee X — alloy rims, sealed hubs and stainless spokes.",
-    description: "Complete front and rear wheel set for the Sur-Ron Light Bee X — alloy rims, sealed hubs and stainless spokes.",
+    shortDescription: "Complete front and rear wheel set for the Sur-Ron Light Bee X — alloy rims, sealed hubs and stainless spokes. Backed by our 1-Year Australian Warranty.",
+    description: "Complete front and rear wheel set for the Sur-Ron Light Bee X — alloy rims, sealed hubs and stainless spokes. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/sur-ron-wheel-set-upgrade-front-plus-rear.webp"
     ],
@@ -1315,8 +1315,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "19\" front knobbly matched to the Talaria Sting for confident front-end grip.",
-    description: "19\" front knobbly matched to the Talaria Sting for confident front-end grip.",
+    shortDescription: "19\" front knobbly matched to the Talaria Sting for confident front-end grip. Backed by our 3-Month Warranty. Ships Australia-wide from Sydney.",
+    description: "19\" front knobbly matched to the Talaria Sting for confident front-end grip. Backed by our 3-Month Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-sting-front-tyre-19.webp"
     ],
@@ -1340,8 +1340,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Deep-lug 16\" rear knobbly for the Talaria Sting range.",
-    description: "Deep-lug 16\" rear knobbly for the Talaria Sting range.",
+    shortDescription: "Deep-lug 16\" rear knobbly for the Talaria Sting range. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Deep-lug 16\" rear knobbly for the Talaria Sting range. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/talaria-sting-rear-tyre-16.webp"
     ],
@@ -1365,8 +1365,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "18\" rear knobbly for Talaria Sting riders running the taller rear wheel.",
-    description: "18\" rear knobbly for Talaria Sting riders running the taller rear wheel.",
+    shortDescription: "18\" rear knobbly for Talaria Sting riders running the taller rear wheel. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "18\" rear knobbly for Talaria Sting riders running the taller rear wheel. Backed by our 3-Month Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-sting-rear-tyre-18.webp"
     ],
@@ -1390,8 +1390,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Complete alloy front and rear wheel set for the Talaria Sting range with sealed bearings.",
-    description: "Complete alloy front and rear wheel set for the Talaria Sting range with sealed bearings.",
+    shortDescription: "Complete alloy front and rear wheel set for the Talaria Sting range with sealed bearings. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "Complete alloy front and rear wheel set for the Talaria Sting range with sealed bearings. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-wheel-set-upgrade-front-plus-rear.webp"
     ],
@@ -1416,8 +1416,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels.",
-    description: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels.",
+    shortDescription: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels. Dispatched Australia-wide from our Sydney depot.",
+    description: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/inner-tube-16.webp"
     ],
@@ -1441,8 +1441,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels.",
-    description: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels.",
+    shortDescription: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels. Stocked in Sydney, shipped Australia-wide.",
+    description: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/inner-tube-18-19.webp"
     ],
@@ -1465,8 +1465,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene.",
-    description: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene.",
+    shortDescription: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene. Ships Australia-wide from Sydney.",
+    description: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/sur-ron-front-fender.webp"
     ],
@@ -1489,8 +1489,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount.",
-    description: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount.",
+    shortDescription: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount. Dispatched Australia-wide from our Sydney depot.",
+    description: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-rear-fender.webp"
     ],
@@ -1513,8 +1513,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Protective frame and swingarm guard set to stop rock chips and boot scuffs on the Light Bee X.",
-    description: "Protective frame and swingarm guard set to stop rock chips and boot scuffs on the Light Bee X.",
+    shortDescription: "Protective frame and swingarm guard set to stop rock chips and boot scuffs on the Light Bee X. Fits Sur-Ron Light Bee X. Stocked in Sydney, shipped Australia-wide.",
+    description: "Protective frame and swingarm guard set to stop rock chips and boot scuffs on the Light Bee X. Fits Sur-Ron Light Bee X. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-frame-guard-set.webp"
     ],
@@ -1536,8 +1536,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "CNC alloy skid plate that shields the motor and lower frame of the Sur-Ron Light Bee X on rocky trails.",
-    description: "CNC alloy skid plate that shields the motor and lower frame of the Sur-Ron Light Bee X on rocky trails.",
+    shortDescription: "CNC alloy skid plate that shields the motor and lower frame of the Sur-Ron Light Bee X on rocky trails. Backed by our 1-Year Australian Warranty.",
+    description: "CNC alloy skid plate that shields the motor and lower frame of the Sur-Ron Light Bee X on rocky trails. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/sur-ron-skid-plate.webp"
     ],
@@ -1561,8 +1561,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting.",
-    description: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting.",
+    shortDescription: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting. Dispatched Australia-wide from our Sydney depot.",
+    description: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-number-plate.webp"
     ],
@@ -1584,8 +1584,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X.",
-    description: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X.",
+    shortDescription: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X. Fits 22mm bars. Stocked in Sydney, shipped Australia-wide.",
+    description: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X. Fits 22mm bars. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-grips.webp"
     ],
@@ -1607,8 +1607,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "OEM replacement seat for the Sur-Ron Light Bee X with grippy cover and moulded base.",
-    description: "OEM replacement seat for the Sur-Ron Light Bee X with grippy cover and moulded base.",
+    shortDescription: "OEM replacement seat for the Sur-Ron Light Bee X with grippy cover and moulded base. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "OEM replacement seat for the Sur-Ron Light Bee X with grippy cover and moulded base. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/sur-ron-seat.webp"
     ],
@@ -1631,8 +1631,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control.",
-    description: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control.",
+    shortDescription: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control. Dispatched Australia-wide from our Sydney depot.",
+    description: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-seat-cover.webp"
     ],
@@ -1654,8 +1654,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Full-coverage printed vinyl wrap kit for the Sur-Ron Light Bee X — protect the frame and personalise the look.",
-    description: "Full-coverage printed vinyl wrap kit for the Sur-Ron Light Bee X — protect the frame and personalise the look.",
+    shortDescription: "Full-coverage printed vinyl wrap kit for the Sur-Ron Light Bee X — protect the frame and personalise the look. Stocked in Sydney, shipped Australia-wide.",
+    description: "Full-coverage printed vinyl wrap kit for the Sur-Ron Light Bee X — protect the frame and personalise the look. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-lbx-custom-vinyl-wrap.webp"
     ],
@@ -1678,8 +1678,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate.",
-    description: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate.",
+    shortDescription: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate. Ships Australia-wide from Sydney.",
+    description: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/sur-ron-ultra-bee-graphics-kit.webp"
     ],
@@ -1701,8 +1701,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Factory-inspired graphics kit that gives the Sur-Ron Ultra Bee a Husqvarna-style race look.",
-    description: "Factory-inspired graphics kit that gives the Sur-Ron Ultra Bee a Husqvarna-style race look.",
+    shortDescription: "Factory-inspired graphics kit that gives the Sur-Ron Ultra Bee a Husqvarna-style race look. Dispatched Australia-wide from our Sydney depot.",
+    description: "Factory-inspired graphics kit that gives the Sur-Ron Ultra Bee a Husqvarna-style race look. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-ultra-bee-husqvarna-style-graphics.webp"
     ],
@@ -1724,8 +1724,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic.",
-    description: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic.",
+    shortDescription: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic. Stocked in Sydney, shipped Australia-wide.",
+    description: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-front-fender.webp"
     ],
@@ -1747,8 +1747,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Rear fender for the Talaria Sting range with number-plate provision.",
-    description: "Rear fender for the Talaria Sting range with number-plate provision.",
+    shortDescription: "Rear fender for the Talaria Sting range with number-plate provision. Ships Australia-wide from Sydney.",
+    description: "Rear fender for the Talaria Sting range with number-plate provision. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-rear-fender.webp"
     ],
@@ -1770,8 +1770,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Frame and swingarm protection set for the Talaria Sting range.",
-    description: "Frame and swingarm protection set for the Talaria Sting range.",
+    shortDescription: "Frame and swingarm protection set for the Talaria Sting range. Dispatched Australia-wide from our Sydney depot.",
+    description: "Frame and swingarm protection set for the Talaria Sting range. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/talaria-frame-guard-set.webp"
     ],
@@ -1793,8 +1793,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "MX-style front number plate for the Talaria Sting range.",
-    description: "MX-style front number plate for the Talaria Sting range.",
+    shortDescription: "MX-style front number plate for the Talaria Sting range. Stocked in Sydney, shipped Australia-wide.",
+    description: "MX-style front number plate for the Talaria Sting range. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-number-plate.webp"
     ],
@@ -1816,8 +1816,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat.",
-    description: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat.",
+    shortDescription: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat. Ships Australia-wide from Sydney.",
+    description: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-seat-cover.webp"
     ],
@@ -1839,8 +1839,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork.",
-    description: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork.",
+    shortDescription: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork. Dispatched Australia-wide from our Sydney depot.",
+    description: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/talaria-sting-mx4-graphics-kit.webp"
     ],
@@ -1862,8 +1862,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability.",
-    description: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability.",
+    shortDescription: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability. Stocked in Sydney, shipped Australia-wide.",
+    description: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-x3-graphics-kit.webp"
     ],
@@ -1885,8 +1885,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels.",
-    description: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels.",
+    shortDescription: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels. Ships Australia-wide from Sydney.",
+    description: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/stark-varg-ex-graphics-kit.webp"
     ],
@@ -1908,8 +1908,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate.",
-    description: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate.",
+    shortDescription: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate. Dispatched Australia-wide from our Sydney depot.",
+    description: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stark-varg-mx-graphics-kit.webp"
     ],
@@ -1931,8 +1931,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding.",
-    description: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding.",
+    shortDescription: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding. Stocked in Sydney, shipped Australia-wide.",
+    description: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stark-varg-sticker-set.webp"
     ],
@@ -1953,8 +1953,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike.",
-    description: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike.",
+    shortDescription: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike. Ships Australia-wide from Sydney.",
+    description: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/gasgas-mc-e-5-graphics-kit.webp"
     ],
@@ -1976,8 +1976,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut factory replica graphics kit for the KTM SX-E 5.",
-    description: "Pre-cut factory replica graphics kit for the KTM SX-E 5.",
+    shortDescription: "Pre-cut factory replica graphics kit for the KTM SX-E 5. Dispatched Australia-wide from our Sydney depot.",
+    description: "Pre-cut factory replica graphics kit for the KTM SX-E 5. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/ktm-sx-e-5-graphics-kit.webp"
     ],
@@ -1999,8 +1999,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE.",
-    description: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE.",
+    shortDescription: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE. Stocked in Sydney, shipped Australia-wide.",
+    description: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-12edrive-graphics-kit.webp"
     ],
@@ -2022,8 +2022,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Peel-and-stick graphics kit for the STACYC 16eDRIVE.",
-    description: "Peel-and-stick graphics kit for the STACYC 16eDRIVE.",
+    shortDescription: "Peel-and-stick graphics kit for the STACYC 16eDRIVE. Ships Australia-wide from Sydney.",
+    description: "Peel-and-stick graphics kit for the STACYC 16eDRIVE. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/stacyc-16edrive-graphics-kit.webp"
     ],
@@ -2045,8 +2045,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Bolt-on pedal kit required for L1e road-registration compliance on the Sur-Ron Light Bee.",
-    description: "Bolt-on pedal kit required for L1e road-registration compliance on the Sur-Ron Light Bee.",
+    shortDescription: "Bolt-on pedal kit required for L1e road-registration compliance on the Sur-Ron Light Bee. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Bolt-on pedal kit required for L1e road-registration compliance on the Sur-Ron Light Bee. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-pedal-kit-l1e-road-legal.webp"
     ],
@@ -2068,8 +2068,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pedal kit for Talaria L1e road-registration builds.",
-    description: "Pedal kit for Talaria L1e road-registration builds.",
+    shortDescription: "Pedal kit for Talaria L1e road-registration builds. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Pedal kit for Talaria L1e road-registration builds. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-pedal-kit.webp"
     ],
@@ -2091,8 +2091,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Bolt-on centre stand that lets you park and work on a Sur-Ron Light Bee X anywhere.",
-    description: "Bolt-on centre stand that lets you park and work on a Sur-Ron Light Bee X anywhere.",
+    shortDescription: "Bolt-on centre stand that lets you park and work on a Sur-Ron Light Bee X anywhere. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "Bolt-on centre stand that lets you park and work on a Sur-Ron Light Bee X anywhere. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/centre-stand-sur-ron-compatible.webp"
     ],
@@ -2114,8 +2114,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Universal rear paddock stand for chain, wheel and brake maintenance on e-dirt bikes.",
-    description: "Universal rear paddock stand for chain, wheel and brake maintenance on e-dirt bikes.",
+    shortDescription: "Universal rear paddock stand for chain, wheel and brake maintenance on e-dirt bikes. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
+    description: "Universal rear paddock stand for chain, wheel and brake maintenance on e-dirt bikes. Backed by our 1-Year Australian Warranty. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/paddock-rear-stand.webp"
     ],
@@ -2137,8 +2137,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Essential trailside tool kit covering every fastener on a modern electric dirt bike.",
-    description: "Essential trailside tool kit covering every fastener on a modern electric dirt bike.",
+    shortDescription: "Essential trailside tool kit covering every fastener on a modern electric dirt bike. Stocked in Sydney, shipped Australia-wide.",
+    description: "Essential trailside tool kit covering every fastener on a modern electric dirt bike. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/basic-tool-kit-hex-torx-spanners.webp"
     ],
@@ -2160,8 +2160,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Calibrated click torque wrench for safely fastening axle, disc and controller bolts.",
-    description: "Calibrated click torque wrench for safely fastening axle, disc and controller bolts.",
+    shortDescription: "Calibrated click torque wrench for safely fastening axle, disc and controller bolts. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
+    description: "Calibrated click torque wrench for safely fastening axle, disc and controller bolts. Backed by our 1-Year Australian Warranty. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/torque-wrench-1-4-and-3-8.webp"
     ],
@@ -2183,8 +2183,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes.",
-    description: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes.",
+    shortDescription: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes. Dispatched Australia-wide from our Sydney depot.",
+    description: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/puncture-repair-kit.webp"
     ],
@@ -2206,8 +2206,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Genuine STACYC display and work stand for the eDRIVE range.",
-    description: "Genuine STACYC display and work stand for the eDRIVE range.",
+    shortDescription: "Genuine STACYC display and work stand for the eDRIVE range. Stocked in Sydney, shipped Australia-wide.",
+    description: "Genuine STACYC display and work stand for the eDRIVE range. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-bike-stand.webp"
     ],
@@ -2230,8 +2230,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes.",
-    description: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes.",
+    shortDescription: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes. Ships Australia-wide from Sydney.",
+    description: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/stacyc-kickstand.webp"
     ],
@@ -2253,8 +2253,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes.",
-    description: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes.",
+    shortDescription: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes. Dispatched Australia-wide from our Sydney depot.",
+    description: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-foot-pegs.webp"
     ],
@@ -2276,8 +2276,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries.",
-    description: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries.",
+    shortDescription: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries. Stocked in Sydney, shipped Australia-wide.",
+    description: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-dewalt-20v-battery-adapter.webp"
     ],
@@ -2299,8 +2299,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries.",
-    description: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries.",
+    shortDescription: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries. Ships Australia-wide from Sydney.",
+    description: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/stacyc-makita-18v-battery-adapter.webp"
     ],
@@ -2322,8 +2322,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries.",
-    description: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries.",
+    shortDescription: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries. Dispatched Australia-wide from our Sydney depot.",
+    description: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-milwaukee-m18-battery-adapter.webp"
     ],
@@ -2345,8 +2345,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Frame-mounted holder to carry a spare STACYC battery on the bike.",
-    description: "Frame-mounted holder to carry a spare STACYC battery on the bike.",
+    shortDescription: "Frame-mounted holder to carry a spare STACYC battery on the bike. Stocked in Sydney, shipped Australia-wide.",
+    description: "Frame-mounted holder to carry a spare STACYC battery on the bike. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-spare-battery-mount-holder.webp"
     ],
@@ -2368,8 +2368,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "storage-transport"
     ],
-    shortDescription: "Folding aluminium loading ramp rated for e-moto weights — get bikes into a ute or trailer solo.",
-    description: "Folding aluminium loading ramp rated for e-moto weights — get bikes into a ute or trailer solo.",
+    shortDescription: "Folding aluminium loading ramp rated for e-moto weights — get bikes into a ute or trailer solo. Rated at Up to 200 kg. Backed by our 1-Year Australian Warranty.",
+    description: "Folding aluminium loading ramp rated for e-moto weights — get bikes into a ute or trailer solo. Rated at Up to 200 kg. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/aluminium-loading-ramp.webp"
     ],
@@ -2392,8 +2392,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "storage-transport"
     ],
-    shortDescription: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching.",
-    description: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching.",
+    shortDescription: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching. Dispatched Australia-wide from our Sydney depot.",
+    description: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/dirt-bike-tie-down-straps-set-of-4.webp"
     ],
@@ -2415,8 +2415,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "storage-transport"
     ],
-    shortDescription: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy.",
-    description: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy.",
+    shortDescription: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy. Stocked in Sydney, shipped Australia-wide.",
+    description: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/fireproof-lipo-battery-storage-bag.webp"
     ],
@@ -2438,8 +2438,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "storage-transport"
     ],
-    shortDescription: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights.",
-    description: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights.",
+    shortDescription: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights. Ships Australia-wide from Sydney.",
+    description: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/padded-transport-bag-stacyc-size.webp"
     ],
@@ -2461,8 +2461,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "maintenance-chemicals"
     ],
-    shortDescription: "Dielectric protectant spray that seals connectors and terminals against dust and moisture.",
-    description: "Dielectric protectant spray that seals connectors and terminals against dust and moisture.",
+    shortDescription: "Dielectric protectant spray that seals connectors and terminals against dust and moisture. Dispatched Australia-wide from our Sydney depot.",
+    description: "Dielectric protectant spray that seals connectors and terminals against dust and moisture. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/battery-terminal-protector-spray.webp"
     ],
@@ -2483,8 +2483,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "maintenance-chemicals"
     ],
-    shortDescription: "Electrical-safe foaming wash that lifts mud without soaking sensitive components.",
-    description: "Electrical-safe foaming wash that lifts mud without soaking sensitive components.",
+    shortDescription: "Electrical-safe foaming wash that lifts mud without soaking sensitive components. Stocked in Sydney, shipped Australia-wide.",
+    description: "Electrical-safe foaming wash that lifts mud without soaking sensitive components. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/bike-wash-and-cleaner-spray.webp"
     ],
@@ -2506,8 +2506,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "maintenance-chemicals"
     ],
-    shortDescription: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain.",
-    description: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain.",
+    shortDescription: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain. Ships Australia-wide from Sydney.",
+    description: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/chain-and-drivetrain-lube.webp"
     ],
@@ -2528,8 +2528,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "CE Level 1 hard-shell chest and back protector with adjustable harness for adult trail and MX riders.",
-    description: "CE Level 1 hard-shell chest and back protector with adjustable harness for adult trail and MX riders.",
+    shortDescription: "CE Level 1 hard-shell chest and back protector with adjustable harness for adult trail and MX riders. Backed by our 1-Year Australian Warranty.",
+    description: "CE Level 1 hard-shell chest and back protector with adjustable harness for adult trail and MX riders. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/chest-protector-adult.webp"
     ],
@@ -2562,8 +2562,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Lightweight CE Level 1 chest and back protector sized for young riders on youth e-dirt bikes.",
-    description: "Lightweight CE Level 1 chest and back protector sized for young riders on youth e-dirt bikes.",
+    shortDescription: "Lightweight CE Level 1 chest and back protector sized for young riders on youth e-dirt bikes. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Lightweight CE Level 1 chest and back protector sized for young riders on youth e-dirt bikes. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/chest-protector-youth.webp"
     ],
@@ -2595,8 +2595,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding.",
-    description: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding.",
+    shortDescription: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding. Ships Australia-wide from Sydney.",
+    description: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/elbow-pads.webp"
     ],
@@ -2627,8 +2627,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Hinged knee and shin guards with hard shell coverage down to the boot top.",
-    description: "Hinged knee and shin guards with hard shell coverage down to the boot top.",
+    shortDescription: "Hinged knee and shin guards with hard shell coverage down to the boot top. Dispatched Australia-wide from our Sydney depot.",
+    description: "Hinged knee and shin guards with hard shell coverage down to the boot top. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/knee-and-shin-guards.webp"
     ],
@@ -2660,8 +2660,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Adjustable off-road neck brace that limits hyperextension in a crash — sizes for youth and adult.",
-    description: "Adjustable off-road neck brace that limits hyperextension in a crash — sizes for youth and adult.",
+    shortDescription: "Adjustable off-road neck brace that limits hyperextension in a crash — sizes for youth and adult. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    description: "Adjustable off-road neck brace that limits hyperextension in a crash — sizes for youth and adult. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/neck-brace.webp"
     ],
@@ -2693,8 +2693,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet.",
-    description: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet.",
+    shortDescription: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet. Ships Australia-wide from Sydney.",
+    description: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/neck-gaiter-balaclava.webp"
     ],
@@ -2719,8 +2719,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Low-profile 2L hydration pack with tool and spares storage for long outback rides.",
-    description: "Low-profile 2L hydration pack with tool and spares storage for long outback rides.",
+    shortDescription: "Low-profile 2L hydration pack with tool and spares storage for long outback rides. Rated at 2 L bladder. Backed by our 1-Year Australian Warranty.",
+    description: "Low-profile 2L hydration pack with tool and spares storage for long outback rides. Rated at 2 L bladder. Backed by our 1-Year Australian Warranty.",
     images: [
       "/images/products/hydration-pack-2l.webp"
     ],
