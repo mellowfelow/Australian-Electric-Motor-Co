@@ -1340,8 +1340,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Deep-lug 16\" rear knobbly for the Talaria Sting range. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
-    description: "Deep-lug 16\" rear knobbly for the Talaria Sting range. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Deep-lug 16\" rear knobbly for the Talaria Sting range. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Deep-lug 16\" rear knobbly for the Talaria Sting range. Backed by our 3-Month Warranty. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-sting-rear-tyre-16.webp"
     ],
@@ -1416,8 +1416,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels. Dispatched Australia-wide from our Sydney depot.",
-    description: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Heavy-duty 16\" inner tube for Sur-Ron and Talaria rear wheels. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/inner-tube-16.webp"
     ],
@@ -1441,8 +1441,8 @@ export const PARTS_PRODUCTS = [
       "wheels-drivetrain",
       "wheel-sets-tyres"
     ],
-    shortDescription: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels. Stocked in Sydney, shipped Australia-wide.",
-    description: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Heavy-duty inner tube sized for 18\" and 19\" e-moto wheels. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/inner-tube-18-19.webp"
     ],
@@ -1465,8 +1465,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene. Ships Australia-wide from Sydney.",
-    description: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene. Ships Australia-wide from Sydney.",
+    shortDescription: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "OEM-style front fender for the Sur-Ron Light Bee X in tough impact-grade polypropylene. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-front-fender.webp"
     ],
@@ -1489,8 +1489,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount. Dispatched Australia-wide from our Sydney depot.",
-    description: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Direct-fit rear fender for the Sur-Ron Light Bee X with number-plate mount. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-rear-fender.webp"
     ],
@@ -1561,8 +1561,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting. Dispatched Australia-wide from our Sydney depot.",
-    description: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
+    description: "Front number plate for the Sur-Ron Light Bee X — MX styling and rego-plate mounting. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/sur-ron-number-plate.webp"
     ],
@@ -1584,8 +1584,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X. Fits 22mm bars. Stocked in Sydney, shipped Australia-wide.",
-    description: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X. Fits 22mm bars. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X. Fits 22mm bars. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "Soft-compound MX grips with waffle pattern for the Sur-Ron Light Bee X. Fits 22mm bars. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-grips.webp"
     ],
@@ -1631,8 +1631,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control. Dispatched Australia-wide from our Sydney depot.",
-    description: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Gripper seat cover to refresh a worn Sur-Ron Light Bee X seat and improve rider control. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/sur-ron-seat-cover.webp"
     ],
@@ -1678,8 +1678,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate. Ships Australia-wide from Sydney.",
-    description: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate. Ships Australia-wide from Sydney.",
+    shortDescription: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Pre-cut graphics kit for the Sur-Ron Ultra Bee with heavy 21mil laminate. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/sur-ron-ultra-bee-graphics-kit.webp"
     ],
@@ -1724,8 +1724,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic. Stocked in Sydney, shipped Australia-wide.",
-    description: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "Direct-fit front fender for the Talaria Sting range in impact-grade plastic. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/talaria-front-fender.webp"
     ],
@@ -1747,8 +1747,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Rear fender for the Talaria Sting range with number-plate provision. Ships Australia-wide from Sydney.",
-    description: "Rear fender for the Talaria Sting range with number-plate provision. Ships Australia-wide from Sydney.",
+    shortDescription: "Rear fender for the Talaria Sting range with number-plate provision. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
+    description: "Rear fender for the Talaria Sting range with number-plate provision. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-rear-fender.webp"
     ],
@@ -1770,8 +1770,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Frame and swingarm protection set for the Talaria Sting range. Dispatched Australia-wide from our Sydney depot.",
-    description: "Frame and swingarm protection set for the Talaria Sting range. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Frame and swingarm protection set for the Talaria Sting range. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
+    description: "Frame and swingarm protection set for the Talaria Sting range. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-frame-guard-set.webp"
     ],
@@ -1793,8 +1793,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "MX-style front number plate for the Talaria Sting range. Stocked in Sydney, shipped Australia-wide.",
-    description: "MX-style front number plate for the Talaria Sting range. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "MX-style front number plate for the Talaria Sting range. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "MX-style front number plate for the Talaria Sting range. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/talaria-number-plate.webp"
     ],
@@ -1816,8 +1816,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat. Ships Australia-wide from Sydney.",
-    description: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat. Ships Australia-wide from Sydney.",
+    shortDescription: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
+    description: "Gripper seat cover for the Talaria Sting range to restore control on a worn seat. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/talaria-seat-cover.webp"
     ],
@@ -1839,8 +1839,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork. Dispatched Australia-wide from our Sydney depot.",
-    description: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
+    description: "Pre-cut 21mil graphics kit tailored to the Talaria Sting R / MX4 bodywork. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-sting-mx4-graphics-kit.webp"
     ],
@@ -1862,8 +1862,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability. Stocked in Sydney, shipped Australia-wide.",
-    description: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "Full graphics kit for the Talaria X3 with heavy laminate for trail durability. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/talaria-x3-graphics-kit.webp"
     ],
@@ -1885,8 +1885,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels. Ships Australia-wide from Sydney.",
-    description: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels. Ships Australia-wide from Sydney.",
+    shortDescription: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
+    description: "Custom graphics kit for the Stark VARG EX Enduro with pre-cut panels. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stark-varg-ex-graphics-kit.webp"
     ],
@@ -1908,8 +1908,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate. Dispatched Australia-wide from our Sydney depot.",
-    description: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
+    description: "Pre-cut graphics kit for the Stark VARG MX with heavy laminate. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/stark-varg-mx-graphics-kit.webp"
     ],
@@ -1931,8 +1931,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding. Stocked in Sydney, shipped Australia-wide.",
-    description: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "Die-cut sticker set for helmets, trailers and toolboxes — official Stark VARG branding. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stark-varg-sticker-set.webp"
     ],
@@ -1953,8 +1953,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike. Ships Australia-wide from Sydney.",
-    description: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike. Ships Australia-wide from Sydney.",
+    shortDescription: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
+    description: "Factory-style graphics kit for the GASGAS MC-E 5 youth motocross bike. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/gasgas-mc-e-5-graphics-kit.webp"
     ],
@@ -1976,8 +1976,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pre-cut factory replica graphics kit for the KTM SX-E 5. Dispatched Australia-wide from our Sydney depot.",
-    description: "Pre-cut factory replica graphics kit for the KTM SX-E 5. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Pre-cut factory replica graphics kit for the KTM SX-E 5. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
+    description: "Pre-cut factory replica graphics kit for the KTM SX-E 5. Dispatched Australia-wide from our Sydney depot. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/ktm-sx-e-5-graphics-kit.webp"
     ],
@@ -1999,8 +1999,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE. Stocked in Sydney, shipped Australia-wide.",
-    description: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "Peel-and-stick graphics kit to freshen up a STACYC 12eDRIVE. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-12edrive-graphics-kit.webp"
     ],
@@ -2022,8 +2022,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Peel-and-stick graphics kit for the STACYC 16eDRIVE. Ships Australia-wide from Sydney.",
-    description: "Peel-and-stick graphics kit for the STACYC 16eDRIVE. Ships Australia-wide from Sydney.",
+    shortDescription: "Peel-and-stick graphics kit for the STACYC 16eDRIVE. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "Peel-and-stick graphics kit for the STACYC 16eDRIVE. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-16edrive-graphics-kit.webp"
     ],
@@ -2068,8 +2068,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "graphics-plastics-kits"
     ],
-    shortDescription: "Pedal kit for Talaria L1e road-registration builds. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
-    description: "Pedal kit for Talaria L1e road-registration builds. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Pedal kit for Talaria L1e road-registration builds. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
+    description: "Pedal kit for Talaria L1e road-registration builds. Backed by our 1-Year Australian Warranty. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/talaria-pedal-kit.webp"
     ],
@@ -2137,8 +2137,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Essential trailside tool kit covering every fastener on a modern electric dirt bike. Stocked in Sydney, shipped Australia-wide.",
-    description: "Essential trailside tool kit covering every fastener on a modern electric dirt bike. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Essential trailside tool kit covering every fastener on a modern electric dirt bike. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
+    description: "Essential trailside tool kit covering every fastener on a modern electric dirt bike. Stocked in Sydney, shipped Australia-wide. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/basic-tool-kit-hex-torx-spanners.webp"
     ],
@@ -2183,8 +2183,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes. Dispatched Australia-wide from our Sydney depot.",
-    description: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Tube patch and tyre plug kit with CO2 inflator for trailside fixes. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/puncture-repair-kit.webp"
     ],
@@ -2206,8 +2206,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Genuine STACYC display and work stand for the eDRIVE range. Stocked in Sydney, shipped Australia-wide.",
-    description: "Genuine STACYC display and work stand for the eDRIVE range. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Genuine STACYC display and work stand for the eDRIVE range. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Genuine STACYC display and work stand for the eDRIVE range. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-bike-stand.webp"
     ],
@@ -2230,8 +2230,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes. Ships Australia-wide from Sydney.",
-    description: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes. Ships Australia-wide from Sydney.",
+    shortDescription: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Bolt-on kickstand for STACYC 16 / 18 / 20eDRIVE bikes. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-kickstand.webp"
     ],
@@ -2253,8 +2253,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes. Dispatched Australia-wide from our Sydney depot.",
-    description: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Replacement grippy foot pegs for STACYC eDRIVE youth bikes. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-foot-pegs.webp"
     ],
@@ -2276,8 +2276,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries. Stocked in Sydney, shipped Australia-wide.",
-    description: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
+    description: "Adapter that lets STACYC eDRIVE bikes run on DeWalt 20V power-tool batteries. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/stacyc-dewalt-20v-battery-adapter.webp"
     ],
@@ -2299,8 +2299,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries. Ships Australia-wide from Sydney.",
-    description: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries. Ships Australia-wide from Sydney.",
+    shortDescription: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Adapter to power STACYC eDRIVE bikes from Makita 18V LXT batteries. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/stacyc-makita-18v-battery-adapter.webp"
     ],
@@ -2322,8 +2322,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries. Dispatched Australia-wide from our Sydney depot.",
-    description: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Adapter to run STACYC eDRIVE bikes on Milwaukee M18 batteries. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/stacyc-milwaukee-m18-battery-adapter.webp"
     ],
@@ -2345,8 +2345,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "bike-stands-tools"
     ],
-    shortDescription: "Frame-mounted holder to carry a spare STACYC battery on the bike. Stocked in Sydney, shipped Australia-wide.",
-    description: "Frame-mounted holder to carry a spare STACYC battery on the bike. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Frame-mounted holder to carry a spare STACYC battery on the bike. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
+    description: "Frame-mounted holder to carry a spare STACYC battery on the bike. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/stacyc-spare-battery-mount-holder.webp"
     ],
@@ -2392,8 +2392,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "storage-transport"
     ],
-    shortDescription: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching. Dispatched Australia-wide from our Sydney depot.",
-    description: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Four heavy-duty ratchet tie-downs with soft loops to transport bikes without scratching. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/dirt-bike-tie-down-straps-set-of-4.webp"
     ],
@@ -2415,8 +2415,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "storage-transport"
     ],
-    shortDescription: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy. Stocked in Sydney, shipped Australia-wide.",
-    description: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
+    description: "Fire-resistant charging and storage bag for spare lithium packs — a sensible safety buy. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/fireproof-lipo-battery-storage-bag.webp"
     ],
@@ -2438,8 +2438,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "storage-transport"
     ],
-    shortDescription: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights. Ships Australia-wide from Sydney.",
-    description: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights. Ships Australia-wide from Sydney.",
+    shortDescription: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Padded carry bag sized for STACYC eDRIVE bikes — protects paint in the car and on flights. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/padded-transport-bag-stacyc-size.webp"
     ],
@@ -2461,8 +2461,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "maintenance-chemicals"
     ],
-    shortDescription: "Dielectric protectant spray that seals connectors and terminals against dust and moisture. Dispatched Australia-wide from our Sydney depot.",
-    description: "Dielectric protectant spray that seals connectors and terminals against dust and moisture. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Dielectric protectant spray that seals connectors and terminals against dust and moisture. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Dielectric protectant spray that seals connectors and terminals against dust and moisture. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/battery-terminal-protector-spray.webp"
     ],
@@ -2483,8 +2483,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "maintenance-chemicals"
     ],
-    shortDescription: "Electrical-safe foaming wash that lifts mud without soaking sensitive components. Stocked in Sydney, shipped Australia-wide.",
-    description: "Electrical-safe foaming wash that lifts mud without soaking sensitive components. Stocked in Sydney, shipped Australia-wide.",
+    shortDescription: "Electrical-safe foaming wash that lifts mud without soaking sensitive components. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
+    description: "Electrical-safe foaming wash that lifts mud without soaking sensitive components. Stocked in Sydney, shipped Australia-wide. Ships Australia-wide from Sydney.",
     images: [
       "/images/products/bike-wash-and-cleaner-spray.webp"
     ],
@@ -2506,8 +2506,8 @@ export const PARTS_PRODUCTS = [
       "accessories",
       "maintenance-chemicals"
     ],
-    shortDescription: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain. Ships Australia-wide from Sydney.",
-    description: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain. Ships Australia-wide from Sydney.",
+    shortDescription: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Dry-film chain lube that resists fling-off and keeps outback dust from grinding the drivetrain. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/chain-and-drivetrain-lube.webp"
     ],
@@ -2595,8 +2595,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding. Ships Australia-wide from Sydney.",
-    description: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding. Ships Australia-wide from Sydney.",
+    shortDescription: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Slip-on elbow guards with hard cap and ventilated sleeve for trail and enduro riding. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/elbow-pads.webp"
     ],
@@ -2627,8 +2627,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Hinged knee and shin guards with hard shell coverage down to the boot top. Dispatched Australia-wide from our Sydney depot.",
-    description: "Hinged knee and shin guards with hard shell coverage down to the boot top. Dispatched Australia-wide from our Sydney depot.",
+    shortDescription: "Hinged knee and shin guards with hard shell coverage down to the boot top. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
+    description: "Hinged knee and shin guards with hard shell coverage down to the boot top. Dispatched Australia-wide from our Sydney depot. Stocked in Sydney, shipped Australia-wide.",
     images: [
       "/images/products/knee-and-shin-guards.webp"
     ],
@@ -2693,8 +2693,8 @@ export const PARTS_PRODUCTS = [
       "riding-gear",
       "body-armour"
     ],
-    shortDescription: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet. Ships Australia-wide from Sydney.",
-    description: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet. Ships Australia-wide from Sydney.",
+    shortDescription: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
+    description: "Moisture-wicking balaclava and neck gaiter for dust protection and sun cover under a helmet. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.",
     images: [
       "/images/products/neck-gaiter-balaclava.webp"
     ],

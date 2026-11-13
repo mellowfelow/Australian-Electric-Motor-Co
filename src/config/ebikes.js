@@ -738,7 +738,7 @@ export const EBIKES_DATA = [
       Weight: '29 kg',
     },
     images: ['/images/products/husqvarna-ee-2.webp'],
-    shortDescription: 'Youth mini electric dirt bike with WP hydraulic fork, disc brakes, and quick-swap 36V power system. Ships Australia-wide from Sydney.',
+    shortDescription: 'Youth mini electric dirt bike with WP hydraulic fork, disc brakes, and quick-swap 36V power system. Ships Australia-wide from Sydney. Dispatched Australia-wide from our Sydney depot.',
     description: 'Bridging the gap between balance bikes and 50cc competitors, the EE 2 gives young riders full throttle confidence in a lightweight chassis.',
   },
   {
@@ -1688,7 +1688,7 @@ export const EBIKES_DATA = [
       Weight: '8.5 kg',
     },
     images: ['/images/products/thumpstar-tse-12l.webp'],
-    shortDescription: '12-inch entry-level electric balance bike with low standover height for toddlers aged 3-5. 18V system. Ships Australia-wide from Sydney.',
+    shortDescription: '12-inch entry-level electric balance bike with low standover height for toddlers aged 3-5. 18V system. Ships Australia-wide from Sydney. Stocked in Sydney, shipped Australia-wide.',
     description: 'The Thumpstar TSE 12L introduces toddlers to powered two-wheel balance safely and smoothly.',
   },
   {
