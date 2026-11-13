@@ -7,16 +7,16 @@ import { CategoryProductGrid } from '@/app/shop/[category]/CategoryProductGrid';
 import { CATEGORIES, PRODUCTS, SITE, getShopCategoryNav } from '@/config/site';
 
 export const metadata: Metadata = {
-  title: 'Shop Electric Dirt Bikes, Parts & Gear | AEMC',
+  title: 'Electric Dirt Bikes For Sale | Parts & Gear | AEMC',
   description:
-    "Browse Australia's electric dirt bike range plus batteries, chargers, upgrades, riding gear and accessories — filter by brand, price and road-legal status.",
+    'Electric dirt bikes for sale across Australia, plus batteries, chargers, upgrades, riding gear and accessories — filter by brand, price and road-legal status.',
   alternates: { canonical: `https://${SITE.domain}/shop/` },
   openGraph: {
     type: 'website',
     siteName: SITE.name,
-    title: 'Shop Electric Dirt Bikes, Parts & Gear | AEMC',
+    title: 'Electric Dirt Bikes For Sale | Parts & Gear | AEMC',
     description:
-      'The complete Australian Electric Motor Co catalogue — bikes, batteries, chargers, upgrades, riding gear and accessories.',
+      'The complete Australian Electric Motor Co catalogue — electric dirt bikes for sale, batteries, chargers, upgrades, riding gear and accessories.',
     url: `https://${SITE.domain}/shop/`,
     images: [{ url: '/images/home/hero-2.webp' }],
   },
@@ -70,12 +70,12 @@ export default function ShopPage() {
             The Complete Catalogue
           </span>
           <h1 className="text-3xl font-black uppercase tracking-tight text-white sm:text-5xl">
-            Electric Dirt Bikes, Parts &amp; Gear
+            Electric Dirt Bikes For Sale
           </h1>
           <p className="text-base leading-relaxed text-stone-300">
-            Every electric dirt bike, battery, charger, upgrade and piece of riding gear we stock, in
-            one place. Jump to a department below, or use the filters to narrow by category, brand,
-            price and road-legal status.
+            Every electric dirt bike we have for sale in Australia, plus batteries, chargers,
+            upgrades and riding gear, in one place. Jump to a department below, or use the filters to
+            narrow by category, brand, price and road-legal status.
           </p>
           <div className="pt-1 font-mono text-xs text-emerald-400">
             • {PRODUCTS.length} products • NSW dispatch • GST inclusive

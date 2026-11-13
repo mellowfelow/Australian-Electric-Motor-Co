@@ -38,7 +38,35 @@ Both fixes were verified with a full automated marker scan across every matched 
 a complete manual read-through of every category/brand/product row in the regenerated docs — not a
 spot-check.
 
-**Primary site keyword:** electric dirt bike → Homepage (`/`) + `/shop/`
+**Primary site keyword:** electric dirt bike (v8100/kd14 — corrected, see Cannibalisation Fix note
+below; previously logged as "constructed — no direct seed data" because the original Sept pull never
+captured this exact bare phrase) → Homepage (`/`) only. `/shop/` now has its own distinct primary —
+see its row in the Categories table and the note below.
+
+**Cannibalisation fix (2026-11-13):** Homepage and `/shop/` previously shared the identical primary
+keyword "electric dirt bike," which splits ranking signal between two live URLs for the same head
+term — a hard violation of the engine's own one-cluster-one-URL rule, just not caught at the category/
+brand-table level because the homepage isn't a table row. Resolved with a fresh Semrush pull (AU
+database, refreshed per-session as required before any keyword choice):
+- **Homepage** keeps `electric dirt bike` (v8100/kd14, Informational) — the broad entity-level term,
+  now with real volume data instead of "constructed."
+- **`/shop/`** retargeted to `electric dirt bikes for sale` (v110/kd12, **Transactional** — the only
+  pure-transactional phrase in the refreshed pull, and the correct intent for a catalogue/listing
+  page per Phase 2's intent→page-type mapping), secondaries `electric dirt bike australia` (v1300/
+  kd19, Commercial), `electric dirt bike motorcycle` (v1600/kd16), `electric dirtbike` (v1000/kd8).
+- Also held from this pull, **not assigned to any page** (Phase 1 Rule 5 — competitor brand /
+  off-niche EV motorcycle contamination): `ryvid anthem electric motorcycle` (v170), `livewire one
+  electric motorcycle` (v90), `livewire electric motorcycle` (v70), `hiboy dk1 electric dirt bike`
+  (v90), `leki electric motorbike` (v170) — named competitor models or road-going EV motorcycles we
+  don't stock; comparison-content use only, never a product/category page.
+- Two SERP-artifact duplicates folded into their clean form rather than treated as distinct queries:
+  `dirt bikes electric dirt bikes` (v4400) → `electric bikes dirt`; `electric dirt bike electric`
+  (v390) → `electric dirt bike`.
+
+A known, still-open cannibalisation pair from the same scan: `/shop/body-armour/` and
+`/shop/body-armour-protection/` share an identical primary + all 4 secondaries ("wrist brace" etc.)
+despite covering different product types (hard armour vs. jersey/pants combos) — flagged for its own
+keyword pass, not fixed in this round.
 
 ---
 
