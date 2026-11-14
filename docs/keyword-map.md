@@ -48,8 +48,15 @@ keyword "electric dirt bike," which splits ranking signal between two live URLs 
 term — a hard violation of the engine's own one-cluster-one-URL rule, just not caught at the category/
 brand-table level because the homepage isn't a table row. Resolved with a fresh Semrush pull (AU
 database, refreshed per-session as required before any keyword choice):
-- **Homepage** keeps `electric dirt bike` (v8100/kd14, Informational) — the broad entity-level term,
-  now with real volume data instead of "constructed."
+- **Homepage** keeps `electric dirt bike` (v8100/kd14, Informational) as primary — the broad
+  entity-level term, now with real volume data instead of "constructed." Secondaries (added
+  2026-11-14, each individually checked against every category/brand primary+secondary and every
+  blog primary sitewide to avoid creating a new overlap): `electric bikes dirt` (v4400/kd17,
+  Commercial), `e bikes dirt` (v2400/kd6, Informational/Commercial), `ebike dirt bikes` (v720/kd12,
+  Commercial), `e dirt bike` (v1000/kd13, Informational/Commercial). Note: the plural `electric dirt
+  bikes` (v1300/kd13) was considered and rejected for this slot — it's the exact primary of
+  `/shop/electric-dirt-bikes/`, which would have recreated the same cannibalisation this whole pass
+  is fixing.
 - **`/shop/`** retargeted to `electric dirt bikes for sale` (v110/kd12, **Transactional** — the only
   pure-transactional phrase in the refreshed pull, and the correct intent for a catalogue/listing
   page per Phase 2's intent→page-type mapping), secondaries `electric dirt bike australia` (v1300/

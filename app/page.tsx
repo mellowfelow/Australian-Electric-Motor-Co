@@ -22,7 +22,7 @@ import { buildFaqSchema } from '@/lib/faq';
 export const metadata = {
   title: 'Electric Dirt Bikes Australia | Australian Electric Motor Co',
   description:
-    'Electric dirt bikes for adults, kids and farms: motocross, enduro and road-legal models, 2-year warranty, fast AU crate delivery, 10% off with crypto.',
+    'Electric dirt bike & e-dirt bike range for adults, kids & farms: motocross, enduro, road-legal, 2-year warranty, fast AU crate delivery, 10% off with crypto.',
   alternates: {
     canonical: `https://${SITE.domain}/`,
   },
@@ -31,7 +31,7 @@ export const metadata = {
     siteName: 'Australian Electric Motor Co',
     title: 'Electric Dirt Bikes Australia | Australian Electric Motor Co',
     description:
-      'Electric dirt bikes for adults, kids and farms: motocross, enduro and road-legal models, 2-year warranty, fast AU crate delivery, 10% off with crypto.',
+      'Electric dirt bike & e-dirt bike range for adults, kids & farms: motocross, enduro, road-legal, 2-year warranty, fast AU crate delivery, 10% off with crypto.',
     url: `https://${SITE.domain}/`,
     images: [{ url: '/images/home/hero-1.webp' }],
   },
@@ -39,7 +39,7 @@ export const metadata = {
     card: 'summary_large_image',
     title: 'Electric Dirt Bikes Australia | Australian Electric Motor Co',
     description:
-      'Electric dirt bikes for adults, kids and farms: motocross, enduro and road-legal models, 2-year warranty, fast AU crate delivery, 10% off with crypto.',
+      'Electric dirt bike & e-dirt bike range for adults, kids & farms: motocross, enduro, road-legal, 2-year warranty, fast AU crate delivery, 10% off with crypto.',
     images: ['/images/home/hero-1.webp'],
   },
   other: {
