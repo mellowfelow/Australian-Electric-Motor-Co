@@ -70,10 +70,36 @@ database, refreshed per-session as required before any keyword choice):
   `dirt bikes electric dirt bikes` (v4400) → `electric bikes dirt`; `electric dirt bike electric`
   (v390) → `electric dirt bike`.
 
-A known, still-open cannibalisation pair from the same scan: `/shop/body-armour/` and
-`/shop/body-armour-protection/` share an identical primary + all 4 secondaries ("wrist brace" etc.)
-despite covering different product types (hard armour vs. jersey/pants combos) — flagged for its own
-keyword pass, not fixed in this round.
+**Cannibalisation fix #2 — `/shop/body-armour/` ↔ `/shop/body-armour-protection/` (2026-11-14):**
+These shared an identical primary ("wrist brace") and all 4 secondaries, but the root issue was
+deeper than keyword assignment — `body-armour-protection`'s title/description ("MX Body Armour &
+Protection Gear... CE-certified chest roost deflectors") never matched what the page actually sells:
+2 products, both jersey-and-pants combos, zero armour. It had inherited the parent's copy-pasted
+keyword set wholesale rather than being given its own.
+- **Renamed** the category (`name` in `src/config/site.js` + the `CATEGORY_SEO_MAP` title/description
+  override in `app/shop/[category]/page.tsx`) from "Body Armour & Protection" to **"MX Jersey &
+  Pants Combos"** — accurate to its real 2-product catalogue, and structurally resolves the
+  cannibalisation since it no longer targets "wrist brace" at all.
+- Fixed a stale `count: 5` → `count: 2` on the same category entry while in there (real product
+  count, unrelated to the keyword fix but found in passing).
+- **Primary keyword: `motocross jersey and pants`** — ⚠️ **no measured volume available.** Semrush
+  API units were exhausted when this fix was made (2026-11-14) and the engine's own refresh-before-
+  choosing rule couldn't be honoured for this pair. This is a qualitative placeholder, not
+  data-backed — **re-pull AU volume/KD for this term (and alternates like "mx jersey pants combo",
+  "motocross riding apparel") as soon as Semrush access is restored**, and confirm it's still the
+  best choice.
+- `/shop/body-armour/` keeps `wrist brace` (v6600/kd15) and its existing secondaries unchanged — it's
+  the page that actually sells chest protectors, neck braces and wrist/knee braces.
+
+**Cannibalisation fix #3 — `/shop/riding-gear/` ↔ `/blog/riding-gear-checklist-new-owners/`
+(2026-11-14):** The hub's `CATEGORY_SEO_MAP` override literally used "Dirt Bike Riding Gear" in both
+title and description — an exact match to the blog post's real, data-backed primary (`dirt bike
+riding gear`, v110 cluster). Rather than touch the blog's backed keyword, retargeted the **hub**
+(which only ever had a "constructed, no direct seed data" primary anyway) to **"motocross riding
+gear"** — same semantic territory, no longer an exact string match. Title/description updated in
+`app/shop/[category]/page.tsx`; secondaries (`wrist brace`, `dirt bike helmets`, etc. — real child
+data, pooled per the standard hub pattern) left unchanged. ⚠️ Also unverified pending Semrush access
+— re-pull before treating "motocross riding gear" as final.
 
 ---
 
@@ -165,10 +191,10 @@ keyword pass, not fixed in this round.
 
 | Page | Primary | Secondary (up to 5) | Data quality |
 |---|---|---|---|
-| [Riding Gear & Protection](/shop/riding-gear/) | dirt bike riding gear (constructed — no direct seed data) | wrist brace (v6600/kd15); brace for the wrist (v3600/kd18); dirt bike helmets (v1600/kd16); dirt bike helmet (v1300/kd12); motocross boots (v590/kd10) | hub — primary constructed (pooled from children, see note), secondaries are real child data |
+| [Riding Gear & Protection](/shop/riding-gear/) | motocross riding gear (constructed — no direct seed data; retargeted 2026-11-14, was "dirt bike riding gear" — exact match to the blog post of the same cluster) | wrist brace (v6600/kd15); brace for the wrist (v3600/kd18); dirt bike helmets (v1600/kd16); dirt bike helmet (v1300/kd12); motocross boots (v590/kd10) | hub — primary constructed (pooled from children, see note), secondaries are real child data |
 | [Full-Face MX & E-Moto Helmets](/shop/helmets/) | dirt bike helmets (v1600/kd16) | dirt bike helmet (v1300/kd12); dirtbike helmet (v1000/kd13); dirtbike helmets (v720/kd22); helmet bike (v590/kd19); helmets bike (v480/kd15) | data-backed |
 | [Body Armour & Chest Protectors](/shop/body-armour/) | wrist brace (v6600/kd15) | brace for the wrist (v3600/kd18); wrist brace wrist brace (v3600/kd18); neck gaiter (v2900/kd15); balaclavas (v1900/kd15); support brace for wrist (v1300/kd8) | data-backed |
-| [Body Armour & Protection](/shop/body-armour-protection/) | wrist brace (v6600/kd15) | brace for the wrist (v3600/kd18); wrist brace wrist brace (v3600/kd18); neck gaiter (v2900/kd15); balaclavas (v1900/kd15); support brace for wrist (v1300/kd8) | inherited from /shop/body-armour/ (near-duplicate sub-type, no independent data) |
+| [MX Jersey & Pants Combos](/shop/body-armour-protection/) | motocross jersey and pants (no measured volume — ⚠️ Semrush units exhausted 2026-11-14, re-pull before treating as final) | mx jersey pants combo; motocross riding apparel | renamed + retargeted 2026-11-14, was "Body Armour & Protection" sharing wrist-brace keywords with /shop/body-armour/ despite selling only jersey/pants sets — see Cannibalisation fix #2 |
 | [Gloves & Off-Road Goggles](/shop/gloves-goggles/) | dirt bike goggles (v480/kd9) | dirt bike gloves (v390/kd15); motocross goggles (v320/kd11); goggles for dirt bike (v210/kd8); dirtbike goggles (v170/kd8); dirtbike gloves (v170/kd15) | data-backed |
 | [Enduro & Motocross Boots](/shop/boots/) | motocross boots (v590/kd10) | dirt bike boots (v480/kd14); dirtbike boots (v320/kd10); dirt bike motorcycle boots (v260/kd10); dirt motorbike boots (v210/kd10); womens dirt bike boots (v110/kd7) | data-backed |
 
@@ -476,8 +502,8 @@ per-SKU search volume.
 | Off-Road Goggles — Youth / Kids | /shop/gloves-goggles/off-road-goggles-youth-kids/ | Off-Road Goggles — Youth / Kids (branded long-tail, no measured volume) | dirt bike goggles (v480/kd9); dirt bike gloves (v390/kd15); motocross goggles (v320/kd11); dirt bike goggles; mx gloves | inherited from category/brand + template |
 | Off-Road Boots — Adult | /shop/boots/off-road-boots-adult/ | Off-Road Boots — Adult (branded long-tail, no measured volume) | motocross boots (v590/kd10); dirt bike boots (v480/kd14); dirtbike boots (v320/kd10); dirt bike boots; motocross boots | inherited from category/brand + template |
 | Off-Road Boots — Youth | /shop/boots/off-road-boots-youth/ | Off-Road Boots — Youth (branded long-tail, no measured volume) | motocross boots (v590/kd10); dirt bike boots (v480/kd14); dirtbike boots (v320/kd10); dirt bike boots; motocross boots | inherited from category/brand + template |
-| MX Jersey & Pants Combo — Adult | /shop/body-armour-protection/mx-jersey-and-pants-combo-adult/ | MX Jersey & Pants Combo — Adult (branded long-tail, no measured volume) | dirt bike body armour; chest protector | template only — thin data |
-| MX Jersey & Pants Combo — Youth / Kids | /shop/body-armour-protection/mx-jersey-and-pants-combo-youth-kids/ | MX Jersey & Pants Combo — Youth / Kids (branded long-tail, no measured volume) | dirt bike body armour; chest protector | template only — thin data |
+| MX Jersey & Pants Combo — Adult | /shop/body-armour-protection/mx-jersey-and-pants-combo-adult/ | MX Jersey & Pants Combo — Adult (branded long-tail, no measured volume) | motocross jersey and pants; mx riding apparel | template only — thin data |
+| MX Jersey & Pants Combo — Youth / Kids | /shop/body-armour-protection/mx-jersey-and-pants-combo-youth-kids/ | MX Jersey & Pants Combo — Youth / Kids (branded long-tail, no measured volume) | motocross jersey and pants; mx riding apparel | template only — thin data |
 | Torp TC1000 Plug-and-Play Controller Kit | /shop/aftermarket-controllers/torp-tc1000-aftermarket-controller/ | Torp TC1000 Plug-and-Play Controller Kit (branded long-tail, no measured volume) | 60 amp controller ebike (v20/kd0); 60 amp ebike controller (v20/kd0); 60 volt controller (v20/kd6); dirt bike controller upgrade; dirt bike throttle | inherited from category/brand + template |
 | FastAce 48mm Inverted Hydraulic Motocross Forks | /shop/front-forks/fastace-inverted-forks-48mm/ | FastAce 48mm Inverted Hydraulic Motocross Forks (branded long-tail, no measured volume) | mx fork brace (v10/kd8); dirt bike suspension upgrade | inherited from category/brand + template |
 | Magura MT7 Pro Quad-Piston Hydraulic Brake Set | /shop/complete-brake-sets/magura-mt7-pro-quad-piston-brake-set/ | Magura MT7 Pro Quad-Piston Hydraulic Brake Set (branded long-tail, no measured volume) | dirt bike brake upgrade; brake pads dirt bike | template only — thin data |

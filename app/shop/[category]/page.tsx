@@ -180,9 +180,9 @@ const CATEGORY_SEO_MAP: Record<
       'Dirt bike belt drive conversion kits — carbon-corded Gates GT4 belts engineered for silent stealth trail riding and paddock cruising, no chain clatter.',
   },
   'riding-gear': {
-    title: 'Dirt Bike Riding Gear & Protection | AEMC',
+    title: 'Motocross Riding Gear & Protection | AEMC',
     description:
-      'Dirt bike riding gear certified to AS/NZS 1698 and ECE 22.06 — full-face MX helmets, CE-rated body armour, off-road goggles and enduro boots.',
+      'Motocross riding gear certified to AS/NZS 1698 and ECE 22.06 — full-face MX helmets, CE-rated body armour, off-road goggles and enduro boots.',
   },
   helmets: {
     title: 'Dirt Bike Helmets | Full-Face MX | AEMC',
@@ -195,9 +195,9 @@ const CATEGORY_SEO_MAP: Record<
       'Motocross body armour — CE Level 1 & 2 chest protectors, neck braces and wrist braces for full upper-body protection on every electric dirt bike ride.',
   },
   'body-armour-protection': {
-    title: 'MX Body Armour & Protection Gear | AEMC',
+    title: 'MX Jersey & Pants Combos | AEMC',
     description:
-      'MX body armour and protection gear — CE-certified chest roost deflectors, protection jackets and joint protection systems for motocross and enduro riding.',
+      'Matched motocross jersey and pants sets in vented, moisture-wicking fabric with ripstop panels and an adjustable waist, for adult and youth riders.',
   },
   'gloves-goggles': {
     title: 'Dirt Bike Goggles & Gloves | AEMC',

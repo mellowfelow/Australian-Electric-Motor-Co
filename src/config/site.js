@@ -631,12 +631,12 @@ export const CATEGORIES = [
   },
   {
     slug: 'body-armour-protection',
-    name: 'Body Armour & Protection',
+    name: 'MX Jersey & Pants Combos',
     section: 'riding-gear',
     parent: 'riding-gear',
-    description: 'CE Level 1 & Level 2 certified hard-shell chest roost deflectors, full upper body protection jackets, and joint protection systems.',
+    description: 'Matched motocross jersey and pants sets in vented, moisture-wicking fabric with ripstop panels and an adjustable waist, sized for adult and youth riders.',
     image: '/images/products/mx-jersey-and-pants-combo-adult.webp',
-    count: 5,
+    count: 2,
   },
   {
     slug: 'gloves-goggles',
